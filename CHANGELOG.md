@@ -4,6 +4,15 @@ Todos los cambios importantes de este proyecto se registran en este archivo.
 
 El formato toma como referencia Keep a Changelog y utiliza fechas en estilo ISO `YYYY-MM-DD`.
 
+## [0.6.0] - 2026-06-13
+
+### Changed
+
+- reescritura amplia de `README.md` y `GUIA-JAZZ.md` para darles mas profundidad pedagogica y mejor navegacion
+- ampliacion fuerte de `CRONOLOGIA-JAZZ.md` y de la carpeta `HISTORIA-DEL-JAZZ/`
+- desarrollo mucho mas detallado de las carpetas `ESTILOS/`, `INTERPRETES/` y `APRENDER-JAZZ-OYENDO-ALBUMES/`
+- expansion de `PLAYLISTS-JAZZ.md` con objetivos de escucha, discos puente y rutas de uso
+
 ## [0.5.0] - 2026-06-13
 
 ### Added

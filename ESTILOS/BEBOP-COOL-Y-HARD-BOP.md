@@ -1,15 +1,27 @@
 # Bebop, cool y hard bop
 
-## 1. Bebop: el jazz moderno despega
+## 1. Por que esta zona del jazz es tan importante
 
-En los anos 40 el jazz cambia de escala. Deja de ser solo musica de baile y se convierte en un lenguaje de alta velocidad, mayor complejidad armonica y fuerte virtuosismo.
+Aqui se encuentra gran parte del nucleo del jazz moderno. Muchos oyentes empiezan por discos de Miles Davis, Bill Evans o Art Blakey sin saber que detras de ellos hay una gran reorganizacion del lenguaje que arranca en los anos 40.
+
+## 2. Bebop: el estallido de la modernidad
+
+El bebop nace como una intensificacion del swing y a la vez como una ruptura con sus limites comerciales y bailables.
 
 ### Rasgos principales
 
+- small combos
 - tempos rapidos
-- frases largas y angulosas
-- armonias densas
-- foco en el small combo
+- armonias mas complejas
+- lineas melodicas angulosas
+- protagonismo extremo del improvisador
+
+### Que escuchar en el bebop
+
+- frases que parecen no detenerse
+- cambios armonicos rapidos
+- bateria mas conversacional
+- sensacion de exigencia y riesgo
 
 ### Artistas para empezar
 
@@ -17,22 +29,42 @@ En los anos 40 el jazz cambia de escala. Deja de ser solo musica de baile y se c
 - Dizzy Gillespie
 - Thelonious Monk
 - Bud Powell
+- Max Roach
 
-### Escucha recomendada
+### Piezas recomendadas
 
 - Charlie Parker - "Ornithology"
 - Dizzy Gillespie - "A Night in Tunisia"
 - Thelonious Monk - "'Round Midnight"
+- Bud Powell - "Un Poco Loco"
 
-## 2. Cool jazz: color, espacio y control
+## 3. Que aporta cada gran nombre del bebop
 
-El cool jazz no es una version "suave" del bebop sin mas. Busca otro tipo de sonido: mas aire, mas timbre, mas equilibrio en la articulacion.
+### Charlie Parker
+
+Lleva el saxo alto a una densidad de invencion y fluidez enorme. Es una escuela completa de fraseo.
+
+### Dizzy Gillespie
+
+Empuja la trompeta hacia una energia virtuosistica muy marcada y ayuda a fijar el vocabulario del estilo.
+
+### Thelonious Monk
+
+No representa una ortodoxia, sino una desviacion genial dentro del mismo proceso. Sus silencios y choques armonicos ensanchan el lenguaje.
+
+### Bud Powell
+
+Traduce el discurso bebop al piano con una claridad decisiva para generaciones posteriores.
+
+## 4. Cool jazz: aire, espacio y timbre
+
+El cool jazz no es la negacion del bebop, sino una respuesta distinta a la misma modernidad. Busca menos saturacion y mas respiracion.
 
 ### Rasgos principales
 
-- frases relajadas
-- cuidado por el color y el arreglo
-- menos agresividad ritmica
+- fraseo menos agresivo
+- color timbrico mas trabajado
+- arreglos elegantes
 - atmosfera introspectiva
 
 ### Artistas para empezar
@@ -40,24 +72,36 @@ El cool jazz no es una version "suave" del bebop sin mas. Busca otro tipo de son
 - Miles Davis
 - Chet Baker
 - Gerry Mulligan
+- Lennie Tristano
 - Dave Brubeck
 
-### Escucha recomendada
+### Piezas recomendadas
 
 - Miles Davis - "Boplicity"
+- Gerry Mulligan - "Line for Lyons"
 - Chet Baker - "My Funny Valentine"
 - Dave Brubeck Quartet - "Take Five"
 
-## 3. Hard bop: regreso al blues y al fuego
+## 5. Como escuchar el cool jazz
 
-El hard bop retoma la sofisticacion del bebop, pero vuelve a enfatizar el blues, el gospel y una sensacion mas fisica del groove.
+No lo escuches solo como "jazz suave". Intenta notar:
+
+- el trabajo del color
+- la manera en que el silencio pesa
+- el cuidado de la articulacion
+- la elegancia del arreglo
+
+## 6. Hard bop: regreso al blues, al gospel y al pulso fisico
+
+El hard bop recoge la sofisticacion del bebop, pero vuelve a afirmar con fuerza el blues, la iglesia, la calle y el groove.
 
 ### Rasgos principales
 
-- riffs mas directos
-- pulso mas terrenal
-- frases con mas peso bluesero
-- energia de club y ciudad
+- riffs potentes
+- energia de small combo
+- swing robusto
+- influencia del blues y del gospel
+- sensacion de ciudad y club
 
 ### Artistas para empezar
 
@@ -65,30 +109,55 @@ El hard bop retoma la sofisticacion del bebop, pero vuelve a enfatizar el blues,
 - Horace Silver
 - Sonny Rollins
 - Lee Morgan
+- Hank Mobley
 
-### Escucha recomendada
+### Piezas recomendadas
 
 - Art Blakey and the Jazz Messengers - "Moanin'"
 - Horace Silver - "Song for My Father"
 - Lee Morgan - "The Sidewinder"
+- Sonny Rollins - "Blue 7"
 
-## 4. Albumes sugeridos
+## 7. Bebop, cool y hard bop: comparacion rapida
+
+### Si todo parece correr hacia delante con tension y filo
+
+Probablemente estas en territorio bebop.
+
+### Si el sonido respira, parece mas aireado y la elegancia del timbre pesa mucho
+
+Probablemente estas en territorio cool.
+
+### Si el groove, el blues y la energia terrenal dominan
+
+Probablemente estas en hard bop.
+
+## 8. Albumes esenciales de esta familia
 
 - Charlie Parker - *The Complete Savoy and Dial Master Takes*
 - Miles Davis - *Birth of the Cool*
 - Sonny Rollins - *Saxophone Colossus*
 - Art Blakey and the Jazz Messengers - *Moanin'*
+- Horace Silver - *Song for My Father*
 
-## 5. Como distinguir estos estilos
+## 9. Ejercicio de escucha
 
-### Si todo suena veloz y punzante
+Compara estas tres piezas:
 
-Probablemente estas oyendo bebop.
+1. Charlie Parker - "Ornithology"
+2. Miles Davis - "Boplicity"
+3. Art Blakey and the Jazz Messengers - "Moanin'"
 
-### Si el sonido parece mas aireado y elegante
+Preguntate:
 
-Probablemente estas oyendo cool jazz.
+- donde se siente mas peso del arreglo
+- donde manda mas el filo del solista
+- donde el blues resulta mas evidente
 
-### Si sientes mas groove, blues y empuje ritmico
+## 10. Una confusion frecuente
 
-Probablemente estas oyendo hard bop.
+A veces se presenta el cool como refinado y el hard bop como mas "primitivo". Esa oposicion es torpe. Ambos son sofisticados, solo que priorizan cosas distintas: uno el color y la contencion, el otro el groove y la temperatura expresiva.
+
+## 11. Siguiente paso
+
+Cuando esta zona te resulte clara, entra en [MODAL-FREE-FUSION-Y-CONTEMPORANEO.md](./MODAL-FREE-FUSION-Y-CONTEMPORANEO.md). Ahi veras como el jazz empieza a expandir su nocion de forma y de sonido.

@@ -1,82 +1,134 @@
 # Trompeta y saxo
 
+## Por que empezar por estos instrumentos
+
+Para muchos oyentes, trompeta y saxo son las voces mas inmediatas del jazz. No porque sean mas importantes que la base ritmica o el piano, sino porque suelen llevar con claridad la melodia y el solo principal. Seguirlos ayuda a entrenar el oido.
+
 ## Trompeta
 
 ### Louis Armstrong
 
-Figura decisiva del jazz temprano. Su fraseo, su timing y su capacidad para convertir el solo en centro expresivo cambiaron la historia del genero.
+Es una de las figuras mas decisivas de toda la historia del jazz. Su sonido, su swing y su capacidad para convertir el solo en relato transforman la musica desde sus primeras etapas.
 
 - album sugerido: *The Best of the Hot Five and Hot Seven Recordings*
 - tema clave: "West End Blues"
+- si te interesa: escucha tambien "Potato Head Blues"
 
 ### Dizzy Gillespie
 
-Uno de los arquitectos del bebop. Su trompeta combina virtuosismo, humor, tension ritmica y una enorme energia.
+Uno de los grandes arquitectos del bebop. Su trompeta condensa velocidad, humor, audacia armonica y energia.
 
 - album sugerido: *Groovin' High*
 - tema clave: "A Night in Tunisia"
+- si te interesa: sigue con "Groovin' High"
 
 ### Miles Davis
 
-Transformo el jazz varias veces sin dejar de sonar personal. Paso por cool, modal y fusion con una economia expresiva inconfundible.
+Es menos una sola estetica que varias transformaciones del jazz en una sola trayectoria. Pasa por cool, modal y fusion sin perder una voz reconocible.
 
 - album sugerido: *Kind of Blue*
 - tema clave: "So What"
+- si te interesa: sigue con *Birth of the Cool* y *Bitches Brew*
 
 ### Clifford Brown
 
-Modelo de claridad tecnica, lirismo y empuje bop. Su legado es inmenso pese a su carrera breve.
+Representa una sintesis extraordinaria de lirismo, claridad tecnica y empuje bop. Su carrera fue breve, pero su influencia es inmensa.
 
 - album sugerido: *Study in Brown*
 - tema clave: "Joy Spring"
+- si te interesa: escucha tambien "Daahoud"
 
 ### Chet Baker
 
-Trompetista y cantante de tono intimo, elegante y fragil. Es una puerta de entrada muy accesible para quien busca lirismo.
+Su trompeta y su voz comparten una misma fragilidad expresiva. Es una gran puerta de entrada para quienes buscan intimidad y lirismo.
 
 - album sugerido: *Chet Baker Sings*
 - tema clave: "My Funny Valentine"
+- si te interesa: prueba "I Fall in Love Too Easily"
+
+### Lee Morgan
+
+Figura clave del hard bop. Une brillo tecnico, memorabilidad melodica y gran sentido del groove.
+
+- album sugerido: *The Sidewinder*
+- tema clave: "The Sidewinder"
+- si te interesa: sigue con *Search for the New Land*
+
+## Como comparar trompetistas
+
+- Armstrong cambia la historia del fraseo
+- Dizzy concentra el lenguaje bebop
+- Miles convierte la economia en estilo
+- Clifford Brown equilibra lirismo y tecnica
+- Chet Baker vuelve central la intimidad
+- Lee Morgan muestra la temperatura del hard bop
 
 ## Saxo
 
 ### Charlie Parker
 
-El gran nombre del bebop. Su fraseo veloz, su invencion melodica y su libertad armonica redefinieron el saxo moderno.
+Es uno de los nombres mas decisivos del jazz moderno. Su forma de improvisar reescribe el instrumento y buena parte del lenguaje del bebop.
 
 - album sugerido: *The Complete Savoy and Dial Master Takes*
 - tema clave: "Ornithology"
+- si te interesa: escucha tambien "Parker's Mood"
 
 ### John Coltrane
 
-Uno de los musicos mas influyentes del siglo XX. Su obra va del hard bop al modal, del lirismo a la busqueda espiritual.
+Su trayectoria va de la exigencia hard bop al modal, del rigor tecnico a la busqueda espiritual. Es una de las figuras centrales del siglo XX.
 
 - album sugerido: *A Love Supreme*
 - tema clave: "Acknowledgement"
+- si te interesa: sigue con *My Favorite Things* y *Crescent*
 
 ### Sonny Rollins
 
-Maestro del desarrollo tematico. Escucharlo es entender como un improvisador puede construir un discurso con sentido narrativo.
+Maestro del desarrollo tematico. En vez de acumular virtuosismo vacio, construye un discurso que parece pensar en voz alta.
 
 - album sugerido: *Saxophone Colossus*
 - tema clave: "St. Thomas"
+- si te interesa: escucha "Blue 7"
 
 ### Lester Young
 
-Su sonido relajado y su fraseo ligero anticipan una parte importante del cool jazz. Es clave para entender otra forma de swing.
+Su fraseo ligero y su sonido relajado abren una linea distinta dentro del swing. Es central para entender parte del cool jazz posterior.
 
 - album sugerido: *The President Plays with the Oscar Peterson Trio*
 - tema clave: "These Foolish Things"
+- si te interesa: escucha tambien su trabajo con Count Basie
 
 ### Wayne Shorter
 
-Compositor central del post-bop y la fusion. Su escritura es misteriosa, eliptica y profundamente moderna.
+Compositor central del post-bop y de la fusion. Su musica tiene misterio, economia y una logica narrativa muy singular.
 
 - album sugerido: *Speak No Evil*
 - tema clave: "Footprints"
+- si te interesa: sigue con *JuJu*
 
-## Como comparar estos interpretes
+### Coleman Hawkins
 
-- Armstrong y Parker muestran dos revoluciones distintas del fraseo
-- Miles y Chet ayudan a entender la economia expresiva
-- Coltrane y Shorter abren la puerta a un jazz mas abstracto
-- Rollins y Lester Young sirven para entrenar escucha del tiempo y del desarrollo
+Figura esencial para entender la afirmacion del saxo tenor en el jazz. Su sonido robusto y su dominio armonico influyen en generaciones enteras.
+
+- album sugerido: *The Hawk Flies High*
+- tema clave: "Body and Soul"
+- si te interesa: comparalo con Lester Young
+
+## Como comparar saxofonistas
+
+- Parker y Coltrane representan dos cimas muy distintas de intensidad moderna
+- Rollins aporta construccion tematica y humor
+- Lester Young muestra ligereza y fraseo flotante
+- Wayne Shorter trabaja con misterio y composicion
+- Coleman Hawkins ofrece densidad y peso historico
+
+## Escucha comparada sugerida
+
+Haz este ejercicio:
+
+1. Charlie Parker - "Ornithology"
+2. Lester Young - "These Foolish Things"
+3. Sonny Rollins - "St. Thomas"
+4. John Coltrane - "Acknowledgement"
+5. Wayne Shorter - "Footprints"
+
+Despues intenta describir con palabras muy simples el sonido de cada uno.

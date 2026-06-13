@@ -6,7 +6,7 @@ Esta bitacora registra el estado del proyecto, sus decisiones editoriales y los 
 
 ## Objetivo general
 
-Construir una guia introductoria sobre la musica jazz en formato Markdown, legible en GitHub y facil de ampliar con nuevas secciones, rutas de escucha y recursos didacticos.
+Construir una guia amplia sobre la musica jazz en formato Markdown, legible en GitHub y facil de ampliar con nuevas secciones, rutas de escucha y recursos didacticos.
 
 ## Alcance actual
 
@@ -44,15 +44,16 @@ En su estado presente, el proyecto cubre:
 - se crearon las carpetas `ESTILOS/`, `INTERPRETES/` y `APRENDER-JAZZ-OYENDO-ALBUMES/`
 - se poblo cada carpeta con documentos base para orientar el crecimiento tematico
 - se creo la carpeta `HISTORIA-DEL-JAZZ/` con una estructura inicial por etapas historicas
+- se reescribieron y ampliaron en profundidad la guia central, la cronologia, las playlists y las carpetas tematicas
 
 ## Pendientes prioritarios
 
-- incorporar una seccion de vocal jazz
 - ampliar la cobertura de jazz latino, fusion y escena contemporanea
 - preparar una version mas orientada a uso docente
 - desarrollar perfiles de artistas y albumes esenciales
 - crear rutas cruzadas entre estilos, artistas y albumes
 - profundizar la carpeta de historia con mas contexto social y geografico
+- sumar referencias entre playlists, discos y artistas en cada documento
 
 ## Ideas de ampliacion
 
@@ -74,4 +75,4 @@ En su estado presente, el proyecto cubre:
 
 ## Proximo hito sugerido
 
-El siguiente hito natural es profundizar el contenido dentro de las cuatro carpetas tematicas y conectarlas mediante rutas de lectura y escucha todavia mas claras.
+El siguiente hito natural es seguir profundizando cada carpeta con secciones mas especializadas y mejorar los cruces internos entre historia, estilos, interpretes, playlists y albumes.

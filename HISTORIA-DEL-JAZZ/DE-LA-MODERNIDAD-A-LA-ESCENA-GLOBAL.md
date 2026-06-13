@@ -1,31 +1,54 @@
 # De la modernidad a la escena global
 
-## 1. Multiplicacion de caminos
+## 1. Despues del bebop no hay una sola direccion
 
-Despues del bebop, el jazz deja de avanzar por una sola via dominante. A partir de los anos 50 conviven muchas ramas al mismo tiempo.
+Uno de los errores mas frecuentes al estudiar la historia del jazz es imaginar que cada etapa sustituye limpiamente a la anterior. Despues del bebop, eso deja de funcionar todavia mas. Desde los anos 50 en adelante, el jazz se ramifica.
 
 ## 2. Cool jazz y hard bop
 
-El cool jazz explora un sonido mas relajado, aireado y timbricamente refinado. El hard bop, en cambio, vuelve a cargar la mano en el blues, el gospel y el groove urbano.
+En un mismo periodo conviven respuestas muy diferentes a la modernidad del bebop.
 
-### Escuchas recomendadas
+### Cool jazz
 
-- Miles Davis - "Boplicity"
-- Chet Baker - "My Funny Valentine"
-- Art Blakey and the Jazz Messengers - "Moanin'"
-- Horace Silver - "Song for My Father"
+Busca un sonido mas aireado, mas controlado y a veces mas contemplativo. El color y el arreglo ganan relevancia.
 
-## 3. Modal y espiritualidad
+### Hard bop
 
-El jazz modal abre espacio para desarrollos mas largos y menos dependientes del cambio armonico constante. En torno a esta apertura aparecen algunas de las obras mas influyentes de Miles Davis y John Coltrane.
+Recupera el peso del blues, del gospel y del groove. Suena mas terrenal, mas fisico y, en ocasiones, mas ligado a la experiencia urbana negra.
 
-### Idea clave
+### Lo importante
 
-La musica empieza a sostenerse mas en el color, el clima y la intensidad del desarrollo que en la velocidad de los acordes.
+No hay que verlos como opuestos absolutos, sino como dos acentos distintos dentro de una misma expansion del lenguaje.
 
-## 4. Free jazz y vanguardia
+## 3. Modal y post-bop
 
-En los anos 60 parte del jazz rompe con estructuras tradicionales y convierte la libertad formal en una busqueda central.
+El modal abre una nueva temporalidad. Al reducir la dependencia de cambios armonicos constantes, da mas espacio a la construccion de clima, color y desarrollo.
+
+### Por que importa
+
+- los solos pueden respirar mas
+- el grupo puede profundizar en una misma atmosfera
+- el oyente aprende a seguir el tiempo de otra manera
+
+Miles Davis y John Coltrane son centrales en esta transformacion, aunque no de la misma forma.
+
+## 4. Espiritualidad, intensidad y busqueda
+
+En parte del jazz de los anos 60 aparece una energia espiritual muy marcada. No se trata solo de religion en sentido estricto, sino de una voluntad de intensidad, trascendencia y expansion de la experiencia musical.
+
+En este punto, obras como *A Love Supreme* se vuelven referencia obligada.
+
+## 5. Free jazz y vanguardia
+
+El free jazz no es caos puro ni ausencia de criterio. Es una familia de busquedas que cuestiona la obligacion de mantener las estructuras previas.
+
+### Que puede cambiar
+
+- la forma
+- la jerarquia entre instrumentos
+- la armonia
+- el pulso
+- la relacion entre composicion e improvisacion
 
 ### Nombres clave
 
@@ -33,21 +56,42 @@ En los anos 60 parte del jazz rompe con estructuras tradicionales y convierte la
 - Cecil Taylor
 - Albert Ayler
 - Sun Ra
+- Archie Shepp
 
-## 5. Jazz latino, bossa nova y circulacion internacional
+## 6. Derechos civiles y contexto politico
 
-El jazz dialoga con ritmos afrocubanos y con la musica brasilena, ampliando su vocabulario ritmico y su presencia internacional.
+La historia del jazz de los anos 60 no puede separarse del contexto politico. Muchos musicos viven la lucha por los derechos civiles, la afirmacion negra y los conflictos de su tiempo no como temas externos, sino como parte de la propia expresion musical.
+
+No toda la musica politicamente marcada suena igual, pero si comparte una sensacion de urgencia, dignidad y busqueda.
+
+## 7. Jazz latino y bossa nova
+
+El jazz tambien se transforma gracias a su dialogo con tradiciones afrocubanas y brasilenas. Esta apertura no es un detalle decorativo, sino un cambio profundo en la respiracion ritmica del genero.
 
 ### Nombres clave
 
 - Dizzy Gillespie
 - Chano Pozo
+- Machito
 - Antonio Carlos Jobim
 - Stan Getz
+- Joao Gilberto
 
-## 6. Fusion y electricidad
+### Lo importante
 
-En los anos 70 el jazz absorbe rock, funk, electricidad y nuevas tecnologias de estudio. Para algunos esto supone una apertura fecunda; para otros, una tension con la tradicion.
+El jazz demuestra aqui una enorme capacidad para absorber y respetar otros pulsos sin perder su identidad improvisatoria.
+
+## 8. Fusion y electricidad
+
+En los anos 70 el jazz se electrifica de forma mas visible. Se acerca al rock, al funk y a nuevas maneras de producir sonido en estudio.
+
+### Lo que trae esta fase
+
+- bajo electrico
+- teclados electricos
+- grooves largos
+- capas timbricas nuevas
+- otra relacion con el publico
 
 ### Nombres clave
 
@@ -55,19 +99,32 @@ En los anos 70 el jazz absorbe rock, funk, electricidad y nuevas tecnologias de 
 - Herbie Hancock
 - Weather Report
 - Return to Forever
+- Mahavishnu Orchestra
 
-## 7. De los anos 80 hasta hoy
+## 9. Tradicion e institucionalizacion
 
-Desde los anos 80 el jazz vive una doble dinamica:
+En los anos 80 y 90 convive el impulso innovador con una fuerte recuperacion del canon. El jazz entra de lleno en universidades, escuelas, festivales y circuitos institucionales.
 
-- recuperacion consciente de la tradicion
-- hibridacion con escenas contemporaneas
+### Consecuencias
 
-Ya no puede pensarse solo como una musica estadounidense. Es una red global de escenas, festivales, conservatorios, clubes y cruces con otros generos.
+- se consolida un repertorio clasico
+- se fortalece la ensenanza formal
+- el jazz gana prestigio patrimonial
+- algunas formas experimentales pierden centralidad mediaticamente, aunque no desaparecen
 
-## 8. Escena contemporanea
+## 10. El jazz como musica global
 
-Hoy conviven musicos de raiz clasica del jazz con artistas abiertos al hip hop, al neo soul, a la electronica y a escenas internacionales muy diversas.
+En las ultimas decadas, el jazz deja de leerse solo desde un eje nacional estadounidense. Existen escenas muy activas en Europa, America Latina, Japon, Reino Unido y muchos otros espacios.
+
+### Que cambia con esto
+
+- aparecen cruces con tradiciones locales
+- el canon se reinterpreta desde otras experiencias
+- el genero deja de depender de una sola capital simbolica
+
+## 11. Escena contemporanea
+
+El jazz actual es heterogeneo. Hay artistas que siguen trabajando desde el trio acustico clasico, otros que mezclan jazz con hip hop o neo soul, y otros que cruzan improvisacion libre, electronica y composicion contemporanea.
 
 ### Nombres clave
 
@@ -75,15 +132,18 @@ Hoy conviven musicos de raiz clasica del jazz con artistas abiertos al hip hop, 
 - Robert Glasper
 - Kamasi Washington
 - Brad Mehldau
+- Mary Halvorson
+- Nubya Garcia
 
-## 9. Escuchas recomendadas
+## 12. Escuchas recomendadas
 
 - Miles Davis - "So What"
 - John Coltrane - "Acknowledgement"
 - Ornette Coleman - "Lonely Woman"
 - Herbie Hancock - "Chameleon"
+- Stan Getz and Joao Gilberto - "The Girl from Ipanema"
 - Robert Glasper Experiment - "Afro Blue"
 
-## 10. Idea final
+## 13. Cierre
 
-La historia reciente del jazz no es la de un centro unico, sino la de una expansion permanente. El genero sobrevive precisamente porque puede cambiar sin perder del todo su identidad.
+La historia reciente del jazz no puede contarse como la simple supervivencia de una tradicion cerrada. Se entiende mejor como un proceso de reinvencion constante. El genero permanece vivo porque cada generacion decide de nuevo que conservar, que discutir y que transformar.

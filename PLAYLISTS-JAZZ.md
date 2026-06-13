@@ -2,18 +2,32 @@
 
 ## Introduccion
 
-Este documento propone rutas de escucha en forma de playlists tematicas. La idea es que cada seleccion sirva para descubrir un color distinto del jazz sin necesidad de conocer teoria musical.
+Este documento propone rutas de escucha pensadas para formar el oido. No son listas arbitrarias: cada playlist intenta construir una experiencia concreta. Algunas sirven para entrar en el jazz sin miedo; otras para sentir el groove, entender la historia, entrar en la voz o abrirse a zonas mas desafiantes.
 
 ## Como usar estas playlists
 
-- escucha una lista completa antes de saltar a otra
-- si una pieza te impacta, busca el album completo
-- vuelve a oir las mismas canciones varios dias despues
-- compara versiones distintas de un mismo standard cuando aparezca
+### Regla 1: no saltes demasiado rapido
+
+Escucha la misma playlist varias veces antes de pasar a otra. El jazz suele crecer con la repeticion.
+
+### Regla 2: no te obsesiones con "entender"
+
+Empieza por notar sensaciones:
+
+- calor o frialdad del sonido
+- claridad o densidad
+- tension o descanso
+- impulso al baile o a la contemplacion
+
+### Regla 3: usa las playlists como puertas, no como destino final
+
+Si una pieza te atrapa, busca el album completo o el artista en la carpeta [INTERPRETES/](./INTERPRETES/README.md).
 
 ## Playlist 1: primera puerta de entrada
 
-Pensada para quien nunca ha escuchado jazz de forma consciente.
+### Para que sirve
+
+Es la playlist mas amable para quien nunca ha escuchado jazz de forma consciente. Reune piezas con melodias claras, buen equilibrio entre accesibilidad y personalidad, y una variedad de timbres que ayudan a orientarse.
 
 1. Miles Davis - "So What"
 2. Dave Brubeck Quartet - "Take Five"
@@ -27,12 +41,20 @@ Pensada para quien nunca ha escuchado jazz de forma consciente.
 ### Que entrenar aqui
 
 - reconocer melodias claras
-- sentir el swing sin tension excesiva
-- distinguir voces, piano, saxo y trompeta
+- distinguir voz, piano, trompeta y saxo
+- sentir el swing sin saturacion
+
+### Album puente
+
+- *Kind of Blue*
+- *Time Out*
+- *Getz/Gilberto*
 
 ## Playlist 2: del swing al bebop
 
-Ideal para entender como el jazz pasa de musica de baile a lenguaje moderno.
+### Para que sirve
+
+Permite escuchar como el jazz pasa de la gran energia bailable del swing a la tension y sofisticacion del bebop.
 
 1. Count Basie Orchestra - "One O'Clock Jump"
 2. Benny Goodman - "Sing, Sing, Sing"
@@ -45,13 +67,20 @@ Ideal para entender como el jazz pasa de musica de baile a lenguaje moderno.
 
 ### Que entrenar aqui
 
-- notar el cambio de energia entre big band y small combo
+- notar el paso de big band a small combo
 - escuchar como el solo gana protagonismo
-- percibir armonias y frases mas tensas
+- oir el aumento de velocidad y complejidad
+
+### Album puente
+
+- *The Complete Savoy and Dial Master Takes*
+- *Brilliant Corners*
 
 ## Playlist 3: lirismo nocturno
 
-Para escuchar de noche, con calma y atencion al timbre.
+### Para que sirve
+
+Ideal para escuchar de noche, con calma, y entrenar el oido en matiz, respiracion y fraseo.
 
 1. Billie Holiday - "You Don't Know What Love Is"
 2. Chet Baker - "I Fall in Love Too Easily"
@@ -64,13 +93,21 @@ Para escuchar de noche, con calma y atencion al timbre.
 
 ### Que entrenar aqui
 
-- escuchar respiracion, espacio y fraseo
-- notar silencios y dinamicas suaves
-- identificar la diferencia entre cantar y "decir" una melodia
+- notar silencios y respiraciones
+- escuchar la relacion entre timbre y emocion
+- percibir que el jazz tambien puede ser intimidad extrema
+
+### Album puente
+
+- *Chet Baker Sings*
+- *John Coltrane and Johnny Hartman*
+- *At the Pershing: But Not for Me*
 
 ## Playlist 4: hard bop y groove
 
-Para sentir el peso ritmico del jazz de los anos 50 y 60.
+### Para que sirve
+
+Muestra una zona del jazz donde el blues, el gospel y el ritmo fisico vuelven a ocupar un lugar muy visible.
 
 1. Art Blakey and the Jazz Messengers - "Moanin'"
 2. Horace Silver - "Song for My Father"
@@ -84,12 +121,20 @@ Para sentir el peso ritmico del jazz de los anos 50 y 60.
 ### Que entrenar aqui
 
 - seguir el pulso del contrabajo
-- reconocer la influencia del blues y el gospel
-- notar como el groove organiza toda la banda
+- notar el papel de la bateria en el empuje del grupo
+- escuchar como el groove organiza la improvisacion
+
+### Album puente
+
+- *Moanin'*
+- *Song for My Father*
+- *The Sidewinder*
 
 ## Playlist 5: modal y espiritual
 
-Una lista para entrar en la expansion del jazz de fines de los 50 y los 60.
+### Para que sirve
+
+Es una puerta a la expansion del jazz de fines de los 50 y los 60. Aqui importa menos el cambio armonico constante y mas el desarrollo de clima, intensidad y profundidad.
 
 1. Miles Davis - "So What"
 2. John Coltrane - "Impressions"
@@ -102,13 +147,21 @@ Una lista para entrar en la expansion del jazz de fines de los 50 y los 60.
 
 ### Que entrenar aqui
 
-- escuchar desarrollos largos sin perder el hilo
-- notar la repeticion como recurso expresivo
-- percibir el paso de lo armonico a lo atmosferico
+- seguir desarrollos largos sin perder el hilo
+- percibir el papel del color y de la repeticion
+- escuchar la diferencia entre intensidad y simple volumen
+
+### Album puente
+
+- *Kind of Blue*
+- *A Love Supreme*
+- *Journey in Satchidananda*
 
 ## Playlist 6: libertad y vanguardia
 
-Recomendada cuando ya existe cierta familiaridad con el jazz clasico.
+### Para que sirve
+
+Esta lista abre la puerta a zonas menos previsibles del jazz. Conviene llegar con cierta familiaridad previa, pero no hace falta ser especialista.
 
 1. Ornette Coleman - "Lonely Woman"
 2. Eric Dolphy - "Hat and Beard"
@@ -121,13 +174,21 @@ Recomendada cuando ya existe cierta familiaridad con el jazz clasico.
 
 ### Que entrenar aqui
 
-- aceptar que no todo gira en torno a una melodia estable
-- escuchar energia, textura y gesto
-- percibir la improvisacion como conversacion abierta
+- escuchar textura y energia
+- aceptar una forma menos previsible
+- notar que el jazz puede ser tambien exploracion radical
+
+### Album puente
+
+- *The Shape of Jazz to Come*
+- *Out to Lunch!*
+- *Space Is the Place*
 
 ## Playlist 7: jazz latino y bossa nova
 
-Una ruta accesible, ritmica y elegante.
+### Para que sirve
+
+Reune una de las zonas mas accesibles, elegantes y ritmicamente ricas del jazz. Es una gran ruta para quienes llegan desde la cancion, la bossa o los ritmos afrolatinos.
 
 1. Dizzy Gillespie - "Manteca"
 2. Machito - "Tanga"
@@ -140,13 +201,21 @@ Una ruta accesible, ritmica y elegante.
 
 ### Que entrenar aqui
 
-- notar el desplazamiento del acento ritmico
-- escuchar la mezcla entre sofisticacion armonica y danza
-- reconocer diferencias entre lo afrocubano y lo brasileno
+- oir desplazamientos del acento ritmico
+- distinguir clima afrocubano y clima brasileno
+- notar como el jazz se enriquece sin dejar de sonar a si mismo
+
+### Album puente
+
+- *Getz/Gilberto*
+- *Jazz Samba*
+- *Manteca*
 
 ## Playlist 8: fusion y electricidad
 
-Para descubrir como el jazz se cruza con funk, rock y texturas electricas.
+### Para que sirve
+
+Si vienes del rock, del funk o del groove electrico, esta puede ser una de las mejores puertas de entrada al jazz mas expandido.
 
 1. Miles Davis - "Pharaoh's Dance"
 2. Herbie Hancock - "Chameleon"
@@ -159,13 +228,21 @@ Para descubrir como el jazz se cruza con funk, rock y texturas electricas.
 
 ### Que entrenar aqui
 
-- escuchar grooves repetitivos y capas de teclado
-- notar el papel del estudio y la electricidad
-- reconocer la relacion del jazz con el funk y el rock
+- escuchar capas electricas y texturas de estudio
+- notar grooves largos y repetitivos
+- percibir el cruce del jazz con funk y rock
+
+### Album puente
+
+- *Head Hunters*
+- *Heavy Weather*
+- *Bitches Brew*
 
 ## Playlist 9: voces esenciales
 
-Para quienes quieren entrar al jazz desde el canto.
+### Para que sirve
+
+Es una buena entrada para quienes se acercan al jazz desde la cancion y quieren entender como la voz improvisa, desplaza y reinterpreta.
 
 1. Billie Holiday - "Strange Fruit"
 2. Ella Fitzgerald - "How High the Moon"
@@ -174,17 +251,25 @@ Para quienes quieren entrar al jazz desde el canto.
 5. Carmen McRae - "You Took Advantage of Me"
 6. Dinah Washington - "What a Diff'rence a Day Made"
 7. Abbey Lincoln - "Afro-Blue"
-8. Esperanza Spalding - "I Know You Know"
+8. Betty Carter - "Sounds (Movin' On)"
 
 ### Que entrenar aqui
 
-- escuchar como cada cantante construye el tiempo
-- notar diferencias entre swing vocal, balada y expresion dramatica
-- seguir la relacion entre letra e improvisacion
+- notar como cada cantante trata el tiempo
+- distinguir swing vocal, balada y dramatismo
+- comparar version vocal e instrumental de un standard
+
+### Album puente
+
+- *Ella Fitzgerald Sings the Cole Porter Song Book*
+- *Lady in Satin*
+- *Sarah Vaughan with Clifford Brown*
 
 ## Playlist 10: escena contemporanea
 
-Una puerta a musicos mas recientes sin perder el hilo historico.
+### Para que sirve
+
+Ayuda a salir de la idea de que el jazz es solo un museo. Aqui aparecen cruces con hip hop, neo soul, electronica y escenas actuales.
 
 1. Brad Mehldau - "Exit Music (For a Film)"
 2. Robert Glasper Experiment - "Afro Blue"
@@ -197,30 +282,52 @@ Una puerta a musicos mas recientes sin perder el hilo historico.
 
 ### Que entrenar aqui
 
-- reconocer cruces con hip hop, rock y electronica
-- escuchar continuidad y ruptura con la tradicion
-- descubrir que el jazz sigue siendo un lenguaje vivo
+- reconocer continuidades con la tradicion
+- notar nuevos tipos de produccion y mezcla
+- escuchar como el jazz dialoga con su presente
+
+### Album puente
+
+- *Black Radio*
+- *The Epic*
+- *Source*
 
 ## Rutas rapidas segun el oyente
 
-### Si quieres algo suave
+### Si quieres algo suave y accesible
 
 - Playlist 1
 - Playlist 3
 - Playlist 7
 
-### Si quieres algo historico
+### Si quieres entender historia y lenguaje
 
 - Playlist 2
 - Playlist 4
 - Playlist 5
 
-### Si quieres algo desafiante
+### Si quieres algo mas desafiante o exploratorio
 
 - Playlist 6
 - Playlist 8
 - Playlist 10
 
+## Metodo de uso a dos semanas
+
+### Semana 1
+
+- dia 1 y 2: Playlist 1
+- dia 3 y 4: Playlist 2
+- dia 5 y 6: Playlist 4
+- dia 7: repetir la que mas te haya hablado
+
+### Semana 2
+
+- dia 8 y 9: Playlist 5
+- dia 10 y 11: Playlist 7
+- dia 12 y 13: Playlist 9 o Playlist 10
+- dia 14: elegir un album completo como siguiente paso
+
 ## Siguiente paso recomendado
 
-Despues de recorrer estas playlists, lo mejor es elegir tres artistas que te hayan interesado y escuchar un album completo de cada uno. El salto de la cancion aislada al album es uno de los momentos en que mas se entiende la logica interna del jazz.
+Despues de recorrer estas playlists, el mejor movimiento es entrar en [APRENDER-JAZZ-OYENDO-ALBUMES/](./APRENDER-JAZZ-OYENDO-ALBUMES/README.md). El salto de la cancion al album es uno de los momentos en que mas se afina la escucha.
