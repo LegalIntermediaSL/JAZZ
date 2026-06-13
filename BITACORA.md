@@ -14,6 +14,12 @@ En su estado presente, el proyecto cubre:
 
 - una portada general del repositorio
 - una guia de iniciacion al jazz
+- una cronologia comentada por etapas historicas
+- una carpeta de historia del jazz con lectura narrativa por grandes etapas
+- playlists de escucha guiada por estilos y atmosferas
+- una carpeta de estilos con subdivisiones por periodos
+- una carpeta de interpretes con perfiles iniciales por familias
+- una carpeta para aprender jazz escuchando albumes completos
 - una seleccion de artistas, canciones y albumes esenciales
 - documentacion de proceso mediante bitacora y changelog
 
@@ -33,14 +39,20 @@ En su estado presente, el proyecto cubre:
 - se creo `GUIA-JAZZ.md` con historia, estilos, interpretes y escucha esencial
 - se amplio `README.md` para convertirlo en la entrada principal del proyecto
 - se agregaron `BITACORA.md` y `CHANGELOG.md` para ordenar el trabajo editorial
+- se creo `CRONOLOGIA-JAZZ.md` para contextualizar la evolucion del genero
+- se creo `PLAYLISTS-JAZZ.md` para traducir el contenido teorico en rutas de escucha
+- se crearon las carpetas `ESTILOS/`, `INTERPRETES/` y `APRENDER-JAZZ-OYENDO-ALBUMES/`
+- se poblo cada carpeta con documentos base para orientar el crecimiento tematico
+- se creo la carpeta `HISTORIA-DEL-JAZZ/` con una estructura inicial por etapas historicas
 
 ## Pendientes prioritarios
 
-- revisar y enriquecer la cronologia historica con fechas clave
-- crear playlists sugeridas por estilo
 - incorporar una seccion de vocal jazz
 - ampliar la cobertura de jazz latino, fusion y escena contemporanea
 - preparar una version mas orientada a uso docente
+- desarrollar perfiles de artistas y albumes esenciales
+- crear rutas cruzadas entre estilos, artistas y albumes
+- profundizar la carpeta de historia con mas contexto social y geografico
 
 ## Ideas de ampliacion
 
@@ -49,6 +61,9 @@ En su estado presente, el proyecto cubre:
 - seccion de recomendaciones para primeras escuchas por nivel
 - lista de documentales, libros y conciertos historicos
 - apartado sobre grandes sellos discograficos del jazz
+- fichas de escucha para clubes de lectura musical o clases
+- cronologias por instrumento o escena geografica
+- mapas de ciudades clave como New Orleans, Chicago y Nueva York
 
 ## Riesgos o puntos a cuidar
 
@@ -59,4 +74,4 @@ En su estado presente, el proyecto cubre:
 
 ## Proximo hito sugerido
 
-El siguiente hito natural es crear una segunda guia complementaria con playlists por estilos y una cronologia comentada del jazz para que el proyecto pase de introduccion general a recurso formativo mas completo.
+El siguiente hito natural es profundizar el contenido dentro de las cuatro carpetas tematicas y conectarlas mediante rutas de lectura y escucha todavia mas claras.
