@@ -1,99 +1,104 @@
 # Del swing al bebop
 
-## 1. De musica local a fenomeno popular
+## 1. De musica urbana a fenomeno de masas
 
-Cuando el jazz sale del primer imaginario de New Orleans y circula con mas fuerza por Chicago, Nueva York y otros centros urbanos, empieza a cambiar su escala historica. Ya no es solo una practica regional: se vuelve una musica moderna en expansion.
+Durante los anos 30 y buena parte de los 40, el jazz se vuelve una de las grandes musicas populares de Estados Unidos. La radio, las giras, los salones de baile y las big bands amplifican el genero a escala nacional e internacional.
 
-El crecimiento del disco, de la radio y de los circuitos de baile ayuda mucho a ese proceso.
+## 2. El swing como forma musical y social
 
-## 2. Chicago, Harlem y la transformacion del lenguaje
+Hablar de swing es hablar de varias cosas al mismo tiempo:
 
-En los anos 20 y 30, Chicago y Nueva York son fundamentales para el desarrollo del jazz. Harlem, en particular, concentra actividad cultural, vida nocturna, escena artistica y una enorme densidad simbolica.
-
-### Que cambia en estas ciudades
-
-- mayor profesionalizacion
-- presencia mas fuerte de arreglos
-- crecimiento del piano como centro de modernidad
-- nuevos contactos entre tradiciones del sur y cultura urbana del norte
-
-## 3. La era del swing
-
-Durante los anos 30 y buena parte de los 40, el jazz se vuelve la gran musica de baile de Estados Unidos. Las big bands llenan salones, suenan en radio y organizan buena parte de la vida nocturna.
+- una sensacion ritmica
+- una epoca historica
+- una forma de tocar
+- una gran cultura del baile
 
 ### Rasgos del swing
 
 - pulso bailable
-- secciones orquestales bien definidas
+- secciones orquestales definidas
 - equilibrio entre escritura e improvisacion
-- mucha atencion al efecto de conjunto
+- presencia de riffs y de arreglos memorables
 
-## 4. No hubo un solo swing
-
-Conviene evitar la simplificacion. No hubo un swing unico.
+## 3. No hubo un solo swing
 
 ### Duke Ellington
 
-Representa una via orquestal sofisticada, con un uso muy personal del color, la escritura y la individualidad de sus musicos.
+Representa una via sofisticada, colorista y compositiva. Su orquesta funciona casi como un instrumento unico hecho de voces individuales.
 
 ### Count Basie
 
-Representa una forma de swing mas apoyada en el groove, el riff y la soltura de la seccion ritmica.
+Representa una forma mas ligera y groovera del swing. El peso de la seccion ritmica es decisivo.
 
 ### Benny Goodman
 
-Es una figura muy visible del swing en el plano mas popular y comercial, aunque su relevancia no agota la complejidad del periodo.
+Figura central en la visibilidad popular del swing, aunque no agota su complejidad cultural.
 
-## 5. Kansas City y el arte del riff
+### Chick Webb
 
-La escena de Kansas City resulta muy importante para entender una parte del swing. Alli el peso del riff, del blues y del empuje ritmico alimenta una energia distinta a la del gran refinamiento orquestal de otras bandas.
+Su energia y su empuje ritmico muestran otra cara esencial del periodo.
 
-## 6. El limite del formato bailable
+## 4. Kansas City
 
-Con el tiempo, algunos musicos empiezan a sentir que la logica del baile, del arreglo estandarizado y de la industria del entretenimiento restringe la exploracion instrumental. No quieren abandonar el swing: quieren llevarlo a otra parte.
+Kansas City es fundamental para una forma de swing apoyada en el riff, el blues y una soltura especial de la base ritmica. Esa escena alimenta parte de la energia que luego influira en desarrollos posteriores.
 
-## 7. El laboratorio del bebop
+## 5. El swing y sus contradicciones
 
-En la primera mitad de los anos 40, clubes de Nueva York como Minton's Playhouse y Monroe's Uptown House sirven de laboratorio para una nueva musica. Se trata de sesiones donde la complejidad, la velocidad y la escucha entre musicos alcanzan una exigencia nueva.
+El swing hace del jazz una musica de masas, pero ese exito trae tensiones.
 
-### Que define al bebop
+### Algunas tensiones
 
-- armonias mas densas
-- lineas rapidas y sinuosas
+- exigencias del baile y del mercado
+- estandarizacion del formato
+- desigualdad racial en la industria del entretenimiento
+- contraste entre lucimiento comercial y exploracion artistica
+
+## 6. El laboratorio del bebop
+
+En clubes como Minton's Playhouse y Monroe's Uptown House, una nueva generacion empuja el lenguaje del swing hasta el limite. El resultado no es un rechazo total del swing, sino una reorganizacion radical de sus posibilidades.
+
+### Rasgos del bebop
+
 - small combos
-- solos de alta exigencia tecnica
+- armonias densas
+- lineas rapidas y sinuosas
+- bateria mas conversacional
 - escucha menos centrada en el baile
 
-## 8. Musicos decisivos
+## 7. Figuras centrales
 
 ### Charlie Parker
 
-Su saxo alto redefine el fraseo moderno. En el hay velocidad, invencion, riesgo y una manera nueva de habitar la armonia.
+Redefine el saxo alto moderno y convierte la improvisacion en una forma de pensamiento musical de altisima densidad.
 
 ### Dizzy Gillespie
 
-Combina virtuosismo, humor, energia y enorme sofisticacion. Es indispensable para entender la trompeta moderna.
+Expande la trompeta moderna y ayuda a fijar gran parte del vocabulario del nuevo estilo.
 
 ### Thelonious Monk
 
-No encaja del todo en ninguna ortodoxia. Sus silencios, ataques y rarezas armonicas abren otra clase de modernidad.
+Aporta una logica propia de ataque, silencio, rareza armonica y estructura.
 
 ### Bud Powell
 
-Figura central del piano bebop. Su forma de traducir el lenguaje del saxo a la mano derecha del piano marca a generaciones enteras.
+Hace del piano bebop una referencia para generaciones posteriores.
 
 ### Max Roach
 
-Ayuda a desplazar la bateria desde un papel de simple soporte hacia un lugar mas conversacional y arquitectonico.
+Desplaza la bateria hacia un papel mucho mas arquitectonico y dialogante.
 
-## 9. Que cambia culturalmente con el bebop
+## 8. Lo que cambia culturalmente con el bebop
 
-El bebop no es solo un cambio de notas. Cambia la funcion cultural del jazz.
+El bebop transforma el lugar del jazz en la cultura.
 
-- la musica se vuelve mas exigente para el oyente
-- el musico gana autoridad como creador moderno
-- el club sustituye en parte al gran salon de baile
-- la escucha especializada gana peso
+- el oyente ya no es necesariamente un bailarin
+- el musico gana autoridad como creador
+- el club sustituye en parte al gran salon
+- la escucha especializada adquiere mas peso
+
+## 9. Bebop y modernidad negra
+
+El bebop tambien puede leerse como una afirmacion de autonomia artistica negra dentro de una industria que muchas veces habia explotado comercialmente formas anteriores del jazz.
 
 ## 10. Escuchas recomendadas
 
@@ -104,6 +109,6 @@ El bebop no es solo un cambio de notas. Cambia la funcion cultural del jazz.
 - Dizzy Gillespie - "A Night in Tunisia"
 - Thelonious Monk - "'Round Midnight"
 
-## 11. Una idea para llevarse
+## 11. Cierre
 
-El paso del swing al bebop no es una ruptura total, sino una tension interna del propio jazz. El nuevo lenguaje nace dentro del viejo, empujandolo al limite hasta volverlo otra cosa.
+El paso del swing al bebop no es una simple sustitucion de un estilo por otro. Es el momento en que el jazz se reconoce a si mismo como musica moderna, exigente, abierta al riesgo y menos dependiente del entretenimiento masivo.

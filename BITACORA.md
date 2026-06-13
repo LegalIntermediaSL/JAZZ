@@ -45,6 +45,7 @@ En su estado presente, el proyecto cubre:
 - se poblo cada carpeta con documentos base para orientar el crecimiento tematico
 - se creo la carpeta `HISTORIA-DEL-JAZZ/` con una estructura inicial por etapas historicas
 - se reescribieron y ampliaron en profundidad la guia central, la cronologia, las playlists y las carpetas tematicas
+- se amplio mucho mas la historia del jazz con nuevos capitulos sobre migracion, ciudades, derechos civiles y escena global
 
 ## Pendientes prioritarios
 
@@ -54,6 +55,7 @@ En su estado presente, el proyecto cubre:
 - crear rutas cruzadas entre estilos, artistas y albumes
 - profundizar la carpeta de historia con mas contexto social y geografico
 - sumar referencias entre playlists, discos y artistas en cada documento
+- desarrollar bloques historicos sobre sellos, productoras, medios y festivales
 
 ## Ideas de ampliacion
 

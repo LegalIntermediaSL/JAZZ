@@ -4,6 +4,17 @@ Todos los cambios importantes de este proyecto se registran en este archivo.
 
 El formato toma como referencia Keep a Changelog y utiliza fechas en estilo ISO `YYYY-MM-DD`.
 
+## [0.7.0] - 2026-06-13
+
+### Added
+
+- nuevos capitulos historicos sobre Gran Migracion, Harlem, derechos civiles, vanguardia y ciudades clave del jazz
+
+### Changed
+
+- nueva ampliacion de `CRONOLOGIA-JAZZ.md` con mas contexto social, geografico y cultural
+- reorganizacion de `HISTORIA-DEL-JAZZ/` como una seccion historica bastante mas profunda
+
 ## [0.6.0] - 2026-06-13
 
 ### Changed

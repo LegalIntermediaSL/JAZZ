@@ -38,7 +38,7 @@ El repositorio se apoya en dos niveles.
 
 ### Nivel 2: carpetas tematicas
 
-- [HISTORIA-DEL-JAZZ/](./HISTORIA-DEL-JAZZ/README.md): desarrollo historico del genero en formato mas narrativo
+- [HISTORIA-DEL-JAZZ/](./HISTORIA-DEL-JAZZ/README.md): desarrollo historico ampliado por etapas, ciudades y procesos culturales
 - [ESTILOS/](./ESTILOS/README.md): estudio del jazz por lenguajes musicales y transformaciones esteticas
 - [INTERPRETES/](./INTERPRETES/README.md): perfiles y recorridos por artistas esenciales
 - [APRENDER-JAZZ-OYENDO-ALBUMES/](./APRENDER-JAZZ-OYENDO-ALBUMES/README.md): escucha formativa de discos completos
@@ -56,13 +56,14 @@ No hace falta leer todo en orden lineal. Puedes entrar por la ruta que mas se aj
 
 1. Lee [GUIA-JAZZ.md](./GUIA-JAZZ.md).
 2. Continua con [PLAYLISTS-JAZZ.md](./PLAYLISTS-JAZZ.md).
-3. Elige despues una carpeta: [ESTILOS/](./ESTILOS/README.md) o [INTERPRETES/](./INTERPRETES/README.md).
+3. Elige despues una carpeta: [ESTILOS/](./ESTILOS/README.md), [INTERPRETES/](./INTERPRETES/README.md) o [HISTORIA-DEL-JAZZ/](./HISTORIA-DEL-JAZZ/README.md).
 
 ### Ruta 2: si quieres entender la historia
 
 1. Empieza en [CRONOLOGIA-JAZZ.md](./CRONOLOGIA-JAZZ.md).
 2. Pasa a [HISTORIA-DEL-JAZZ/](./HISTORIA-DEL-JAZZ/README.md).
-3. Vuelve a [ESTILOS/](./ESTILOS/README.md) para relacionar historia y sonido.
+3. Sigue con [CHICAGO-HARLEM-Y-LA-GRAN-MIGRACION.md](./HISTORIA-DEL-JAZZ/CHICAGO-HARLEM-Y-LA-GRAN-MIGRACION.md), [DERECHOS-CIVILES-JAZZ-ESPIRITUAL-Y-VANGUARDIA.md](./HISTORIA-DEL-JAZZ/DERECHOS-CIVILES-JAZZ-ESPIRITUAL-Y-VANGUARDIA.md) y [CIUDADES-Y-ESCENAS-CLAVE.md](./HISTORIA-DEL-JAZZ/CIUDADES-Y-ESCENAS-CLAVE.md).
+4. Vuelve a [ESTILOS/](./ESTILOS/README.md) para relacionar historia y sonido.
 
 ### Ruta 3: si aprendes mejor por artistas
 
@@ -132,7 +133,7 @@ Los proximos frentes naturales de ampliacion son:
 - desarrollar mas a fondo vocal jazz, latin jazz, fusion y escena contemporanea
 - crear perfiles de artistas mas amplios y con mejores cruces entre unos y otros
 - sumar glosarios, fichas de albumes y recorridos por instrumentos
-- enriquecer la carpeta historica con ciudades, escenas, clubes y contextos sociales
+- enriquecer todavia mas la carpeta historica con ciudades, escenas, clubes, sellos y contextos sociales
 - convertir playlists y rutas de discos en itinerarios de estudio mas detallados
 - construir indices cruzados entre historia, estilos, artistas y albumes
 
@@ -147,8 +148,11 @@ JAZZ/
 |- HISTORIA-DEL-JAZZ/
 |  |- README.md
 |  |- ORIGENES-Y-NEW-ORLEANS.md
+|  |- CHICAGO-HARLEM-Y-LA-GRAN-MIGRACION.md
 |  |- DEL-SWING-AL-BEBOP.md
+|  |- DERECHOS-CIVILES-JAZZ-ESPIRITUAL-Y-VANGUARDIA.md
 |  |- DE-LA-MODERNIDAD-A-LA-ESCENA-GLOBAL.md
+|  |- CIUDADES-Y-ESCENAS-CLAVE.md
 |- ESTILOS/
 |  |- README.md
 |  |- ORIGEN-SWING-Y-BIG-BANDS.md
