@@ -40,7 +40,7 @@ El repositorio se apoya en dos niveles.
 
 - [HISTORIA-DEL-JAZZ/](./HISTORIA-DEL-JAZZ/README.md): desarrollo historico ampliado por etapas, ciudades y procesos culturales
 - [ESTILOS/](./ESTILOS/README.md): estudio del jazz por lenguajes musicales y transformaciones esteticas
-- [INTERPRETES/](./INTERPRETES/README.md): perfiles y recorridos por artistas esenciales
+- [INTERPRETES/](./INTERPRETES/README.md): perfiles, recorridos y mapa ampliado de artistas esenciales
 - [APRENDER-JAZZ-OYENDO-ALBUMES/](./APRENDER-JAZZ-OYENDO-ALBUMES/README.md): escucha formativa de discos completos
 - [TECNICA-Y-TEORIA-JAZZ/](./TECNICA-Y-TEORIA-JAZZ/README.md): conceptos musicales para entender ritmo, forma, armonia, escalas e improvisacion
 - [CULTURA-JAZZ/](./CULTURA-JAZZ/README.md): anecdotas, lugares, cine, artes e influencia cultural del jazz
@@ -101,7 +101,8 @@ La base actual del proyecto ya cubre varios frentes de aprendizaje:
 - conceptos basicos como swing, improvisacion, standard, chorus y small combo
 - recorridos historicos desde New Orleans hasta la escena contemporanea
 - comparaciones entre estilos como swing, bebop, cool, hard bop, modal, free y fusion
-- perfiles iniciales de trompetistas, saxofonistas, pianistas, voces y figuras de la seccion ritmica
+- perfiles de trompetistas, saxofonistas, pianistas, voces, lideres, guitarristas y figuras de la seccion ritmica
+- un mapa ampliado de interpretes con enlaces a Wikipedia y primeras escuchas recomendadas
 - playlists pensadas para distintas sensibilidades de escucha
 - rutas de albumes para formar el oido a corto, medio y largo plazo
 - una ruta extensa de 100 albumes para avanzar por bloques historicos y esteticos
@@ -188,6 +189,7 @@ JAZZ/
 |  |- VOCES-ESENCIALES.md
 |  |- GUITARRA-CLARINETE-Y-TROMBON.md
 |  |- GRANDES-LIDERES-Y-COMPOSITORES.md
+|  |- MAPA-AMPLIADO-DE-INTERPRETES.md
 |- APRENDER-JAZZ-OYENDO-ALBUMES/
 |  |- README.md
 |  |- RUTA-DE-10-ALBUMES.md

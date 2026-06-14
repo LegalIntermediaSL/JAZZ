@@ -4,6 +4,19 @@ Todos los cambios importantes de este proyecto se registran en este archivo.
 
 El formato toma como referencia Keep a Changelog y utiliza fechas en estilo ISO `YYYY-MM-DD`.
 
+## [0.10.0] - 2026-06-14
+
+### Added
+
+- archivo `INTERPRETES/MAPA-AMPLIADO-DE-INTERPRETES.md` con un atlas de interpretes organizado por instrumentos, voces, lideres y compositores
+- enlaces directos a paginas de Wikipedia para ampliar informacion biografica y discografica de los interpretes
+- nuevas rutas de consulta en `INTERPRETES/README.md` para conectar canon basico, figuras menos obvias y jazz contemporaneo
+
+### Changed
+
+- ampliacion de la documentacion editorial para reflejar el nuevo alcance de la seccion de interpretes
+- actualizacion del arbol de `README.md` para incluir el nuevo mapa ampliado
+
 ## [0.9.0] - 2026-06-14
 
 ### Added

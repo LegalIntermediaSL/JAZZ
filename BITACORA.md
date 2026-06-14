@@ -42,6 +42,7 @@ En su estado presente, el proyecto cubre:
 - se creo `APRENDER-JAZZ-OYENDO-ALBUMES/RUTA-DE-100-ALBUMES.md` como itinerario largo para formar el oido por bloques de escucha
 - se creo la carpeta `CULTURA-JAZZ/` con anecdotas, lugares, clubes, ciudades, cine, influencia en otras artes y personas conocidas que aman el jazz
 - se actualizo la navegacion principal para integrar las nuevas rutas de tecnica, cultura y escucha larga
+- se amplio la carpeta `INTERPRETES/` con `MAPA-AMPLIADO-DE-INTERPRETES.md`, perfiles adicionales por familias y enlaces a Wikipedia para consulta biografica
 
 ### 2026-06-13
 
