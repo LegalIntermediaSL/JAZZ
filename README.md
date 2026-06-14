@@ -42,6 +42,8 @@ El repositorio se apoya en dos niveles.
 - [ESTILOS/](./ESTILOS/README.md): estudio del jazz por lenguajes musicales y transformaciones esteticas
 - [INTERPRETES/](./INTERPRETES/README.md): perfiles y recorridos por artistas esenciales
 - [APRENDER-JAZZ-OYENDO-ALBUMES/](./APRENDER-JAZZ-OYENDO-ALBUMES/README.md): escucha formativa de discos completos
+- [TECNICA-Y-TEORIA-JAZZ/](./TECNICA-Y-TEORIA-JAZZ/README.md): conceptos musicales para entender ritmo, forma, armonia, escalas e improvisacion
+- [CULTURA-JAZZ/](./CULTURA-JAZZ/README.md): anecdotas, lugares, cine, artes e influencia cultural del jazz
 
 ### Documentacion editorial
 
@@ -74,8 +76,22 @@ No hace falta leer todo en orden lineal. Puedes entrar por la ruta que mas se aj
 ### Ruta 4: si prefieres aprender oyendo discos completos
 
 1. Empieza por [RUTA-DE-10-ALBUMES.md](./APRENDER-JAZZ-OYENDO-ALBUMES/RUTA-DE-10-ALBUMES.md).
-2. Usa [COMO-ESCUCHAR-UN-ALBUM-DE-JAZZ.md](./APRENDER-JAZZ-OYENDO-ALBUMES/COMO-ESCUCHAR-UN-ALBUM-DE-JAZZ.md) como metodo de escucha.
-3. Consulta luego [GUIA-JAZZ.md](./GUIA-JAZZ.md) para poner esos discos en contexto.
+2. Continua con [RUTA-DE-100-ALBUMES.md](./APRENDER-JAZZ-OYENDO-ALBUMES/RUTA-DE-100-ALBUMES.md) si quieres una inmersion larga.
+3. Usa [COMO-ESCUCHAR-UN-ALBUM-DE-JAZZ.md](./APRENDER-JAZZ-OYENDO-ALBUMES/COMO-ESCUCHAR-UN-ALBUM-DE-JAZZ.md) como metodo de escucha.
+4. Consulta luego [GUIA-JAZZ.md](./GUIA-JAZZ.md) para poner esos discos en contexto.
+
+### Ruta 5: si quieres entender el lenguaje musical
+
+1. Empieza por [RITMO-SWING-Y-FRASEO.md](./TECNICA-Y-TEORIA-JAZZ/RITMO-SWING-Y-FRASEO.md).
+2. Pasa a [ESTRUCTURAS-FORMAS-Y-STANDARDS.md](./TECNICA-Y-TEORIA-JAZZ/ESTRUCTURAS-FORMAS-Y-STANDARDS.md).
+3. Continua con [ARMONIA-ESCALAS-Y-MODOS.md](./TECNICA-Y-TEORIA-JAZZ/ARMONIA-ESCALAS-Y-MODOS.md).
+4. Cierra el recorrido con [IMPROVISACION-Y-LENGUAJE.md](./TECNICA-Y-TEORIA-JAZZ/IMPROVISACION-Y-LENGUAJE.md).
+
+### Ruta 6: si te interesa la cultura alrededor del jazz
+
+1. Entra en [CULTURA-JAZZ/](./CULTURA-JAZZ/README.md).
+2. Lee despues [JAZZ-Y-CINE.md](./CULTURA-JAZZ/JAZZ-Y-CINE.md) y [INFLUENCIA-EN-OTRAS-ARTES.md](./CULTURA-JAZZ/INFLUENCIA-EN-OTRAS-ARTES.md).
+3. Cruza esos materiales con [LUGARES-CLUBES-Y-CIUDADES.md](./CULTURA-JAZZ/LUGARES-CLUBES-Y-CIUDADES.md) para ubicar la musica en espacios reales.
 
 ## Que vas a encontrar aqui
 
@@ -87,7 +103,10 @@ La base actual del proyecto ya cubre varios frentes de aprendizaje:
 - comparaciones entre estilos como swing, bebop, cool, hard bop, modal, free y fusion
 - perfiles iniciales de trompetistas, saxofonistas, pianistas, voces y figuras de la seccion ritmica
 - playlists pensadas para distintas sensibilidades de escucha
-- rutas de albumes para formar el oido a medio plazo
+- rutas de albumes para formar el oido a corto, medio y largo plazo
+- una ruta extensa de 100 albumes para avanzar por bloques historicos y esteticos
+- una seccion tecnica sobre ritmo, formas, armonia, escalas, modos e improvisacion
+- una seccion cultural con anecdotas, clubes, ciudades, cine, artes visuales, literatura y aficionados ilustres
 
 ## Contenido principal
 
@@ -98,6 +117,8 @@ La base actual del proyecto ya cubre varios frentes de aprendizaje:
 - [Seccion de estilos](./ESTILOS/README.md)
 - [Seccion de interpretes](./INTERPRETES/README.md)
 - [Aprender jazz oyendo albumes](./APRENDER-JAZZ-OYENDO-ALBUMES/README.md)
+- [Tecnica y teoria del jazz](./TECNICA-Y-TEORIA-JAZZ/README.md)
+- [Cultura jazz](./CULTURA-JAZZ/README.md)
 - [Bitacora del proyecto](./BITACORA.md)
 - [Changelog](./CHANGELOG.md)
 
@@ -135,7 +156,9 @@ Los proximos frentes naturales de ampliacion son:
 - sumar glosarios, fichas de albumes y recorridos por instrumentos
 - enriquecer todavia mas la carpeta historica con ciudades, escenas, clubes, sellos y contextos sociales
 - convertir playlists y rutas de discos en itinerarios de estudio mas detallados
-- construir indices cruzados entre historia, estilos, artistas y albumes
+- desarrollar ejercicios practicos para la seccion tecnica
+- ampliar la seccion cultural con mas peliculas, libros, clubes, festivales y escenas locales
+- construir indices cruzados entre historia, estilos, artistas, tecnica, cultura y albumes
 
 ## Estructura del repositorio
 
@@ -163,10 +186,26 @@ JAZZ/
 |  |- TROMPETA-Y-SAXO.md
 |  |- PIANO-Y-SECCION-RITMICA.md
 |  |- VOCES-ESENCIALES.md
+|  |- GUITARRA-CLARINETE-Y-TROMBON.md
+|  |- GRANDES-LIDERES-Y-COMPOSITORES.md
 |- APRENDER-JAZZ-OYENDO-ALBUMES/
 |  |- README.md
 |  |- RUTA-DE-10-ALBUMES.md
+|  |- RUTA-DE-100-ALBUMES.md
 |  |- COMO-ESCUCHAR-UN-ALBUM-DE-JAZZ.md
+|- TECNICA-Y-TEORIA-JAZZ/
+|  |- README.md
+|  |- RITMO-SWING-Y-FRASEO.md
+|  |- ESTRUCTURAS-FORMAS-Y-STANDARDS.md
+|  |- ARMONIA-ESCALAS-Y-MODOS.md
+|  |- IMPROVISACION-Y-LENGUAJE.md
+|- CULTURA-JAZZ/
+|  |- README.md
+|  |- ANECDOTAS-Y-DETALLES.md
+|  |- LUGARES-CLUBES-Y-CIUDADES.md
+|  |- JAZZ-Y-CINE.md
+|  |- INFLUENCIA-EN-OTRAS-ARTES.md
+|  |- PERSONAS-QUE-AMAN-EL-JAZZ.md
 |- BITACORA.md
 |- CHANGELOG.md
 |- LICENSE

@@ -20,6 +20,9 @@ En su estado presente, el proyecto cubre:
 - una carpeta de estilos con subdivisiones por periodos
 - una carpeta de interpretes con perfiles iniciales por familias
 - una carpeta para aprender jazz escuchando albumes completos
+- una ruta extensa de 100 albumes para avanzar de forma progresiva
+- una carpeta tecnica sobre ritmo, formas, armonia, escalas, modos e improvisacion
+- una carpeta cultural sobre anecdotas, lugares, cine, artes e influencia publica del jazz
 - una seleccion de artistas, canciones y albumes esenciales
 - documentacion de proceso mediante bitacora y changelog
 
@@ -32,6 +35,13 @@ En su estado presente, el proyecto cubre:
 - separar la portada del tutorial principal para hacer el repositorio mas escalable
 
 ## Registro de avances
+
+### 2026-06-14
+
+- se creo la carpeta `TECNICA-Y-TEORIA-JAZZ/` con documentos sobre ritmo, swing, fraseo, estructuras, standards, armonia, escalas, modos e improvisacion
+- se creo `APRENDER-JAZZ-OYENDO-ALBUMES/RUTA-DE-100-ALBUMES.md` como itinerario largo para formar el oido por bloques de escucha
+- se creo la carpeta `CULTURA-JAZZ/` con anecdotas, lugares, clubes, ciudades, cine, influencia en otras artes y personas conocidas que aman el jazz
+- se actualizo la navegacion principal para integrar las nuevas rutas de tecnica, cultura y escucha larga
 
 ### 2026-06-13
 
@@ -46,6 +56,7 @@ En su estado presente, el proyecto cubre:
 - se creo la carpeta `HISTORIA-DEL-JAZZ/` con una estructura inicial por etapas historicas
 - se reescribieron y ampliaron en profundidad la guia central, la cronologia, las playlists y las carpetas tematicas
 - se amplio mucho mas la historia del jazz con nuevos capitulos sobre migracion, ciudades, derechos civiles y escena global
+- se amplio mucho mas la carpeta `INTERPRETES/` con nuevas familias instrumentales y mas perfiles esenciales
 
 ## Pendientes prioritarios
 
@@ -53,9 +64,12 @@ En su estado presente, el proyecto cubre:
 - preparar una version mas orientada a uso docente
 - desarrollar perfiles de artistas y albumes esenciales
 - crear rutas cruzadas entre estilos, artistas y albumes
+- crear ejercicios practicos de escucha tecnica con ejemplos de standards
 - profundizar la carpeta de historia con mas contexto social y geografico
 - sumar referencias entre playlists, discos y artistas en cada documento
 - desarrollar bloques historicos sobre sellos, productoras, medios y festivales
+- ampliar todavia mas los perfiles de interpretes con relaciones de influencia y discografias guiadas
+- ampliar la nueva carpeta cultural con festivales, documentales, libros, novelas, fotografia y artes visuales
 
 ## Ideas de ampliacion
 
@@ -67,6 +81,8 @@ En su estado presente, el proyecto cubre:
 - fichas de escucha para clubes de lectura musical o clases
 - cronologias por instrumento o escena geografica
 - mapas de ciudades clave como New Orleans, Chicago y Nueva York
+- fichas tecnicas de standards frecuentes como `Autumn Leaves`, `All the Things You Are`, `So What` o `Rhythm Changes`
+- itinerarios culturales por clubes, sellos, peliculas, directores y escritores relacionados con el jazz
 
 ## Riesgos o puntos a cuidar
 
@@ -74,7 +90,9 @@ En su estado presente, el proyecto cubre:
 - mantener equilibrio entre historia, escucha y contexto
 - revisar periodicamente la seleccion de artistas contemporaneos
 - distinguir entre grabaciones historicas, recopilaciones y albumes de estudio
+- explicar teoria musical sin convertir el proyecto en un manual frio o excesivamente academico
+- cuidar que las anecdotas culturales no sustituyan la escucha, sino que la amplien
 
 ## Proximo hito sugerido
 
-El siguiente hito natural es seguir profundizando cada carpeta con secciones mas especializadas y mejorar los cruces internos entre historia, estilos, interpretes, playlists y albumes.
+El siguiente hito natural es seguir profundizando cada carpeta con secciones mas especializadas y mejorar los cruces internos entre historia, estilos, interpretes, playlists, tecnica, cultura y albumes.

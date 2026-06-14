@@ -16,8 +16,9 @@ Un disco de jazz ensena cosas que una playlist no siempre deja ver:
 ## Como recorrer esta carpeta
 
 1. Empieza por [RUTA-DE-10-ALBUMES.md](./RUTA-DE-10-ALBUMES.md).
-2. Usa [COMO-ESCUCHAR-UN-ALBUM-DE-JAZZ.md](./COMO-ESCUCHAR-UN-ALBUM-DE-JAZZ.md) como metodo.
-3. Vuelve luego a [../ESTILOS/README.md](../ESTILOS/README.md) o [../INTERPRETES/README.md](../INTERPRETES/README.md) para profundizar.
+2. Pasa despues a [RUTA-DE-100-ALBUMES.md](./RUTA-DE-100-ALBUMES.md) si quieres una ruta larga y progresiva.
+3. Usa [COMO-ESCUCHAR-UN-ALBUM-DE-JAZZ.md](./COMO-ESCUCHAR-UN-ALBUM-DE-JAZZ.md) como metodo.
+4. Vuelve luego a [../ESTILOS/README.md](../ESTILOS/README.md) o [../INTERPRETES/README.md](../INTERPRETES/README.md) para profundizar.
 
 ## Que deberias aprender aqui
 
@@ -39,3 +40,9 @@ Un disco de jazz ensena cosas que una playlist no siempre deja ver:
 - elige tres discos cercanos a tus gustos
 - usa la guia metodologica para escucharlos con mas atencion
 - anota que artistas o estilos te piden seguir
+
+### Si quieres una inmersion larga
+
+- avanza por bloques de 10 discos en [RUTA-DE-100-ALBUMES.md](./RUTA-DE-100-ALBUMES.md)
+- no escuches mas de dos o tres albumes nuevos por semana
+- alterna discos faciles con discos dificiles

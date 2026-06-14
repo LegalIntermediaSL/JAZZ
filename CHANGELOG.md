@@ -4,6 +4,30 @@ Todos los cambios importantes de este proyecto se registran en este archivo.
 
 El formato toma como referencia Keep a Changelog y utiliza fechas en estilo ISO `YYYY-MM-DD`.
 
+## [0.9.0] - 2026-06-14
+
+### Added
+
+- carpeta `TECNICA-Y-TEORIA-JAZZ/` con documentos sobre ritmo, swing, fraseo, estructuras, standards, armonia, escalas, modos e improvisacion
+- archivo `APRENDER-JAZZ-OYENDO-ALBUMES/RUTA-DE-100-ALBUMES.md` con una ruta larga de escucha por bloques de albumes
+- carpeta `CULTURA-JAZZ/` con anecdotas, lugares, clubes, ciudades, cine, influencia en otras artes y aficionados ilustres
+
+### Changed
+
+- ampliacion de `README.md` para integrar tecnica, cultura y la ruta de 100 albumes en la navegacion principal
+- actualizacion de `BITACORA.md` con el nuevo alcance editorial del proyecto
+
+## [0.8.0] - 2026-06-13
+
+### Added
+
+- nuevos documentos de `INTERPRETES/` para guitarra, clarinete, trombon y grandes lideres-compositores
+
+### Changed
+
+- ampliacion fuerte de `INTERPRETES/README.md` con rutas de uso y nuevas comparaciones
+- desarrollo mucho mas amplio de trompeta, saxo, piano, seccion ritmica y voces esenciales
+
 ## [0.7.0] - 2026-06-13
 
 ### Added
