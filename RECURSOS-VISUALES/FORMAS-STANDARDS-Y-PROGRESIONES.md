@@ -29,7 +29,7 @@ flowchart LR
 flowchart LR
     A["i menor<br/>color oscuro"] --> B["iv menor<br/>profundizacion"]
     B --> C["i menor<br/>regreso"]
-    C --> D["bVI o iiø<br/>giro dramatico"]
+    C --> D["bVI o ii semidisminuido<br/>giro dramatico"]
     D --> E["V7 alterado<br/>tension fuerte"]
     E --> F["i menor<br/>resolucion"]
     F --> A
