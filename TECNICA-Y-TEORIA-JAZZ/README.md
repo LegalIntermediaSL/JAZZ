@@ -11,12 +11,32 @@ Esta seccion explica conceptos tecnicos del jazz sin convertirlos en un muro de 
 3. Pasa despues a armonia, escalas y modos.
 4. Termina con improvisacion y lenguaje.
 
+## Esquema visual rapido
+
+```mermaid
+flowchart TD
+    A["Escuchar"] --> B["Reconocer pulso"]
+    B --> C["Reconocer forma"]
+    C --> D["Ubicar armonia"]
+    D --> E["Elegir motivo"]
+    E --> F["Variar y responder"]
+    F --> G["Crear tension"]
+    G --> H["Resolver o dejar abierto"]
+    H --> A
+```
+
 ## Documentos
 
 - [RITMO-SWING-Y-FRASEO.md](./RITMO-SWING-Y-FRASEO.md)
 - [ESTRUCTURAS-FORMAS-Y-STANDARDS.md](./ESTRUCTURAS-FORMAS-Y-STANDARDS.md)
 - [ARMONIA-ESCALAS-Y-MODOS.md](./ARMONIA-ESCALAS-Y-MODOS.md)
 - [IMPROVISACION-Y-LENGUAJE.md](./IMPROVISACION-Y-LENGUAJE.md)
+
+## Apoyo visual
+
+- [../RECURSOS-VISUALES/DIAGRAMAS-MERMAID.md](../RECURSOS-VISUALES/DIAGRAMAS-MERMAID.md) contiene diagramas sobre forma, improvisacion y small combo
+- [../RECURSOS-VISUALES/FORMAS-STANDARDS-Y-PROGRESIONES.md](../RECURSOS-VISUALES/FORMAS-STANDARDS-Y-PROGRESIONES.md) desarrolla blues, AABA, rhythm changes, ii-V-I, sustituciones y construccion de solos
+- [../RECURSOS-VISUALES/ESQUEMAS-EXPLICATIVOS.md](../RECURSOS-VISUALES/ESQUEMAS-EXPLICATIVOS.md) contiene plantillas para escuchar blues, AABA, bateria, piano y albumes
 
 ## Lo que deberias aprender aqui
 

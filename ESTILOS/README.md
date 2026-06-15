@@ -34,6 +34,24 @@ Conviene usar siempre la misma secuencia:
 2. sigue con hard bop
 3. vuelve despues al jazz temprano y al swing
 
+## Esquema visual rapido
+
+```mermaid
+flowchart TD
+    A["Jazz temprano"] --> B["Swing"]
+    B --> C["Bebop"]
+    C --> D["Cool"]
+    C --> E["Hard bop"]
+    E --> F["Soul-jazz"]
+    E --> G["Modal"]
+    G --> H["Free"]
+    G --> I["Fusion"]
+    I --> J["Jazz-funk y jazz-rock"]
+    H --> K["Avant-garde"]
+    J --> L["Escena contemporanea"]
+    K --> L
+```
+
 ## Que preguntas conviene hacerse
 
 - la musica esta pensada mas para bailar o para escuchar concentradamente
@@ -47,6 +65,11 @@ Conviene usar siempre la misma secuencia:
 - [ORIGEN-SWING-Y-BIG-BANDS.md](./ORIGEN-SWING-Y-BIG-BANDS.md)
 - [BEBOP-COOL-Y-HARD-BOP.md](./BEBOP-COOL-Y-HARD-BOP.md)
 - [MODAL-FREE-FUSION-Y-CONTEMPORANEO.md](./MODAL-FREE-FUSION-Y-CONTEMPORANEO.md)
+
+## Apoyo visual
+
+- [../RECURSOS-VISUALES/DIAGRAMAS-MERMAID.md](../RECURSOS-VISUALES/DIAGRAMAS-MERMAID.md) incluye un mapa de evolucion de estilos
+- [../RECURSOS-VISUALES/ESQUEMAS-EXPLICATIVOS.md](../RECURSOS-VISUALES/ESQUEMAS-EXPLICATIVOS.md) incluye un diagnostico rapido para reconocer estilos al escuchar
 
 ## Que deberias aprender aqui
 

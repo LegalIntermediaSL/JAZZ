@@ -23,6 +23,31 @@ Un estilo dice mucho, pero una persona concreta dice otra cosa distinta. Dos mus
 
 No hace falta estudiar artista por artista como si fueran fichas escolares. Lo mejor es comparar.
 
+## Esquema visual rapido
+
+```mermaid
+flowchart TD
+    A["Interpretes"] --> B["Viento"]
+    A --> C["Piano y armonia"]
+    A --> D["Seccion ritmica"]
+    A --> E["Voces"]
+    A --> F["Guitarra y otros"]
+    A --> G["Lideres y compositores"]
+
+    B --> B1["Trompeta"]
+    B --> B2["Saxo"]
+    C --> C1["Piano"]
+    C --> C2["Organo y teclados"]
+    D --> D1["Contrabajo"]
+    D --> D2["Bateria"]
+    E --> E1["Swing vocal"]
+    E --> E2["Balada"]
+    E --> E3["Vocalese"]
+    G --> G1["Big band"]
+    G --> G2["Small combo"]
+    G --> G3["Composicion extendida"]
+```
+
 ### Comparaciones utiles
 
 - Louis Armstrong y Miles Davis para pensar dos ideas muy distintas de trompeta
@@ -72,6 +97,11 @@ El mapa ampliado mezcla varios tipos de importancia:
 - voces contemporaneas que mantienen vivo el genero sin copiar el pasado
 
 Los enlaces a Wikipedia no sustituyen la escucha. Sirven como punto de partida para fechas, contexto biografico, discografias y conexiones entre musicos. La regla editorial sigue siendo la misma: primero escuchar, despues leer, y luego volver a escuchar con mas oido.
+
+## Apoyo visual
+
+- [../RECURSOS-VISUALES/DIAGRAMAS-MERMAID.md](../RECURSOS-VISUALES/DIAGRAMAS-MERMAID.md) incluye un mapa rapido de familias de interpretes
+- [../RECURSOS-VISUALES/IMAGENES-DOMINIO-PUBLICO.md](../RECURSOS-VISUALES/IMAGENES-DOMINIO-PUBLICO.md) incluye imagenes libres de figuras como Louis Armstrong, Art Tatum, Billie Holiday, Charlie Parker, Dizzy Gillespie, Miles Davis y Thelonious Monk
 
 ## Rutas de entrada segun tu oido
 

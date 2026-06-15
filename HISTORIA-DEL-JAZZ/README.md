@@ -15,6 +15,24 @@ La carpeta se divide en seis ejes historicos que pueden leerse en orden o por in
 5. [DE-LA-MODERNIDAD-A-LA-ESCENA-GLOBAL.md](./DE-LA-MODERNIDAD-A-LA-ESCENA-GLOBAL.md)
 6. [CIUDADES-Y-ESCENAS-CLAVE.md](./CIUDADES-Y-ESCENAS-CLAVE.md)
 
+## Esquema visual rapido
+
+```mermaid
+flowchart LR
+    A["Raices afroamericanas"] --> B["New Orleans"]
+    B --> C["Chicago y Harlem"]
+    C --> D["Swing"]
+    D --> E["Bebop"]
+    E --> F["Cool y hard bop"]
+    F --> G["Modal y free"]
+    G --> H["Fusion"]
+    H --> I["Escena global"]
+
+    C -. migracion .-> D
+    E -. modernidad .-> F
+    G -. expansion .-> I
+```
+
 ## Dos formas de leer esta carpeta
 
 ### Lectura lineal
@@ -39,6 +57,8 @@ Sirve para quien quiere entrar por ciudades, por cambios sociales o por momentos
 - con [../INTERPRETES/README.md](../INTERPRETES/README.md) para seguir la historia a traves de figuras concretas
 - con [../PLAYLISTS-JAZZ.md](../PLAYLISTS-JAZZ.md) para convertir la lectura en practica auditiva
 - con [../APRENDER-JAZZ-OYENDO-ALBUMES/README.md](../APRENDER-JAZZ-OYENDO-ALBUMES/README.md) para pasar de la historia al album
+- con [../RECURSOS-VISUALES/DIAGRAMAS-MERMAID.md](../RECURSOS-VISUALES/DIAGRAMAS-MERMAID.md) para ver la evolucion historica en mapas visuales
+- con [../RECURSOS-VISUALES/MAPAS-DE-CIUDADES-Y-ESCENAS.md](../RECURSOS-VISUALES/MAPAS-DE-CIUDADES-Y-ESCENAS.md) para entender la dimension geografica del jazz
 
 ## Que deberias aprender aqui
 

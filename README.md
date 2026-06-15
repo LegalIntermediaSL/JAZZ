@@ -44,6 +44,7 @@ El repositorio se apoya en dos niveles.
 - [APRENDER-JAZZ-OYENDO-ALBUMES/](./APRENDER-JAZZ-OYENDO-ALBUMES/README.md): escucha formativa de discos completos
 - [TECNICA-Y-TEORIA-JAZZ/](./TECNICA-Y-TEORIA-JAZZ/README.md): conceptos musicales para entender ritmo, forma, armonia, escalas e improvisacion
 - [CULTURA-JAZZ/](./CULTURA-JAZZ/README.md): anecdotas, lugares, cine, artes e influencia cultural del jazz
+- [RECURSOS-VISUALES/](./RECURSOS-VISUALES/README.md): diagramas Mermaid, esquemas de escucha e imagenes de dominio publico
 
 ### Documentacion editorial
 
@@ -93,6 +94,14 @@ No hace falta leer todo en orden lineal. Puedes entrar por la ruta que mas se aj
 2. Lee despues [JAZZ-Y-CINE.md](./CULTURA-JAZZ/JAZZ-Y-CINE.md) y [INFLUENCIA-EN-OTRAS-ARTES.md](./CULTURA-JAZZ/INFLUENCIA-EN-OTRAS-ARTES.md).
 3. Cruza esos materiales con [LUGARES-CLUBES-Y-CIUDADES.md](./CULTURA-JAZZ/LUGARES-CLUBES-Y-CIUDADES.md) para ubicar la musica en espacios reales.
 
+### Ruta 7: si quieres estudiar con esquemas visuales
+
+1. Mira [DIAGRAMAS-MERMAID.md](./RECURSOS-VISUALES/DIAGRAMAS-MERMAID.md) para ubicar historia, estilos e interpretes.
+2. Usa [MAPAS-DE-CIUDADES-Y-ESCENAS.md](./RECURSOS-VISUALES/MAPAS-DE-CIUDADES-Y-ESCENAS.md) para entender migraciones, clubes y escenas.
+3. Consulta [FORMAS-STANDARDS-Y-PROGRESIONES.md](./RECURSOS-VISUALES/FORMAS-STANDARDS-Y-PROGRESIONES.md) si estas estudiando tecnica musical.
+4. Usa [ESQUEMAS-EXPLICATIVOS.md](./RECURSOS-VISUALES/ESQUEMAS-EXPLICATIVOS.md) como plantilla de escucha.
+5. Consulta [IMAGENES-DOMINIO-PUBLICO.md](./RECURSOS-VISUALES/IMAGENES-DOMINIO-PUBLICO.md) si necesitas imagenes libres con fuente documentada.
+
 ## Que vas a encontrar aqui
 
 La base actual del proyecto ya cubre varios frentes de aprendizaje:
@@ -108,6 +117,7 @@ La base actual del proyecto ya cubre varios frentes de aprendizaje:
 - una ruta extensa de 100 albumes para avanzar por bloques historicos y esteticos
 - una seccion tecnica sobre ritmo, formas, armonia, escalas, modos e improvisacion
 - una seccion cultural con anecdotas, clubes, ciudades, cine, artes visuales, literatura y aficionados ilustres
+- diagramas Mermaid, mapas de ciudades, esquemas explicativos e imagenes de dominio publico verificadas
 
 ## Contenido principal
 
@@ -120,6 +130,7 @@ La base actual del proyecto ya cubre varios frentes de aprendizaje:
 - [Aprender jazz oyendo albumes](./APRENDER-JAZZ-OYENDO-ALBUMES/README.md)
 - [Tecnica y teoria del jazz](./TECNICA-Y-TEORIA-JAZZ/README.md)
 - [Cultura jazz](./CULTURA-JAZZ/README.md)
+- [Recursos visuales](./RECURSOS-VISUALES/README.md)
 - [Bitacora del proyecto](./BITACORA.md)
 - [Changelog](./CHANGELOG.md)
 
@@ -159,7 +170,9 @@ Los proximos frentes naturales de ampliacion son:
 - convertir playlists y rutas de discos en itinerarios de estudio mas detallados
 - desarrollar ejercicios practicos para la seccion tecnica
 - ampliar la seccion cultural con mas peliculas, libros, clubes, festivales y escenas locales
-- construir indices cruzados entre historia, estilos, artistas, tecnica, cultura y albumes
+- seguir incorporando diagramas Mermaid cuando aclaren relaciones complejas
+- ampliar la galeria visual solo con imagenes de dominio publico o licencias compatibles
+- construir indices cruzados entre historia, estilos, artistas, tecnica, cultura, recursos visuales y albumes
 
 ## Estructura del repositorio
 
@@ -208,6 +221,13 @@ JAZZ/
 |  |- JAZZ-Y-CINE.md
 |  |- INFLUENCIA-EN-OTRAS-ARTES.md
 |  |- PERSONAS-QUE-AMAN-EL-JAZZ.md
+|- RECURSOS-VISUALES/
+|  |- README.md
+|  |- DIAGRAMAS-MERMAID.md
+|  |- MAPAS-DE-CIUDADES-Y-ESCENAS.md
+|  |- FORMAS-STANDARDS-Y-PROGRESIONES.md
+|  |- ESQUEMAS-EXPLICATIVOS.md
+|  |- IMAGENES-DOMINIO-PUBLICO.md
 |- BITACORA.md
 |- CHANGELOG.md
 |- LICENSE

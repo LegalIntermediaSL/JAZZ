@@ -4,6 +4,33 @@ Todos los cambios importantes de este proyecto se registran en este archivo.
 
 El formato toma como referencia Keep a Changelog y utiliza fechas en estilo ISO `YYYY-MM-DD`.
 
+## [0.12.0] - 2026-06-16
+
+### Added
+
+- archivo `RECURSOS-VISUALES/MAPAS-DE-CIUDADES-Y-ESCENAS.md` con mapas Mermaid sobre migraciones, ciudades, clubes, escenas y circulacion global
+- archivo `RECURSOS-VISUALES/FORMAS-STANDARDS-Y-PROGRESIONES.md` con diagramas tecnicos sobre blues, AABA, rhythm changes, ii-V-I, sustituciones, Coltrane changes e improvisacion
+- nuevas imagenes de dominio publico en `RECURSOS-VISUALES/IMAGENES-DOMINIO-PUBLICO.md`
+
+### Changed
+
+- actualizacion de `README.md` y `RECURSOS-VISUALES/README.md` para integrar los nuevos recursos visuales
+- enlaces cruzados desde historia de ciudades y tecnica musical hacia los nuevos diagramas
+
+## [0.11.0] - 2026-06-15
+
+### Added
+
+- carpeta `RECURSOS-VISUALES/` para reunir materiales visuales del proyecto
+- archivo `RECURSOS-VISUALES/DIAGRAMAS-MERMAID.md` con diagramas sobre historia, estilos, interpretes, tecnica, improvisacion y rutas de escucha
+- archivo `RECURSOS-VISUALES/ESQUEMAS-EXPLICATIVOS.md` con plantillas de escucha y comparacion
+- archivo `RECURSOS-VISUALES/IMAGENES-DOMINIO-PUBLICO.md` con imagenes verificadas como dominio publico y enlaces a fuente/licencia
+
+### Changed
+
+- ampliacion de `README.md` para integrar la nueva ruta visual
+- enlaces cruzados desde historia, estilos, interpretes y tecnica hacia los recursos visuales
+
 ## [0.10.0] - 2026-06-14
 
 ### Added

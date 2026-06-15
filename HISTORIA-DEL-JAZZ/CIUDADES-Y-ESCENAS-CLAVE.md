@@ -1,5 +1,9 @@
 # Ciudades y escenas clave
 
+## Apoyo visual
+
+Para acompanar este capitulo, consulta [../RECURSOS-VISUALES/MAPAS-DE-CIUDADES-Y-ESCENAS.md](../RECURSOS-VISUALES/MAPAS-DE-CIUDADES-Y-ESCENAS.md). Alli encontraras diagramas Mermaid sobre New Orleans, Chicago, Harlem, Kansas City, Los Angeles, la AACM, el jazz latino y las rutas transatlanticas.
+
 ## 1. Por que las ciudades importan tanto
 
 La historia del jazz no puede entenderse solo a traves de estilos. Las ciudades organizan publicos, trabajos, clubes, radios, estudios, migraciones y redes de musicos. Cambiar de ciudad suele significar cambiar de sonido.

@@ -23,6 +23,7 @@ En su estado presente, el proyecto cubre:
 - una ruta extensa de 100 albumes para avanzar de forma progresiva
 - una carpeta tecnica sobre ritmo, formas, armonia, escalas, modos e improvisacion
 - una carpeta cultural sobre anecdotas, lugares, cine, artes e influencia publica del jazz
+- una carpeta de recursos visuales con diagramas Mermaid, esquemas de escucha e imagenes de dominio publico
 - una seleccion de artistas, canciones y albumes esenciales
 - documentacion de proceso mediante bitacora y changelog
 
@@ -35,6 +36,21 @@ En su estado presente, el proyecto cubre:
 - separar la portada del tutorial principal para hacer el repositorio mas escalable
 
 ## Registro de avances
+
+### 2026-06-16
+
+- se creo `RECURSOS-VISUALES/MAPAS-DE-CIUDADES-Y-ESCENAS.md` con diagramas Mermaid sobre migraciones, ciudades, clubes, escenas y circulacion global del jazz
+- se creo `RECURSOS-VISUALES/FORMAS-STANDARDS-Y-PROGRESIONES.md` con diagramas tecnicos sobre blues, AABA, rhythm changes, ii-V-I, sustituciones, Coltrane changes y construccion de solos
+- se amplio `RECURSOS-VISUALES/IMAGENES-DOMINIO-PUBLICO.md` con nuevas imagenes verificadas de Lester Young, Sarah Vaughan, Benny Goodman, Max Roach, Lionel Hampton, Earl Hines, Erroll Garner, Chet Baker y John Coltrane
+- se enlazaron los nuevos recursos desde `README.md`, historia de ciudades y tecnica musical
+
+### 2026-06-15
+
+- se creo la carpeta `RECURSOS-VISUALES/` para reunir diagramas Mermaid, esquemas explicativos e imagenes de dominio publico
+- se creo `RECURSOS-VISUALES/DIAGRAMAS-MERMAID.md` con mapas sobre historia, estilos, interpretes, tecnica, improvisacion y rutas de albumes
+- se creo `RECURSOS-VISUALES/ESQUEMAS-EXPLICATIVOS.md` con plantillas para escuchar por capas, comparar interpretes, reconocer formas y analizar albumes
+- se creo `RECURSOS-VISUALES/IMAGENES-DOMINIO-PUBLICO.md` con una galeria de figuras esenciales y enlaces a fuentes/licencias
+- se enlazo la nueva seccion desde `README.md`, historia, estilos, interpretes y tecnica
 
 ### 2026-06-14
 
@@ -71,6 +87,7 @@ En su estado presente, el proyecto cubre:
 - desarrollar bloques historicos sobre sellos, productoras, medios y festivales
 - ampliar todavia mas los perfiles de interpretes con relaciones de influencia y discografias guiadas
 - ampliar la nueva carpeta cultural con festivales, documentales, libros, novelas, fotografia y artes visuales
+- ampliar recursos visuales con mapas por ciudad, diagramas por standard e imagenes adicionales verificadas
 
 ## Ideas de ampliacion
 
@@ -84,6 +101,8 @@ En su estado presente, el proyecto cubre:
 - mapas de ciudades clave como New Orleans, Chicago y Nueva York
 - fichas tecnicas de standards frecuentes como `Autumn Leaves`, `All the Things You Are`, `So What` o `Rhythm Changes`
 - itinerarios culturales por clubes, sellos, peliculas, directores y escritores relacionados con el jazz
+- diagramas Mermaid especificos para cada estilo y cada ruta de escucha
+- galerias tematicas de dominio publico por instrumentos, clubes y escenas
 
 ## Riesgos o puntos a cuidar
 
@@ -93,7 +112,8 @@ En su estado presente, el proyecto cubre:
 - distinguir entre grabaciones historicas, recopilaciones y albumes de estudio
 - explicar teoria musical sin convertir el proyecto en un manual frio o excesivamente academico
 - cuidar que las anecdotas culturales no sustituyan la escucha, sino que la amplien
+- no incorporar imagenes con copyright ambiguo o licencias incompatibles con reutilizacion abierta
 
 ## Proximo hito sugerido
 
-El siguiente hito natural es seguir profundizando cada carpeta con secciones mas especializadas y mejorar los cruces internos entre historia, estilos, interpretes, playlists, tecnica, cultura y albumes.
+El siguiente hito natural es seguir profundizando cada carpeta con secciones mas especializadas y mejorar los cruces internos entre historia, estilos, interpretes, playlists, tecnica, cultura, recursos visuales y albumes.
