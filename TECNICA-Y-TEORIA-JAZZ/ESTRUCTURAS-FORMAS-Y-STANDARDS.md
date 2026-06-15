@@ -1,5 +1,9 @@
 # Estructuras, formas y standards
 
+## Apoyo visual
+
+Para acompanar este capitulo, consulta [../RECURSOS-VISUALES/FORMAS-STANDARDS-Y-PROGRESIONES.md](../RECURSOS-VISUALES/FORMAS-STANDARDS-Y-PROGRESIONES.md). Alli encontraras diagramas Mermaid sobre blues de 12 compases, AABA, rhythm changes, ii-V-I, sustitucion de tritono, Coltrane changes y construccion de solos.
+
 ## 1. Por que importan las formas
 
 La improvisacion en jazz casi nunca ocurre en el vacio. Muchas veces se improvisa sobre una forma compartida. Reconocer esa forma ayuda a no perderse durante los solos.
