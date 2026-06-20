@@ -88,6 +88,8 @@ El free jazz no consiste en negar toda forma, sino en abrirla. A veces conserva 
 
 La fusion cruza jazz con rock, funk y produccion electrica. Para muchas personas es una puerta muy natural si vienen de bandas sonoras, rock progresivo o grooves mas repetitivos.
 
+No existe una sola fusion. Hay una via mas atmosferica y textural, otra mas cercana al funk, otra muy ligada al virtuosismo electrico y otra que hereda elementos del latin jazz y de musicas globales. Escuchar estas diferencias evita que "fusion" se vuelva una etiqueta demasiado vaga.
+
 ### Rasgos principales
 
 - bajo electrico
@@ -95,6 +97,8 @@ La fusion cruza jazz con rock, funk y produccion electrica. Para muchas personas
 - grooves largos
 - capas sonoras de estudio
 - composiciones mas abiertas
+- mezcla entre improvisacion y riff
+- peso creciente del productor y del sonido amplificado
 
 ### Artistas para empezar
 
@@ -103,6 +107,8 @@ La fusion cruza jazz con rock, funk y produccion electrica. Para muchas personas
 - Weather Report
 - Return to Forever
 - Mahavishnu Orchestra
+- Pat Metheny Group
+- Jaco Pastorius
 
 ### Piezas recomendadas
 
@@ -110,6 +116,15 @@ La fusion cruza jazz con rock, funk y produccion electrica. Para muchas personas
 - Herbie Hancock - "Chameleon"
 - Weather Report - "Birdland"
 - Chick Corea and Return to Forever - "Spain"
+- Mahavishnu Orchestra - "Meeting of the Spirits"
+- Pat Metheny Group - "Are You Going with Me?"
+
+### Subrutas utiles dentro de la fusion
+
+- si vienes del funk, entra por Herbie Hancock y Grover Washington Jr.
+- si vienes del rock progresivo, entra por Mahavishnu Orchestra y Return to Forever
+- si vienes del latin jazz, cruza esta seccion con [JAZZ-LATINO-BOSSA-Y-AFROCUBANO.md](./JAZZ-LATINO-BOSSA-Y-AFROCUBANO.md)
+- si prefieres una atmosfera mas lirica, prueba Weather Report y Pat Metheny Group
 
 ## 6. Jazz contemporaneo
 
@@ -119,6 +134,15 @@ El jazz actual ya no puede describirse con una sola capital estetica. Conviven v
 - cruce con hip hop y neo soul
 - improvisacion libre contemporanea
 - escenas londinenses, europeas, latinoamericanas y globales
+- trabajo de archivo y relectura del repertorio historico
+- proyectos donde composicion, produccion y performance pesan tanto como el solo
+
+### Algunas lineas para orientarse
+
+- una linea acustica que prolonga el trio y el quinteto modernos
+- una linea afro-diasporica donde jazz, hip hop, spoken word y soul se entrelazan
+- una linea experimental con escritura fragmentada, timbres inusuales y formas abiertas
+- una linea global que dialoga con escenas de Londres, Chicago, Los Angeles, Paris, Sao Paulo o Ciudad de Mexico
 
 ### Artistas para empezar
 
@@ -135,6 +159,8 @@ El jazz actual ya no puede describirse con una sola capital estetica. Conviven v
 - Esperanza Spalding - "I Know You Know"
 - Kamasi Washington - "Change of the Guard"
 - Nubya Garcia - "Pace"
+- Brad Mehldau - "Exit Music (For a Film)"
+- Mary Halvorson - "Sinks When She Rounds the Bend"
 
 ## 7. Como diferenciar estas ramas
 
@@ -154,7 +180,21 @@ Escucha electricidad, groove y cruce con funk o rock.
 
 Escucha mezcla de tradiciones y nuevas producciones.
 
-## 8. Albumes esenciales de esta familia
+## 8. Donde seguir segun lo que mas te interese
+
+### Si te interesa el ritmo
+
+Vuelve a [JAZZ-LATINO-BOSSA-Y-AFROCUBANO.md](./JAZZ-LATINO-BOSSA-Y-AFROCUBANO.md) y compara como cambia el pulso respecto al modal o la fusion.
+
+### Si te interesa la historia
+
+Cruza esta lectura con [../HISTORIA-DEL-JAZZ/DE-LA-MODERNIDAD-A-LA-ESCENA-GLOBAL.md](../HISTORIA-DEL-JAZZ/DE-LA-MODERNIDAD-A-LA-ESCENA-GLOBAL.md).
+
+### Si te interesa la escucha guiada
+
+Pasa por las playlists 5, 6, 8 y 10 en [../PLAYLISTS-JAZZ.md](../PLAYLISTS-JAZZ.md).
+
+## 9. Albumes esenciales de esta familia
 
 - Miles Davis - *Kind of Blue*
 - John Coltrane - *A Love Supreme*
@@ -163,7 +203,7 @@ Escucha mezcla de tradiciones y nuevas producciones.
 - Miles Davis - *Bitches Brew*
 - Robert Glasper - *Black Radio*
 
-## 9. Ejercicio de escucha
+## 10. Ejercicio de escucha
 
 Haz esta secuencia:
 
@@ -180,6 +220,6 @@ Despues intenta decir:
 - donde la textura manda sobre la melodia
 - donde el pasado del jazz sigue mas visible
 
-## 10. Una idea final
+## 11. Una idea final
 
 Esta zona del jazz suele parecer la mas dificil porque exige desaprender una sola idea de lo que la musica debe hacer. Pero cuando el oido se abre, aqui aparece una de las mayores riquezas del genero: su capacidad para cambiar sin agotarse.

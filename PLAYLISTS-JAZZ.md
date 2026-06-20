@@ -211,6 +211,11 @@ Reune una de las zonas mas accesibles, elegantes y ritmicamente ricas del jazz. 
 - *Jazz Samba*
 - *Manteca*
 
+### Para seguir
+
+- [ESTILOS/JAZZ-LATINO-BOSSA-Y-AFROCUBANO.md](./ESTILOS/JAZZ-LATINO-BOSSA-Y-AFROCUBANO.md)
+- [HISTORIA-DEL-JAZZ/DE-LA-MODERNIDAD-A-LA-ESCENA-GLOBAL.md](./HISTORIA-DEL-JAZZ/DE-LA-MODERNIDAD-A-LA-ESCENA-GLOBAL.md)
+
 ## Playlist 8: fusion y electricidad
 
 ### Para que sirve
@@ -237,6 +242,11 @@ Si vienes del rock, del funk o del groove electrico, esta puede ser una de las m
 - *Head Hunters*
 - *Heavy Weather*
 - *Bitches Brew*
+
+### Para seguir
+
+- [ESTILOS/MODAL-FREE-FUSION-Y-CONTEMPORANEO.md](./ESTILOS/MODAL-FREE-FUSION-Y-CONTEMPORANEO.md)
+- [HISTORIA-DEL-JAZZ/DE-LA-MODERNIDAD-A-LA-ESCENA-GLOBAL.md](./HISTORIA-DEL-JAZZ/DE-LA-MODERNIDAD-A-LA-ESCENA-GLOBAL.md)
 
 ## Playlist 9: voces esenciales
 
@@ -291,6 +301,12 @@ Ayuda a salir de la idea de que el jazz es solo un museo. Aqui aparecen cruces c
 - *Black Radio*
 - *The Epic*
 - *Source*
+
+### Para seguir
+
+- [ESTILOS/MODAL-FREE-FUSION-Y-CONTEMPORANEO.md](./ESTILOS/MODAL-FREE-FUSION-Y-CONTEMPORANEO.md)
+- [INTERPRETES/MAPA-AMPLIADO-DE-INTERPRETES.md](./INTERPRETES/MAPA-AMPLIADO-DE-INTERPRETES.md)
+- [CULTURA-JAZZ/LUGARES-CLUBES-Y-CIUDADES.md](./CULTURA-JAZZ/LUGARES-CLUBES-Y-CIUDADES.md)
 
 ## Rutas rapidas segun el oyente
 

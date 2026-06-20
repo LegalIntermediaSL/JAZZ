@@ -39,11 +39,11 @@ El repositorio se apoya en dos niveles.
 ### Nivel 2: carpetas tematicas
 
 - [HISTORIA-DEL-JAZZ/](./HISTORIA-DEL-JAZZ/README.md): desarrollo historico ampliado por etapas, ciudades y procesos culturales
-- [ESTILOS/](./ESTILOS/README.md): estudio del jazz por lenguajes musicales y transformaciones esteticas
+- [ESTILOS/](./ESTILOS/README.md): estudio del jazz por lenguajes musicales, desde swing y bebop hasta latin jazz, fusion y presente
 - [INTERPRETES/](./INTERPRETES/README.md): perfiles, recorridos y mapa ampliado de artistas esenciales
 - [APRENDER-JAZZ-OYENDO-ALBUMES/](./APRENDER-JAZZ-OYENDO-ALBUMES/README.md): escucha formativa de discos completos
 - [TECNICA-Y-TEORIA-JAZZ/](./TECNICA-Y-TEORIA-JAZZ/README.md): conceptos musicales para entender ritmo, forma, armonia, escalas e improvisacion
-- [CULTURA-JAZZ/](./CULTURA-JAZZ/README.md): anecdotas, lugares, cine, artes e influencia cultural del jazz
+- [CULTURA-JAZZ/](./CULTURA-JAZZ/README.md): anecdotas, lugares, cine, libros, documentales, medios y escenas culturales del jazz
 - [RECURSOS-VISUALES/](./RECURSOS-VISUALES/README.md): diagramas Mermaid, esquemas de escucha e imagenes de dominio publico
 
 ### Documentacion editorial
@@ -91,8 +91,8 @@ No hace falta leer todo en orden lineal. Puedes entrar por la ruta que mas se aj
 ### Ruta 6: si te interesa la cultura alrededor del jazz
 
 1. Entra en [CULTURA-JAZZ/](./CULTURA-JAZZ/README.md).
-2. Lee despues [JAZZ-Y-CINE.md](./CULTURA-JAZZ/JAZZ-Y-CINE.md) y [INFLUENCIA-EN-OTRAS-ARTES.md](./CULTURA-JAZZ/INFLUENCIA-EN-OTRAS-ARTES.md).
-3. Cruza esos materiales con [LUGARES-CLUBES-Y-CIUDADES.md](./CULTURA-JAZZ/LUGARES-CLUBES-Y-CIUDADES.md) para ubicar la musica en espacios reales.
+2. Lee despues [JAZZ-Y-CINE.md](./CULTURA-JAZZ/JAZZ-Y-CINE.md) y [LIBROS-DOCUMENTALES-Y-MEDIOS.md](./CULTURA-JAZZ/LIBROS-DOCUMENTALES-Y-MEDIOS.md).
+3. Cruza esos materiales con [LUGARES-CLUBES-Y-CIUDADES.md](./CULTURA-JAZZ/LUGARES-CLUBES-Y-CIUDADES.md) e [INFLUENCIA-EN-OTRAS-ARTES.md](./CULTURA-JAZZ/INFLUENCIA-EN-OTRAS-ARTES.md) para ubicar la musica en espacios reales y en otras artes.
 
 ### Ruta 7: si quieres estudiar con esquemas visuales
 
@@ -109,14 +109,14 @@ La base actual del proyecto ya cubre varios frentes de aprendizaje:
 - una explicacion introductoria de que es el jazz y como escucharlo
 - conceptos basicos como swing, improvisacion, standard, chorus y small combo
 - recorridos historicos desde New Orleans hasta la escena contemporanea
-- comparaciones entre estilos como swing, bebop, cool, hard bop, modal, free y fusion
+- comparaciones entre estilos como swing, bebop, cool, hard bop, latin jazz, bossa nova, modal, free y fusion
 - perfiles de trompetistas, saxofonistas, pianistas, voces, lideres, guitarristas y figuras de la seccion ritmica
 - un mapa ampliado de interpretes con enlaces a Wikipedia y primeras escuchas recomendadas
 - playlists pensadas para distintas sensibilidades de escucha
 - rutas de albumes para formar el oido a corto, medio y largo plazo
 - una ruta extensa de 100 albumes para avanzar por bloques historicos y esteticos
 - una seccion tecnica sobre ritmo, formas, armonia, escalas, modos e improvisacion
-- una seccion cultural con anecdotas, clubes, ciudades, cine, artes visuales, literatura y aficionados ilustres
+- una seccion cultural con anecdotas, clubes, ciudades, cine, libros, documentales, medios, artes visuales, literatura y aficionados ilustres
 - diagramas Mermaid, mapas de ciudades, esquemas explicativos e imagenes de dominio publico verificadas
 
 ## Contenido principal
@@ -163,13 +163,13 @@ El repositorio ya tiene una arquitectura funcional y una base de contenido real,
 
 Los proximos frentes naturales de ampliacion son:
 
-- desarrollar mas a fondo vocal jazz, latin jazz, fusion y escena contemporanea
+- seguir profundizando vocal jazz, fusion y escena contemporanea, ahora con un nuevo capitulo propio para latin jazz y bossa nova
 - crear perfiles de artistas mas amplios y con mejores cruces entre unos y otros
 - sumar glosarios, fichas de albumes y recorridos por instrumentos
 - enriquecer todavia mas la carpeta historica con ciudades, escenas, clubes, sellos y contextos sociales
 - convertir playlists y rutas de discos en itinerarios de estudio mas detallados
 - desarrollar ejercicios practicos para la seccion tecnica
-- ampliar la seccion cultural con mas peliculas, libros, clubes, festivales y escenas locales
+- ampliar la seccion cultural con mas libros, documentales, clubes, festivales y escenas locales
 - seguir incorporando diagramas Mermaid cuando aclaren relaciones complejas
 - ampliar la galeria visual solo con imagenes de dominio publico o licencias compatibles
 - construir indices cruzados entre historia, estilos, artistas, tecnica, cultura, recursos visuales y albumes
@@ -194,6 +194,7 @@ JAZZ/
 |  |- README.md
 |  |- ORIGEN-SWING-Y-BIG-BANDS.md
 |  |- BEBOP-COOL-Y-HARD-BOP.md
+|  |- JAZZ-LATINO-BOSSA-Y-AFROCUBANO.md
 |  |- MODAL-FREE-FUSION-Y-CONTEMPORANEO.md
 |- INTERPRETES/
 |  |- README.md
@@ -219,6 +220,7 @@ JAZZ/
 |  |- ANECDOTAS-Y-DETALLES.md
 |  |- LUGARES-CLUBES-Y-CIUDADES.md
 |  |- JAZZ-Y-CINE.md
+|  |- LIBROS-DOCUMENTALES-Y-MEDIOS.md
 |  |- INFLUENCIA-EN-OTRAS-ARTES.md
 |  |- PERSONAS-QUE-AMAN-EL-JAZZ.md
 |- RECURSOS-VISUALES/

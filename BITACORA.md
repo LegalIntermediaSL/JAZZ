@@ -37,6 +37,15 @@ En su estado presente, el proyecto cubre:
 
 ## Registro de avances
 
+### 2026-06-20
+
+- se creo `ESTILOS/JAZZ-LATINO-BOSSA-Y-AFROCUBANO.md` para desarrollar en profundidad el latin jazz, la bossa nova y los cruces afrocubanos
+- se amplio `ESTILOS/MODAL-FREE-FUSION-Y-CONTEMPORANEO.md` con subrutas de escucha, mas contexto sobre fusion y mejores orientaciones para la escena contemporanea
+- se amplio `HISTORIA-DEL-JAZZ/DE-LA-MODERNIDAD-A-LA-ESCENA-GLOBAL.md` con mas contexto sobre jazz latino, fusion, institucionalizacion y escena global
+- se creo `CULTURA-JAZZ/LIBROS-DOCUMENTALES-Y-MEDIOS.md` con una ruta cultural de libros, documentales y materiales para profundizar
+- se amplio `CULTURA-JAZZ/LUGARES-CLUBES-Y-CIUDADES.md` con festivales, jam sessions y escenas locales actuales
+- se actualizaron `README.md`, `GUIA-JAZZ.md`, `PLAYLISTS-JAZZ.md`, `ESTILOS/README.md` y `CULTURA-JAZZ/README.md` para integrar el nuevo contenido y mejorar los cruces internos
+
 ### 2026-06-16
 
 - se creo `RECURSOS-VISUALES/MAPAS-DE-CIUDADES-Y-ESCENAS.md` con diagramas Mermaid sobre migraciones, ciudades, clubes, escenas y circulacion global del jazz
@@ -77,7 +86,7 @@ En su estado presente, el proyecto cubre:
 
 ## Pendientes prioritarios
 
-- ampliar la cobertura de jazz latino, fusion y escena contemporanea
+- seguir ampliando vocal jazz, fusion y escena contemporanea con mas discografias guiadas y comparaciones de escucha
 - preparar una version mas orientada a uso docente
 - desarrollar perfiles de artistas y albumes esenciales
 - crear rutas cruzadas entre estilos, artistas y albumes
@@ -86,7 +95,7 @@ En su estado presente, el proyecto cubre:
 - sumar referencias entre playlists, discos y artistas en cada documento
 - desarrollar bloques historicos sobre sellos, productoras, medios y festivales
 - ampliar todavia mas los perfiles de interpretes con relaciones de influencia y discografias guiadas
-- ampliar la nueva carpeta cultural con festivales, documentales, libros, novelas, fotografia y artes visuales
+- ampliar la nueva carpeta cultural con novelas, fotografia, prensa historica y artes visuales
 - ampliar recursos visuales con mapas por ciudad, diagramas por standard e imagenes adicionales verificadas
 
 ## Ideas de ampliacion

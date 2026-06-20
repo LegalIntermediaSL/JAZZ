@@ -68,6 +68,52 @@ Club londinense fundamental para pensar la recepcion y practica del jazz fuera d
 
 El festival de San Sebastian es una referencia importante para la cultura jazzistica en Espana y Europa.
 
-## 18. Idea final
+## 18. Monterey Jazz Festival
+
+Monterey representa otra forma de institucionalizacion publica del jazz. Ayuda a ver como el genero entra en el calendario cultural y en una memoria compartida mas amplia.
+
+## 19. North Sea Jazz y Umbria Jazz
+
+Estos festivales ayudan a pensar la consolidacion europea del jazz como circuito internacional. No sustituyen a los clubes, pero muestran la escala global que la musica alcanza en la segunda mitad del siglo XX.
+
+## 20. Las jam sessions
+
+No todo pasa por lugares legendarios. La jam session sigue siendo un espacio decisivo para aprender repertorio, medir reflejos, conocer musicos y entrar en una escena local.
+
+### Por que importan
+
+- mantienen vivo el repertorio
+- cruzan generaciones
+- permiten oir como cambia un standard de una noche a otra
+- muestran el jazz como practica social real, no solo como archivo
+
+## 21. Escenas locales y circuitos actuales
+
+La vida actual del jazz suele organizarse en pequenos ecosistemas:
+
+- clubes pequenos
+- auditorios medianos
+- escuelas y conservatorios
+- festivales municipales
+- sellos independientes
+- radios culturales
+- bares donde una jam puede ser tan importante como un gran concierto
+
+Pensar el jazz de hoy exige mirar esos circuitos, no solo las capitales miticas del pasado.
+
+## 22. Como explorar una ciudad desde el jazz
+
+- busca un club historico y comparalo con una sala pequena actual
+- intenta asistir tanto a un concierto formal como a una jam
+- pregunta que musicos locales sostienen la escena
+- observa si el repertorio esta mas ligado al cancionero clasico, al latin jazz, a la fusion o a la experimentacion
+
+## 23. Cruces utiles dentro del repositorio
+
+- [JAZZ-Y-CINE.md](./JAZZ-Y-CINE.md) para ver como el cine convierte estos espacios en imaginario
+- [LIBROS-DOCUMENTALES-Y-MEDIOS.md](./LIBROS-DOCUMENTALES-Y-MEDIOS.md) para ampliar contexto sobre festivales, sellos y archivos
+- [../HISTORIA-DEL-JAZZ/CIUDADES-Y-ESCENAS-CLAVE.md](../HISTORIA-DEL-JAZZ/CIUDADES-Y-ESCENAS-CLAVE.md) para una lectura historica mas amplia
+
+## 24. Idea final
 
 Una historia del jazz sin lugares queda demasiado abstracta. Los clubes y ciudades son parte del sonido.

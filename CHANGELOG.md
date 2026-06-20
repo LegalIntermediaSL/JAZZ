@@ -4,6 +4,20 @@ Todos los cambios importantes de este proyecto se registran en este archivo.
 
 El formato toma como referencia Keep a Changelog y utiliza fechas en estilo ISO `YYYY-MM-DD`.
 
+## [0.13.0] - 2026-06-20
+
+### Added
+
+- archivo `ESTILOS/JAZZ-LATINO-BOSSA-Y-AFROCUBANO.md` con un desarrollo especifico sobre latin jazz, bossa nova y cruces afrocubanos
+- archivo `CULTURA-JAZZ/LIBROS-DOCUMENTALES-Y-MEDIOS.md` con rutas de libros, documentales y materiales de profundizacion cultural
+
+### Changed
+
+- ampliacion de `ESTILOS/MODAL-FREE-FUSION-Y-CONTEMPORANEO.md` para profundizar fusion y escena contemporanea
+- ampliacion de `HISTORIA-DEL-JAZZ/DE-LA-MODERNIDAD-A-LA-ESCENA-GLOBAL.md` con mas contexto sobre escena global e institucionalizacion
+- ampliacion de `CULTURA-JAZZ/LUGARES-CLUBES-Y-CIUDADES.md` con festivales, jam sessions y circuitos locales
+- actualizacion de `README.md`, `GUIA-JAZZ.md`, `PLAYLISTS-JAZZ.md`, `ESTILOS/README.md` y `CULTURA-JAZZ/README.md` para integrar el nuevo contenido
+
 ## [0.12.0] - 2026-06-16
 
 ### Added

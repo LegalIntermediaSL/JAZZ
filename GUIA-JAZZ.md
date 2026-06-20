@@ -337,6 +337,13 @@ Hoy el jazz no es una sola escena. Conviven musicos muy ligados a la tradicion c
 - "Afro Blue"
 - "Change of the Guard"
 
+#### Para seguir esta zona
+
+- [ESTILOS/JAZZ-LATINO-BOSSA-Y-AFROCUBANO.md](./ESTILOS/JAZZ-LATINO-BOSSA-Y-AFROCUBANO.md)
+- [ESTILOS/MODAL-FREE-FUSION-Y-CONTEMPORANEO.md](./ESTILOS/MODAL-FREE-FUSION-Y-CONTEMPORANEO.md)
+- [HISTORIA-DEL-JAZZ/DE-LA-MODERNIDAD-A-LA-ESCENA-GLOBAL.md](./HISTORIA-DEL-JAZZ/DE-LA-MODERNIDAD-A-LA-ESCENA-GLOBAL.md)
+- [PLAYLISTS-JAZZ.md](./PLAYLISTS-JAZZ.md)
+
 ## 7. Instrumentos y figuras imprescindibles
 
 ## Trompeta
