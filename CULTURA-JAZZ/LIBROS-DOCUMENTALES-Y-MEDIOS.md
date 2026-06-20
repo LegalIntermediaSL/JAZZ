@@ -118,6 +118,8 @@ No todo aprendizaje pasa por un libro cerrado o un documental largo. Tambien ayu
 
 - [JAZZ-Y-CINE.md](./JAZZ-Y-CINE.md) para ampliar la via audiovisual
 - [LUGARES-CLUBES-Y-CIUDADES.md](./LUGARES-CLUBES-Y-CIUDADES.md) para pensar el jazz desde los espacios
+- [SELLOS-MEDIOS-Y-ARCHIVOS.md](./SELLOS-MEDIOS-Y-ARCHIVOS.md) para seguir la pista de sellos, revistas, radio y archivo
+- [FOTOGRAFIA-PRENSA-Y-PORTADAS.md](./FOTOGRAFIA-PRENSA-Y-PORTADAS.md) para la cultura visual del jazz
 - [../APRENDER-JAZZ-OYENDO-ALBUMES/COMO-ESCUCHAR-UN-ALBUM-DE-JAZZ.md](../APRENDER-JAZZ-OYENDO-ALBUMES/COMO-ESCUCHAR-UN-ALBUM-DE-JAZZ.md) para volver siempre al centro: la escucha
 
 ## 11. Idea final

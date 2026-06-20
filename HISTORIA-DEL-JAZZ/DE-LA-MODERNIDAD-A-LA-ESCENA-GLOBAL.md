@@ -155,6 +155,7 @@ La escena contemporanea no rompe simplemente con el pasado ni lo replica. Trabaj
 - [../ESTILOS/MODAL-FREE-FUSION-Y-CONTEMPORANEO.md](../ESTILOS/MODAL-FREE-FUSION-Y-CONTEMPORANEO.md) para escuchar como suenan estos cambios
 - [../CULTURA-JAZZ/LUGARES-CLUBES-Y-CIUDADES.md](../CULTURA-JAZZ/LUGARES-CLUBES-Y-CIUDADES.md) para relacionar historia con clubes y festivales
 - [../CULTURA-JAZZ/LIBROS-DOCUMENTALES-Y-MEDIOS.md](../CULTURA-JAZZ/LIBROS-DOCUMENTALES-Y-MEDIOS.md) para ampliar contexto cultural
+- [INDUSTRIA-MEDIOS-Y-FESTIVALES.md](./INDUSTRIA-MEDIOS-Y-FESTIVALES.md) para seguir la infraestructura de sellos, revistas, radio y festivales
 
 ## 10. Cierre
 

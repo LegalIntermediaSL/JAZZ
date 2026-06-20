@@ -46,7 +46,7 @@ El repositorio se apoya en dos niveles.
 - [INTERPRETES/](./INTERPRETES/README.md): perfiles, recorridos y mapa ampliado de artistas esenciales
 - [APRENDER-JAZZ-OYENDO-ALBUMES/](./APRENDER-JAZZ-OYENDO-ALBUMES/README.md): escucha formativa de discos completos
 - [TECNICA-Y-TEORIA-JAZZ/](./TECNICA-Y-TEORIA-JAZZ/README.md): conceptos musicales y practica de escucha para entender ritmo, forma, armonia, escalas, standards e improvisacion
-- [CULTURA-JAZZ/](./CULTURA-JAZZ/README.md): anecdotas, lugares, cine, libros, documentales, medios y escenas culturales del jazz
+- [CULTURA-JAZZ/](./CULTURA-JAZZ/README.md): anecdotas, lugares, cine, sellos, medios, fotografia, prensa y escenas culturales del jazz
 - [RECURSOS-VISUALES/](./RECURSOS-VISUALES/README.md): diagramas Mermaid, esquemas de escucha e imagenes de dominio publico
 
 ### Documentacion editorial
@@ -96,8 +96,8 @@ No hace falta leer todo en orden lineal. Puedes entrar por la ruta que mas se aj
 ### Ruta 6: si te interesa la cultura alrededor del jazz
 
 1. Entra en [CULTURA-JAZZ/](./CULTURA-JAZZ/README.md).
-2. Lee despues [JAZZ-Y-CINE.md](./CULTURA-JAZZ/JAZZ-Y-CINE.md) y [LIBROS-DOCUMENTALES-Y-MEDIOS.md](./CULTURA-JAZZ/LIBROS-DOCUMENTALES-Y-MEDIOS.md).
-3. Cruza esos materiales con [LUGARES-CLUBES-Y-CIUDADES.md](./CULTURA-JAZZ/LUGARES-CLUBES-Y-CIUDADES.md) e [INFLUENCIA-EN-OTRAS-ARTES.md](./CULTURA-JAZZ/INFLUENCIA-EN-OTRAS-ARTES.md) para ubicar la musica en espacios reales y en otras artes.
+2. Lee despues [JAZZ-Y-CINE.md](./CULTURA-JAZZ/JAZZ-Y-CINE.md), [LIBROS-DOCUMENTALES-Y-MEDIOS.md](./CULTURA-JAZZ/LIBROS-DOCUMENTALES-Y-MEDIOS.md) y [SELLOS-MEDIOS-Y-ARCHIVOS.md](./CULTURA-JAZZ/SELLOS-MEDIOS-Y-ARCHIVOS.md).
+3. Cruza esos materiales con [LUGARES-CLUBES-Y-CIUDADES.md](./CULTURA-JAZZ/LUGARES-CLUBES-Y-CIUDADES.md), [FOTOGRAFIA-PRENSA-Y-PORTADAS.md](./CULTURA-JAZZ/FOTOGRAFIA-PRENSA-Y-PORTADAS.md) e [INFLUENCIA-EN-OTRAS-ARTES.md](./CULTURA-JAZZ/INFLUENCIA-EN-OTRAS-ARTES.md) para ubicar la musica en espacios reales, medios e imaginarios visuales.
 
 ### Ruta 7: si quieres estudiar con esquemas visuales
 
@@ -130,7 +130,7 @@ La base actual del proyecto ya cubre varios frentes de aprendizaje:
 - una ruta extensa de 100 albumes para avanzar por bloques historicos y esteticos
 - una seccion tecnica sobre ritmo, formas, armonia, escalas, modos e improvisacion
 - un bloque tecnico-aplicado con ejercicios de escucha y fichas de standards para pasar de la teoria a la practica
-- una seccion cultural con anecdotas, clubes, ciudades, cine, libros, documentales, medios, artes visuales, literatura y aficionados ilustres
+- una seccion cultural con anecdotas, clubes, ciudades, cine, sellos, medios, fotografia, prensa, artes visuales, literatura y aficionados ilustres
 - un glosario central de terminos para fijar vocabulario sin romper la fluidez de lectura
 - una guia de uso docente para clases, mediacion cultural y clubes de escucha
 - una capa de secuencias docentes por nivel, edad y tipo de grupo
@@ -153,6 +153,8 @@ La base actual del proyecto ya cubre varios frentes de aprendizaje:
 - [Ejercicios practicos de escucha](./TECNICA-Y-TEORIA-JAZZ/EJERCICIOS-PRACTICOS-DE-ESCUCHA.md)
 - [Fichas de standards clave](./TECNICA-Y-TEORIA-JAZZ/FICHAS-DE-STANDARDS-CLAVE.md)
 - [Cultura jazz](./CULTURA-JAZZ/README.md)
+- [Sellos, medios y archivos](./CULTURA-JAZZ/SELLOS-MEDIOS-Y-ARCHIVOS.md)
+- [Fotografia, prensa y portadas](./CULTURA-JAZZ/FOTOGRAFIA-PRENSA-Y-PORTADAS.md)
 - [Recursos visuales](./RECURSOS-VISUALES/README.md)
 - [Bitacora del proyecto](./BITACORA.md)
 - [Changelog](./CHANGELOG.md)
@@ -189,10 +191,10 @@ Los proximos frentes naturales de ampliacion son:
 - seguir profundizando vocal jazz, fusion y escena contemporanea, ahora con un nuevo capitulo propio para latin jazz y bossa nova
 - crear perfiles de artistas mas amplios y con mejores cruces entre unos y otros
 - seguir ampliando glosarios, fichas de albumes, recorridos por instrumentos y secuencias docentes
-- enriquecer todavia mas la carpeta historica con ciudades, escenas, clubes, sellos y contextos sociales
+- enriquecer todavia mas la carpeta historica con escenas, clubes, sellos, radio, prensa y contextos sociales
 - convertir playlists y rutas de discos en itinerarios de estudio mas detallados
 - seguir desarrollando ejercicios practicos para la seccion tecnica con mas standards, baladas y casos de escucha comparada
-- ampliar la seccion cultural con mas libros, documentales, clubes, festivales y escenas locales
+- ampliar la seccion cultural con mas documentales, fotografia, prensa historica, clubes, festivales y escenas locales
 - seguir incorporando diagramas Mermaid cuando aclaren relaciones complejas
 - ampliar la galeria visual solo con imagenes de dominio publico o licencias compatibles
 - construir indices cruzados entre historia, estilos, artistas, tecnica, cultura, recursos visuales y albumes
@@ -216,6 +218,7 @@ JAZZ/
 |  |- DERECHOS-CIVILES-JAZZ-ESPIRITUAL-Y-VANGUARDIA.md
 |  |- DE-LA-MODERNIDAD-A-LA-ESCENA-GLOBAL.md
 |  |- CIUDADES-Y-ESCENAS-CLAVE.md
+|  |- INDUSTRIA-MEDIOS-Y-FESTIVALES.md
 |- ESTILOS/
 |  |- README.md
 |  |- ORIGEN-SWING-Y-BIG-BANDS.md
@@ -250,6 +253,8 @@ JAZZ/
 |  |- LUGARES-CLUBES-Y-CIUDADES.md
 |  |- JAZZ-Y-CINE.md
 |  |- LIBROS-DOCUMENTALES-Y-MEDIOS.md
+|  |- SELLOS-MEDIOS-Y-ARCHIVOS.md
+|  |- FOTOGRAFIA-PRENSA-Y-PORTADAS.md
 |  |- INFLUENCIA-EN-OTRAS-ARTES.md
 |  |- PERSONAS-QUE-AMAN-EL-JAZZ.md
 |- RECURSOS-VISUALES/
@@ -271,3 +276,17 @@ El jazz puede intimidar cuando se presenta como un examen de erudicion. Este rep
 ## Licencia
 
 Este repositorio incluye una licencia MIT en [LICENSE](./LICENSE).
+
+## Nota y condiciones de uso
+
+Este repositorio tiene un fin principalmente divulgativo, cultural y pedagogico. Los documentos aqui reunidos buscan favorecer la libre circulacion de informacion, la curiosidad, el aprecio y el afecto por el jazz como musica, historia y cultura.
+
+El contenido se ofrece tal como esta, como material de lectura, orientacion y escucha. No se garantiza su exactitud absoluta, su exhaustividad, su actualidad permanente ni la ausencia de errores, omisiones, simplificaciones o interpretaciones discutibles. Quien use estos materiales deberia contrastar datos, fechas, discografias, atribuciones y contextos cuando necesite un grado alto de precision.
+
+Las afirmaciones, selecciones, comparaciones y enfasis presentes en estos documentos responden a un criterio editorial concreto y pueden no ser compartidos por quien los lea. Eso no solo es esperable, sino tambien valioso: la discrepancia razonada, la critica fundamentada y la discusion documentada enriquecen el estudio y la difusion del jazz mucho mas que una apariencia de unanimidad.
+
+Este repositorio no pretende sustituir fuentes primarias, investigaciones academicas, archivos especializados, ediciones criticas, musicologia profesional ni asesoramiento experto en contextos donde la precision sea especialmente importante. Su funcion es abrir puertas de entrada, proponer recorridos y estimular mejores practicas de escucha y lectura.
+
+Para la confeccion, organizacion, reformulacion y localizacion preliminar de informacion de parte de estos textos se han utilizado sistemas de inteligencia artificial como herramienta de apoyo. Eso significa que algunos materiales pueden contener errores de formulacion, asociaciones discutibles o referencias que conviene revisar de manera independiente. La presencia de estas herramientas no elimina la necesidad de lectura critica; al contrario, la vuelve aun mas recomendable.
+
+Esta nota editorial y estas condiciones de uso no sustituyen la licencia del repositorio ni la modifican. La licencia tecnica aplicable al proyecto sigue siendo la indicada en [LICENSE](./LICENSE).

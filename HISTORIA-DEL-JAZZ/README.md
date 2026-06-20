@@ -6,7 +6,7 @@ Esta carpeta desarrolla la historia del jazz con mas detalle narrativo que la cr
 
 ## Como esta organizada
 
-La carpeta se divide en seis ejes historicos que pueden leerse en orden o por interes:
+La carpeta se divide en siete ejes historicos que pueden leerse en orden o por interes:
 
 1. [ORIGENES-Y-NEW-ORLEANS.md](./ORIGENES-Y-NEW-ORLEANS.md)
 2. [CHICAGO-HARLEM-Y-LA-GRAN-MIGRACION.md](./CHICAGO-HARLEM-Y-LA-GRAN-MIGRACION.md)
@@ -14,6 +14,7 @@ La carpeta se divide en seis ejes historicos que pueden leerse en orden o por in
 4. [DERECHOS-CIVILES-JAZZ-ESPIRITUAL-Y-VANGUARDIA.md](./DERECHOS-CIVILES-JAZZ-ESPIRITUAL-Y-VANGUARDIA.md)
 5. [DE-LA-MODERNIDAD-A-LA-ESCENA-GLOBAL.md](./DE-LA-MODERNIDAD-A-LA-ESCENA-GLOBAL.md)
 6. [CIUDADES-Y-ESCENAS-CLAVE.md](./CIUDADES-Y-ESCENAS-CLAVE.md)
+7. [INDUSTRIA-MEDIOS-Y-FESTIVALES.md](./INDUSTRIA-MEDIOS-Y-FESTIVALES.md)
 
 ## Esquema visual rapido
 
@@ -49,6 +50,7 @@ Sirve para quien quiere entrar por ciudades, por cambios sociales o por momentos
 - que peso tienen las migraciones y las ciudades
 - por que cambian las formas de tocar de una epoca a otra
 - como se conectan la industria del disco, los clubes y la evolucion del lenguaje
+- que papel tienen sellos, revistas, radio, portadas y festivales en la historia del genero
 - que relacion guarda el jazz con procesos como la Gran Migracion, los derechos civiles o la institucionalizacion cultural
 
 ## Cruces utiles con otras partes del proyecto
@@ -59,6 +61,7 @@ Sirve para quien quiere entrar por ciudades, por cambios sociales o por momentos
 - con [../APRENDER-JAZZ-OYENDO-ALBUMES/README.md](../APRENDER-JAZZ-OYENDO-ALBUMES/README.md) para pasar de la historia al album
 - con [../RECURSOS-VISUALES/DIAGRAMAS-MERMAID.md](../RECURSOS-VISUALES/DIAGRAMAS-MERMAID.md) para ver la evolucion historica en mapas visuales
 - con [../RECURSOS-VISUALES/MAPAS-DE-CIUDADES-Y-ESCENAS.md](../RECURSOS-VISUALES/MAPAS-DE-CIUDADES-Y-ESCENAS.md) para entender la dimension geografica del jazz
+- con [../CULTURA-JAZZ/SELLOS-MEDIOS-Y-ARCHIVOS.md](../CULTURA-JAZZ/SELLOS-MEDIOS-Y-ARCHIVOS.md) para profundizar la infraestructura cultural del jazz
 
 ## Que deberias aprender aqui
 

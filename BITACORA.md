@@ -55,6 +55,9 @@ En su estado presente, el proyecto cubre:
 - se creo `GLOSARIO-DE-TERMINOS-JAZZ.md` como glosario central de consulta para el vocabulario del proyecto
 - se creo `SECUENCIAS-DOCENTES-POR-NIVEL.md` con propuestas concretas para primaria final, secundaria, bachillerato, escuela de musica y clubes de escucha
 - se actualizaron `USO-DOCENTE.md`, `TECNICA-Y-TEORIA-JAZZ/README.md` y `README.md` para integrar el glosario y la nueva capa docente por niveles
+- se creo `HISTORIA-DEL-JAZZ/INDUSTRIA-MEDIOS-Y-FESTIVALES.md` para desarrollar la historia de sellos, radio, critica, portadas, archivos y festivales
+- se crearon `CULTURA-JAZZ/SELLOS-MEDIOS-Y-ARCHIVOS.md` y `CULTURA-JAZZ/FOTOGRAFIA-PRENSA-Y-PORTADAS.md` para ampliar la infraestructura cultural y visual del jazz
+- se actualizaron `CULTURA-JAZZ/README.md`, `INFLUENCIA-EN-OTRAS-ARTES.md`, `LIBROS-DOCUMENTALES-Y-MEDIOS.md`, `LUGARES-CLUBES-Y-CIUDADES.md`, `HISTORIA-DEL-JAZZ/README.md`, `DE-LA-MODERNIDAD-A-LA-ESCENA-GLOBAL.md` y `README.md` para integrar este nuevo bloque
 
 ### 2026-06-16
 
@@ -103,9 +106,8 @@ En su estado presente, el proyecto cubre:
 - seguir ampliando ejercicios practicos de escucha tecnica con mas ejemplos de standards, baladas y comparaciones de versiones
 - profundizar la carpeta de historia con mas contexto social y geografico
 - sumar referencias entre playlists, discos y artistas en cada documento
-- desarrollar bloques historicos sobre sellos, productoras, medios y festivales
 - ampliar todavia mas los perfiles de interpretes con relaciones de influencia y discografias guiadas
-- ampliar la nueva carpeta cultural con novelas, fotografia, prensa historica y artes visuales
+- ampliar la nueva carpeta cultural con novelas, fotografia historica adicional, prensa de epoca y artes visuales
 - ampliar recursos visuales con mapas por ciudad, diagramas por standard e imagenes adicionales verificadas
 
 ## Ideas de ampliacion
@@ -119,6 +121,7 @@ En su estado presente, el proyecto cubre:
 - mapas de ciudades clave como New Orleans, Chicago y Nueva York
 - fichas tecnicas de standards frecuentes como `Autumn Leaves`, `All the Things You Are`, `So What` o `Rhythm Changes`
 - secuencias tecnicas graduadas por dificultad para oyentes, estudiantes e instrumentistas
+- panoramas de revistas, radios y criticos de distintas epocas
 - itinerarios culturales por clubes, sellos, peliculas, directores y escritores relacionados con el jazz
 - diagramas Mermaid especificos para cada estilo y cada ruta de escucha
 - galerias tematicas de dominio publico por instrumentos, clubes y escenas

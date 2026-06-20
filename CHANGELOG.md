@@ -4,6 +4,20 @@ Todos los cambios importantes de este proyecto se registran en este archivo.
 
 El formato toma como referencia Keep a Changelog y utiliza fechas en estilo ISO `YYYY-MM-DD`.
 
+## [0.17.0] - 2026-06-20
+
+### Added
+
+- archivo `HISTORIA-DEL-JAZZ/INDUSTRIA-MEDIOS-Y-FESTIVALES.md` con un bloque historico sobre sellos, radio, critica, archivos y festivales
+- archivo `CULTURA-JAZZ/SELLOS-MEDIOS-Y-ARCHIVOS.md` sobre sellos discograficos, revistas, radio y memoria documental
+- archivo `CULTURA-JAZZ/FOTOGRAFIA-PRENSA-Y-PORTADAS.md` sobre cultura visual, retrato, prensa y diseno de portadas
+
+### Changed
+
+- actualizacion de `CULTURA-JAZZ/README.md`, `INFLUENCIA-EN-OTRAS-ARTES.md`, `LIBROS-DOCUMENTALES-Y-MEDIOS.md` y `LUGARES-CLUBES-Y-CIUDADES.md` para integrar el nuevo bloque cultural
+- actualizacion de `HISTORIA-DEL-JAZZ/README.md` y `DE-LA-MODERNIDAD-A-LA-ESCENA-GLOBAL.md` para integrar la nueva capa historica de infraestructura y circulacion
+- actualizacion de `README.md` y `BITACORA.md` para reflejar la expansion de historia cultural e infraestructura del jazz
+
 ## [0.16.0] - 2026-06-20
 
 ### Added

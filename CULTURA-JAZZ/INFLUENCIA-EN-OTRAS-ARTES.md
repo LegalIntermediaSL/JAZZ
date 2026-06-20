@@ -73,6 +73,8 @@ El jazz tambien produjo imagenes: trajes, clubes, portadas de discos, fotografia
 
 Sellos como Blue Note crearon una identidad visual tan fuerte que muchas personas reconocen la estetica antes incluso de escuchar los discos.
 
+Si quieres profundizar esa capa, pasa por [FOTOGRAFIA-PRENSA-Y-PORTADAS.md](./FOTOGRAFIA-PRENSA-Y-PORTADAS.md).
+
 ## 9. Arquitectura cultural
 
 El jazz influyo en la forma de imaginar la ciudad moderna: clubes subterraneos, calles nocturnas, hoteles, estaciones, barrios de migracion y espacios de mezcla social.

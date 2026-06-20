@@ -112,6 +112,7 @@ Pensar el jazz de hoy exige mirar esos circuitos, no solo las capitales miticas 
 
 - [JAZZ-Y-CINE.md](./JAZZ-Y-CINE.md) para ver como el cine convierte estos espacios en imaginario
 - [LIBROS-DOCUMENTALES-Y-MEDIOS.md](./LIBROS-DOCUMENTALES-Y-MEDIOS.md) para ampliar contexto sobre festivales, sellos y archivos
+- [SELLOS-MEDIOS-Y-ARCHIVOS.md](./SELLOS-MEDIOS-Y-ARCHIVOS.md) para relacionar lugares con industria y circulacion
 - [../HISTORIA-DEL-JAZZ/CIUDADES-Y-ESCENAS-CLAVE.md](../HISTORIA-DEL-JAZZ/CIUDADES-Y-ESCENAS-CLAVE.md) para una lectura historica mas amplia
 
 ## 24. Idea final
