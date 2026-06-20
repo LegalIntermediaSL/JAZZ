@@ -4,6 +4,46 @@ Todos los cambios importantes de este proyecto se registran en este archivo.
 
 El formato toma como referencia Keep a Changelog y utiliza fechas en estilo ISO `YYYY-MM-DD`.
 
+## [0.16.0] - 2026-06-20
+
+### Added
+
+- archivo `GLOSARIO-DE-TERMINOS-JAZZ.md` con un glosario central de vocabulario jazzistico
+- archivo `SECUENCIAS-DOCENTES-POR-NIVEL.md` con secuencias por edad, etapa y tipo de grupo
+
+### Changed
+
+- actualizacion de `USO-DOCENTE.md` para enlazar las nuevas secuencias y el glosario
+- actualizacion de `TECNICA-Y-TEORIA-JAZZ/README.md` y `README.md` para integrar el nuevo bloque de consulta y la nueva capa docente
+- actualizacion de `BITACORA.md` para reflejar la incorporacion del glosario y las secuencias docentes
+
+## [0.15.0] - 2026-06-20
+
+### Added
+
+- archivo `TECNICA-Y-TEORIA-JAZZ/EJERCICIOS-PRACTICOS-DE-ESCUCHA.md` con ejercicios guiados sobre forma, armonia, interaccion e improvisacion
+- archivo `TECNICA-Y-TEORIA-JAZZ/FICHAS-DE-STANDARDS-CLAVE.md` con fichas de standards para trabajo tecnico-aplicado
+
+### Changed
+
+- actualizacion de `TECNICA-Y-TEORIA-JAZZ/README.md` para integrar la nueva capa practica
+- ampliacion de `ESTRUCTURAS-FORMAS-Y-STANDARDS.md`, `ARMONIA-ESCALAS-Y-MODOS.md` e `IMPROVISACION-Y-LENGUAJE.md` con enlaces y continuidades de uso
+- actualizacion de `RECURSOS-VISUALES/README.md`, `USO-DOCENTE.md` y `README.md` para conectar tecnica, visuales y clases
+- actualizacion de `BITACORA.md` para reflejar el nuevo bloque tecnico-aplicado
+
+## [0.14.0] - 2026-06-20
+
+### Added
+
+- archivo `APRENDER-JAZZ-OYENDO-ALBUMES/FICHAS-DE-ALBUMES-ESENCIALES.md` con perfiles guiados de discos clave
+- archivo `USO-DOCENTE.md` con secuencias y combinaciones para clases, talleres y mediacion cultural
+
+### Changed
+
+- ampliacion de `INTERPRETES/VOCES-ESENCIALES.md` con vocalese, voces contemporaneas, discografia puente y ejercicios de escucha
+- actualizacion de `APRENDER-JAZZ-OYENDO-ALBUMES/README.md` y `RUTA-DE-10-ALBUMES.md` para integrar las nuevas fichas
+- actualizacion de `PLAYLISTS-JAZZ.md`, `INTERPRETES/README.md` y `README.md` para integrar el bloque vocal, los albumes esenciales y el uso docente
+
 ## [0.13.0] - 2026-06-20
 
 ### Added

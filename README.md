@@ -35,6 +35,9 @@ El repositorio se apoya en dos niveles.
 - [GUIA-JAZZ.md](./GUIA-JAZZ.md): tutorial amplio para empezar con historia, conceptos, artistas y escucha esencial
 - [CRONOLOGIA-JAZZ.md](./CRONOLOGIA-JAZZ.md): linea historica comentada para ubicar estilos, escenas y cambios
 - [PLAYLISTS-JAZZ.md](./PLAYLISTS-JAZZ.md): rutas de escucha por climas, epocas y niveles
+- [GLOSARIO-DE-TERMINOS-JAZZ.md](./GLOSARIO-DE-TERMINOS-JAZZ.md): glosario central para no perderse con el vocabulario del jazz
+- [USO-DOCENTE.md](./USO-DOCENTE.md): adaptacion del proyecto para clases, talleres, clubes de escucha y mediacion cultural
+- [SECUENCIAS-DOCENTES-POR-NIVEL.md](./SECUENCIAS-DOCENTES-POR-NIVEL.md): secuencias concretas por edad, etapa y tipo de grupo
 
 ### Nivel 2: carpetas tematicas
 
@@ -42,7 +45,7 @@ El repositorio se apoya en dos niveles.
 - [ESTILOS/](./ESTILOS/README.md): estudio del jazz por lenguajes musicales, desde swing y bebop hasta latin jazz, fusion y presente
 - [INTERPRETES/](./INTERPRETES/README.md): perfiles, recorridos y mapa ampliado de artistas esenciales
 - [APRENDER-JAZZ-OYENDO-ALBUMES/](./APRENDER-JAZZ-OYENDO-ALBUMES/README.md): escucha formativa de discos completos
-- [TECNICA-Y-TEORIA-JAZZ/](./TECNICA-Y-TEORIA-JAZZ/README.md): conceptos musicales para entender ritmo, forma, armonia, escalas e improvisacion
+- [TECNICA-Y-TEORIA-JAZZ/](./TECNICA-Y-TEORIA-JAZZ/README.md): conceptos musicales y practica de escucha para entender ritmo, forma, armonia, escalas, standards e improvisacion
 - [CULTURA-JAZZ/](./CULTURA-JAZZ/README.md): anecdotas, lugares, cine, libros, documentales, medios y escenas culturales del jazz
 - [RECURSOS-VISUALES/](./RECURSOS-VISUALES/README.md): diagramas Mermaid, esquemas de escucha e imagenes de dominio publico
 
@@ -85,8 +88,10 @@ No hace falta leer todo en orden lineal. Puedes entrar por la ruta que mas se aj
 
 1. Empieza por [RITMO-SWING-Y-FRASEO.md](./TECNICA-Y-TEORIA-JAZZ/RITMO-SWING-Y-FRASEO.md).
 2. Pasa a [ESTRUCTURAS-FORMAS-Y-STANDARDS.md](./TECNICA-Y-TEORIA-JAZZ/ESTRUCTURAS-FORMAS-Y-STANDARDS.md).
-3. Continua con [ARMONIA-ESCALAS-Y-MODOS.md](./TECNICA-Y-TEORIA-JAZZ/ARMONIA-ESCALAS-Y-MODOS.md).
-4. Cierra el recorrido con [IMPROVISACION-Y-LENGUAJE.md](./TECNICA-Y-TEORIA-JAZZ/IMPROVISACION-Y-LENGUAJE.md).
+3. Ten a mano [GLOSARIO-DE-TERMINOS-JAZZ.md](./GLOSARIO-DE-TERMINOS-JAZZ.md) si quieres fijar vocabulario.
+4. Continua con [ARMONIA-ESCALAS-Y-MODOS.md](./TECNICA-Y-TEORIA-JAZZ/ARMONIA-ESCALAS-Y-MODOS.md).
+5. Trabaja despues con [EJERCICIOS-PRACTICOS-DE-ESCUCHA.md](./TECNICA-Y-TEORIA-JAZZ/EJERCICIOS-PRACTICOS-DE-ESCUCHA.md) y [FICHAS-DE-STANDARDS-CLAVE.md](./TECNICA-Y-TEORIA-JAZZ/FICHAS-DE-STANDARDS-CLAVE.md).
+6. Cierra el recorrido con [IMPROVISACION-Y-LENGUAJE.md](./TECNICA-Y-TEORIA-JAZZ/IMPROVISACION-Y-LENGUAJE.md).
 
 ### Ruta 6: si te interesa la cultura alrededor del jazz
 
@@ -102,6 +107,13 @@ No hace falta leer todo en orden lineal. Puedes entrar por la ruta que mas se aj
 4. Usa [ESQUEMAS-EXPLICATIVOS.md](./RECURSOS-VISUALES/ESQUEMAS-EXPLICATIVOS.md) como plantilla de escucha.
 5. Consulta [IMAGENES-DOMINIO-PUBLICO.md](./RECURSOS-VISUALES/IMAGENES-DOMINIO-PUBLICO.md) si necesitas imagenes libres con fuente documentada.
 
+### Ruta 8: si quieres usar el material en clase o en taller
+
+1. Empieza por la [guia de uso docente](./USO-DOCENTE.md).
+2. Baja despues a [secuencias docentes por nivel](./SECUENCIAS-DOCENTES-POR-NIVEL.md).
+3. Elige una combinacion base: [guia general](./GUIA-JAZZ.md), [playlists guiadas](./PLAYLISTS-JAZZ.md) o [cronologia comentada](./CRONOLOGIA-JAZZ.md).
+4. Apoya las sesiones con [fichas de albumes esenciales](./APRENDER-JAZZ-OYENDO-ALBUMES/FICHAS-DE-ALBUMES-ESENCIALES.md), [voces esenciales](./INTERPRETES/VOCES-ESENCIALES.md) y el [glosario](./GLOSARIO-DE-TERMINOS-JAZZ.md) segun el perfil del grupo.
+
 ## Que vas a encontrar aqui
 
 La base actual del proyecto ya cubre varios frentes de aprendizaje:
@@ -114,9 +126,14 @@ La base actual del proyecto ya cubre varios frentes de aprendizaje:
 - un mapa ampliado de interpretes con enlaces a Wikipedia y primeras escuchas recomendadas
 - playlists pensadas para distintas sensibilidades de escucha
 - rutas de albumes para formar el oido a corto, medio y largo plazo
+- fichas guiadas de albumes esenciales para pasar de la curiosidad a la escucha atenta
 - una ruta extensa de 100 albumes para avanzar por bloques historicos y esteticos
 - una seccion tecnica sobre ritmo, formas, armonia, escalas, modos e improvisacion
+- un bloque tecnico-aplicado con ejercicios de escucha y fichas de standards para pasar de la teoria a la practica
 - una seccion cultural con anecdotas, clubes, ciudades, cine, libros, documentales, medios, artes visuales, literatura y aficionados ilustres
+- un glosario central de terminos para fijar vocabulario sin romper la fluidez de lectura
+- una guia de uso docente para clases, mediacion cultural y clubes de escucha
+- una capa de secuencias docentes por nivel, edad y tipo de grupo
 - diagramas Mermaid, mapas de ciudades, esquemas explicativos e imagenes de dominio publico verificadas
 
 ## Contenido principal
@@ -124,11 +141,17 @@ La base actual del proyecto ya cubre varios frentes de aprendizaje:
 - [Tutorial completo de jazz](./GUIA-JAZZ.md)
 - [Cronologia comentada](./CRONOLOGIA-JAZZ.md)
 - [Playlists guiadas](./PLAYLISTS-JAZZ.md)
+- [Glosario de terminos](./GLOSARIO-DE-TERMINOS-JAZZ.md)
+- [Uso docente](./USO-DOCENTE.md)
+- [Secuencias docentes por nivel](./SECUENCIAS-DOCENTES-POR-NIVEL.md)
 - [Historia del jazz](./HISTORIA-DEL-JAZZ/README.md)
 - [Seccion de estilos](./ESTILOS/README.md)
 - [Seccion de interpretes](./INTERPRETES/README.md)
 - [Aprender jazz oyendo albumes](./APRENDER-JAZZ-OYENDO-ALBUMES/README.md)
+- [Fichas de albumes esenciales](./APRENDER-JAZZ-OYENDO-ALBUMES/FICHAS-DE-ALBUMES-ESENCIALES.md)
 - [Tecnica y teoria del jazz](./TECNICA-Y-TEORIA-JAZZ/README.md)
+- [Ejercicios practicos de escucha](./TECNICA-Y-TEORIA-JAZZ/EJERCICIOS-PRACTICOS-DE-ESCUCHA.md)
+- [Fichas de standards clave](./TECNICA-Y-TEORIA-JAZZ/FICHAS-DE-STANDARDS-CLAVE.md)
 - [Cultura jazz](./CULTURA-JAZZ/README.md)
 - [Recursos visuales](./RECURSOS-VISUALES/README.md)
 - [Bitacora del proyecto](./BITACORA.md)
@@ -165,10 +188,10 @@ Los proximos frentes naturales de ampliacion son:
 
 - seguir profundizando vocal jazz, fusion y escena contemporanea, ahora con un nuevo capitulo propio para latin jazz y bossa nova
 - crear perfiles de artistas mas amplios y con mejores cruces entre unos y otros
-- sumar glosarios, fichas de albumes y recorridos por instrumentos
+- seguir ampliando glosarios, fichas de albumes, recorridos por instrumentos y secuencias docentes
 - enriquecer todavia mas la carpeta historica con ciudades, escenas, clubes, sellos y contextos sociales
 - convertir playlists y rutas de discos en itinerarios de estudio mas detallados
-- desarrollar ejercicios practicos para la seccion tecnica
+- seguir desarrollando ejercicios practicos para la seccion tecnica con mas standards, baladas y casos de escucha comparada
 - ampliar la seccion cultural con mas libros, documentales, clubes, festivales y escenas locales
 - seguir incorporando diagramas Mermaid cuando aclaren relaciones complejas
 - ampliar la galeria visual solo con imagenes de dominio publico o licencias compatibles
@@ -182,6 +205,9 @@ JAZZ/
 |- GUIA-JAZZ.md
 |- CRONOLOGIA-JAZZ.md
 |- PLAYLISTS-JAZZ.md
+|- GLOSARIO-DE-TERMINOS-JAZZ.md
+|- USO-DOCENTE.md
+|- SECUENCIAS-DOCENTES-POR-NIVEL.md
 |- HISTORIA-DEL-JAZZ/
 |  |- README.md
 |  |- ORIGENES-Y-NEW-ORLEANS.md
@@ -209,12 +235,15 @@ JAZZ/
 |  |- RUTA-DE-10-ALBUMES.md
 |  |- RUTA-DE-100-ALBUMES.md
 |  |- COMO-ESCUCHAR-UN-ALBUM-DE-JAZZ.md
+|  |- FICHAS-DE-ALBUMES-ESENCIALES.md
 |- TECNICA-Y-TEORIA-JAZZ/
 |  |- README.md
 |  |- RITMO-SWING-Y-FRASEO.md
 |  |- ESTRUCTURAS-FORMAS-Y-STANDARDS.md
 |  |- ARMONIA-ESCALAS-Y-MODOS.md
 |  |- IMPROVISACION-Y-LENGUAJE.md
+|  |- EJERCICIOS-PRACTICOS-DE-ESCUCHA.md
+|  |- FICHAS-DE-STANDARDS-CLAVE.md
 |- CULTURA-JAZZ/
 |  |- README.md
 |  |- ANECDOTAS-Y-DETALLES.md

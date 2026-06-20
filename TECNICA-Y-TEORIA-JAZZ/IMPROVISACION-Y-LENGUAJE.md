@@ -146,6 +146,10 @@ Transcribir es aprender de oido un solo o fragmento.
 - John Coltrane - "Blue Train"
 - Bill Evans - "Waltz for Debby"
 
-## 18. Idea final
+## 18. Donde llevar esta escucha
+
+Para trabajar de manera mas practica, cruza este capitulo con [EJERCICIOS-PRACTICOS-DE-ESCUCHA.md](./EJERCICIOS-PRACTICOS-DE-ESCUCHA.md), especialmente los ejercicios sobre motivo, tension, interaccion y standards.
+
+## 19. Idea final
 
 La improvisacion es lenguaje vivo. La teoria explica parte del camino, pero la verdadera comprension llega cuando puedes cantar, sentir y anticipar lo que esta ocurriendo.

@@ -18,7 +18,15 @@ Un disco de jazz ensena cosas que una playlist no siempre deja ver:
 1. Empieza por [RUTA-DE-10-ALBUMES.md](./RUTA-DE-10-ALBUMES.md).
 2. Pasa despues a [RUTA-DE-100-ALBUMES.md](./RUTA-DE-100-ALBUMES.md) si quieres una ruta larga y progresiva.
 3. Usa [COMO-ESCUCHAR-UN-ALBUM-DE-JAZZ.md](./COMO-ESCUCHAR-UN-ALBUM-DE-JAZZ.md) como metodo.
-4. Vuelve luego a [../ESTILOS/README.md](../ESTILOS/README.md) o [../INTERPRETES/README.md](../INTERPRETES/README.md) para profundizar.
+4. Consulta [FICHAS-DE-ALBUMES-ESENCIALES.md](./FICHAS-DE-ALBUMES-ESENCIALES.md) si quieres perfiles mas guiados de discos concretos.
+5. Vuelve luego a [../ESTILOS/README.md](../ESTILOS/README.md) o [../INTERPRETES/README.md](../INTERPRETES/README.md) para profundizar.
+
+## Documentos de esta carpeta
+
+- [RUTA-DE-10-ALBUMES.md](./RUTA-DE-10-ALBUMES.md)
+- [RUTA-DE-100-ALBUMES.md](./RUTA-DE-100-ALBUMES.md)
+- [COMO-ESCUCHAR-UN-ALBUM-DE-JAZZ.md](./COMO-ESCUCHAR-UN-ALBUM-DE-JAZZ.md)
+- [FICHAS-DE-ALBUMES-ESENCIALES.md](./FICHAS-DE-ALBUMES-ESENCIALES.md)
 
 ## Que deberias aprender aqui
 
@@ -46,3 +54,8 @@ Un disco de jazz ensena cosas que una playlist no siempre deja ver:
 - avanza por bloques de 10 discos en [RUTA-DE-100-ALBUMES.md](./RUTA-DE-100-ALBUMES.md)
 - no escuches mas de dos o tres albumes nuevos por semana
 - alterna discos faciles con discos dificiles
+
+### Si trabajas en clase o en grupo
+
+- combina [COMO-ESCUCHAR-UN-ALBUM-DE-JAZZ.md](./COMO-ESCUCHAR-UN-ALBUM-DE-JAZZ.md) con [FICHAS-DE-ALBUMES-ESENCIALES.md](./FICHAS-DE-ALBUMES-ESENCIALES.md)
+- usa tambien [../USO-DOCENTE.md](../USO-DOCENTE.md) para secuenciar sesiones

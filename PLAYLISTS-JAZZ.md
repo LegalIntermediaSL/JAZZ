@@ -275,6 +275,11 @@ Es una buena entrada para quienes se acercan al jazz desde la cancion y quieren 
 - *Lady in Satin*
 - *Sarah Vaughan with Clifford Brown*
 
+### Para seguir
+
+- [INTERPRETES/VOCES-ESENCIALES.md](./INTERPRETES/VOCES-ESENCIALES.md)
+- [APRENDER-JAZZ-OYENDO-ALBUMES/FICHAS-DE-ALBUMES-ESENCIALES.md](./APRENDER-JAZZ-OYENDO-ALBUMES/FICHAS-DE-ALBUMES-ESENCIALES.md)
+
 ## Playlist 10: escena contemporanea
 
 ### Para que sirve

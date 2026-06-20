@@ -45,6 +45,16 @@ En su estado presente, el proyecto cubre:
 - se creo `CULTURA-JAZZ/LIBROS-DOCUMENTALES-Y-MEDIOS.md` con una ruta cultural de libros, documentales y materiales para profundizar
 - se amplio `CULTURA-JAZZ/LUGARES-CLUBES-Y-CIUDADES.md` con festivales, jam sessions y escenas locales actuales
 - se actualizaron `README.md`, `GUIA-JAZZ.md`, `PLAYLISTS-JAZZ.md`, `ESTILOS/README.md` y `CULTURA-JAZZ/README.md` para integrar el nuevo contenido y mejorar los cruces internos
+- se amplio `INTERPRETES/VOCES-ESENCIALES.md` con puertas de entrada al jazz vocal, vocalese, voces contemporaneas y ejercicios de escucha comparada
+- se creo `APRENDER-JAZZ-OYENDO-ALBUMES/FICHAS-DE-ALBUMES-ESENCIALES.md` con perfiles guiados de discos clave del repertorio
+- se creo `USO-DOCENTE.md` para adaptar el proyecto a clases, talleres, mediacion cultural y clubes de escucha
+- se actualizaron `APRENDER-JAZZ-OYENDO-ALBUMES/README.md`, `RUTA-DE-10-ALBUMES.md`, `INTERPRETES/README.md` y `README.md` para integrar estas nuevas capas
+- se creo `TECNICA-Y-TEORIA-JAZZ/EJERCICIOS-PRACTICOS-DE-ESCUCHA.md` con una ruta aplicada de forma, armonia, interaccion y standards
+- se creo `TECNICA-Y-TEORIA-JAZZ/FICHAS-DE-STANDARDS-CLAVE.md` con puertas de entrada a `Autumn Leaves`, `All the Things You Are`, `So What`, `Rhythm Changes`, `Straight, No Chaser`, `Body and Soul` y `Blue Bossa`
+- se actualizaron `TECNICA-Y-TEORIA-JAZZ/README.md`, `ESTRUCTURAS-FORMAS-Y-STANDARDS.md`, `ARMONIA-ESCALAS-Y-MODOS.md`, `IMPROVISACION-Y-LENGUAJE.md`, `RECURSOS-VISUALES/README.md`, `USO-DOCENTE.md` y `README.md` para integrar la nueva capa tecnica aplicada
+- se creo `GLOSARIO-DE-TERMINOS-JAZZ.md` como glosario central de consulta para el vocabulario del proyecto
+- se creo `SECUENCIAS-DOCENTES-POR-NIVEL.md` con propuestas concretas para primaria final, secundaria, bachillerato, escuela de musica y clubes de escucha
+- se actualizaron `USO-DOCENTE.md`, `TECNICA-Y-TEORIA-JAZZ/README.md` y `README.md` para integrar el glosario y la nueva capa docente por niveles
 
 ### 2026-06-16
 
@@ -87,10 +97,10 @@ En su estado presente, el proyecto cubre:
 ## Pendientes prioritarios
 
 - seguir ampliando vocal jazz, fusion y escena contemporanea con mas discografias guiadas y comparaciones de escucha
-- preparar una version mas orientada a uso docente
-- desarrollar perfiles de artistas y albumes esenciales
+- seguir ampliando la version orientada a uso docente con variantes por duracion, contexto institucional y objetivos de evaluacion
+- seguir desarrollando perfiles de artistas y albumes esenciales
 - crear rutas cruzadas entre estilos, artistas y albumes
-- crear ejercicios practicos de escucha tecnica con ejemplos de standards
+- seguir ampliando ejercicios practicos de escucha tecnica con mas ejemplos de standards, baladas y comparaciones de versiones
 - profundizar la carpeta de historia con mas contexto social y geografico
 - sumar referencias entre playlists, discos y artistas en cada documento
 - desarrollar bloques historicos sobre sellos, productoras, medios y festivales
@@ -101,7 +111,6 @@ En su estado presente, el proyecto cubre:
 ## Ideas de ampliacion
 
 - perfiles cortos de artistas esenciales
-- glosario de terminos del jazz
 - seccion de recomendaciones para primeras escuchas por nivel
 - lista de documentales, libros y conciertos historicos
 - apartado sobre grandes sellos discograficos del jazz
@@ -109,6 +118,7 @@ En su estado presente, el proyecto cubre:
 - cronologias por instrumento o escena geografica
 - mapas de ciudades clave como New Orleans, Chicago y Nueva York
 - fichas tecnicas de standards frecuentes como `Autumn Leaves`, `All the Things You Are`, `So What` o `Rhythm Changes`
+- secuencias tecnicas graduadas por dificultad para oyentes, estudiantes e instrumentistas
 - itinerarios culturales por clubes, sellos, peliculas, directores y escritores relacionados con el jazz
 - diagramas Mermaid especificos para cada estilo y cada ruta de escucha
 - galerias tematicas de dominio publico por instrumentos, clubes y escenas

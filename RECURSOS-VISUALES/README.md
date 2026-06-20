@@ -22,6 +22,8 @@ Esta carpeta reune materiales visuales para entender el jazz de forma mas rapida
 6. Usa los esquemas como plantilla para tomar notas.
 7. Si reutilizas una imagen, conserva siempre el enlace de fuente.
 
+Los diagramas de formas funcionan especialmente bien si los cruzas con [../TECNICA-Y-TEORIA-JAZZ/EJERCICIOS-PRACTICOS-DE-ESCUCHA.md](../TECNICA-Y-TEORIA-JAZZ/EJERCICIOS-PRACTICOS-DE-ESCUCHA.md) y [../TECNICA-Y-TEORIA-JAZZ/FICHAS-DE-STANDARDS-CLAVE.md](../TECNICA-Y-TEORIA-JAZZ/FICHAS-DE-STANDARDS-CLAVE.md).
+
 ## Criterio editorial
 
 Los diagramas estan pensados para aclarar relaciones, no para simplificar en exceso. El jazz no avanza como una linea recta: muchas escenas conviven, se cruzan y vuelven transformadas. Por eso los esquemas deben leerse como mapas de orientacion, no como leyes historicas cerradas.

@@ -6,6 +6,8 @@ Esta carpeta organiza el proyecto alrededor de musicos y musicas esenciales. Es 
 
 La seccion tiene ahora dos capas. La primera son capitulos por familias instrumentales, pensados para leer con calma. La segunda es un mapa ampliado de consulta con muchos mas nombres, perfiles breves y enlaces directos a Wikipedia para ampliar datos biograficos y discograficos.
 
+Dentro de esa primera capa, [VOCES-ESENCIALES.md](./VOCES-ESENCIALES.md) funciona tambien como puerta al swing vocal, la balada, el vocalese y varias voces contemporaneas.
+
 ## Por que conviene estudiar el jazz por interpretes
 
 Un estilo dice mucho, pero una persona concreta dice otra cosa distinta. Dos musicos pueden pertenecer al mismo periodo y sonar como universos opuestos. Por eso esta carpeta busca que el lector no se quede con etiquetas como "bebop" o "cool", sino que aprenda a distinguir personalidades.

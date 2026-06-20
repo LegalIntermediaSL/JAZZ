@@ -10,6 +10,7 @@ Esta seccion explica conceptos tecnicos del jazz sin convertirlos en un muro de 
 2. Sigue con formas y estructuras.
 3. Pasa despues a armonia, escalas y modos.
 4. Termina con improvisacion y lenguaje.
+5. Si quieres una capa aplicada, trabaja despues con ejercicios y fichas de standards.
 
 ## Esquema visual rapido
 
@@ -31,12 +32,16 @@ flowchart TD
 - [ESTRUCTURAS-FORMAS-Y-STANDARDS.md](./ESTRUCTURAS-FORMAS-Y-STANDARDS.md)
 - [ARMONIA-ESCALAS-Y-MODOS.md](./ARMONIA-ESCALAS-Y-MODOS.md)
 - [IMPROVISACION-Y-LENGUAJE.md](./IMPROVISACION-Y-LENGUAJE.md)
+- [EJERCICIOS-PRACTICOS-DE-ESCUCHA.md](./EJERCICIOS-PRACTICOS-DE-ESCUCHA.md)
+- [FICHAS-DE-STANDARDS-CLAVE.md](./FICHAS-DE-STANDARDS-CLAVE.md)
 
 ## Apoyo visual
 
 - [../RECURSOS-VISUALES/DIAGRAMAS-MERMAID.md](../RECURSOS-VISUALES/DIAGRAMAS-MERMAID.md) contiene diagramas sobre forma, improvisacion y small combo
 - [../RECURSOS-VISUALES/FORMAS-STANDARDS-Y-PROGRESIONES.md](../RECURSOS-VISUALES/FORMAS-STANDARDS-Y-PROGRESIONES.md) desarrolla blues, AABA, rhythm changes, ii-V-I, sustituciones y construccion de solos
 - [../RECURSOS-VISUALES/ESQUEMAS-EXPLICATIVOS.md](../RECURSOS-VISUALES/ESQUEMAS-EXPLICATIVOS.md) contiene plantillas para escuchar blues, AABA, bateria, piano y albumes
+- [../USO-DOCENTE.md](../USO-DOCENTE.md) adapta parte de este material a clases y talleres
+- [../GLOSARIO-DE-TERMINOS-JAZZ.md](../GLOSARIO-DE-TERMINOS-JAZZ.md) ayuda a fijar vocabulario tecnico sin perder claridad
 
 ## Lo que deberias aprender aqui
 
@@ -45,6 +50,7 @@ flowchart TD
 - entender acordes septima, dominantes, ii-V-I, sustituciones y tensiones
 - distinguir escalas mayores, menores, pentatonicas, blues, bebop y modos
 - comprender como un solo se construye con motivos, desarrollo, tension y resolucion
+- convertir conceptos como blues, AABA, ii-V-I, modal o trading fours en escucha practica
 
 ## Nota importante
 

@@ -199,6 +199,10 @@ Escucha "Freddie Freeloader" y sigue la sensacion de regreso al inicio de cada c
 
 Escucha "So What" y nota como la tension no depende de cambiar acordes todo el tiempo.
 
-## 20. Idea final
+## 20. Donde seguir con practica aplicada
+
+Si quieres convertir estas ideas en trabajo concreto de oido, usa [EJERCICIOS-PRACTICOS-DE-ESCUCHA.md](./EJERCICIOS-PRACTICOS-DE-ESCUCHA.md) y las fichas de [FICHAS-DE-STANDARDS-CLAVE.md](./FICHAS-DE-STANDARDS-CLAVE.md), sobre todo en `Autumn Leaves`, `All the Things You Are` y `So What`.
+
+## 21. Idea final
 
 La teoria armonica no sustituye la escucha. Sirve para poner nombre a colores que ya puedes empezar a reconocer con el oido.

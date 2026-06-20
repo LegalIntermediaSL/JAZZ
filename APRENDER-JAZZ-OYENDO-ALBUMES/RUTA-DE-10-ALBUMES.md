@@ -1,5 +1,7 @@
 # Ruta de 10 albumes para aprender jazz
 
+Para ampliar esta ruta con perfiles mas concretos de escucha, consulta [FICHAS-DE-ALBUMES-ESENCIALES.md](./FICHAS-DE-ALBUMES-ESENCIALES.md).
+
 ## Introduccion
 
 Esta ruta esta pensada para formar el oido poco a poco. El orden importa: empieza con discos muy accesibles, pasa luego por el corazon del jazz moderno y termina en zonas mas abiertas o mas contemporaneas.
