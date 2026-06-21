@@ -153,6 +153,8 @@ El jazz actual ya no puede describirse con una sola capital estetica. Conviven v
 - Mary Halvorson
 - Nubya Garcia
 
+Si quieres una foto mas enfocada del presente y de sus rutas de escucha, continua en [PRESENTE-DEL-JAZZ-Y-RUTAS-ACTUALES.md](./PRESENTE-DEL-JAZZ-Y-RUTAS-ACTUALES.md).
+
 ### Piezas recomendadas
 
 - Robert Glasper Experiment - "Afro Blue"

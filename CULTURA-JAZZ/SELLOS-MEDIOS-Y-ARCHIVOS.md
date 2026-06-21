@@ -4,6 +4,8 @@
 
 Cuando escuchamos jazz solemos entrar por artistas, discos o estilos. Pero muy pronto aparecen otras preguntas: quien grabo esto, en que sello salio, quien escribio sobre esa musica, como circulo y por que hoy todavia podemos escucharla. Esta capa no es secundaria. Ayuda a entender como el jazz se volvio memoria compartida.
 
+Si quieres abrir por separado la via de los sellos o la de la critica, cruza este documento con [GRANDES-SELLOS-DEL-JAZZ.md](./GRANDES-SELLOS-DEL-JAZZ.md) y [REVISTAS-RADIOS-Y-CRITICOS.md](./REVISTAS-RADIOS-Y-CRITICOS.md).
+
 ## 2. Escuchar por sellos
 
 Seguir un sello puede ser una de las mejores formas de aprender jazz. No porque todos sus discos suenen igual, sino porque dejan ver afinidades de produccion, escena, sonido e incluso diseno.
@@ -124,6 +126,8 @@ Si quieres estudiar por esta via, prueba algo asi:
 
 - [FOTOGRAFIA-PRENSA-Y-PORTADAS.md](./FOTOGRAFIA-PRENSA-Y-PORTADAS.md) para la parte visual y periodistica
 - [LIBROS-DOCUMENTALES-Y-MEDIOS.md](./LIBROS-DOCUMENTALES-Y-MEDIOS.md) para seguir leyendo y mirando
+- [GRANDES-SELLOS-DEL-JAZZ.md](./GRANDES-SELLOS-DEL-JAZZ.md) para concentrar la escucha por catalogos
+- [REVISTAS-RADIOS-Y-CRITICOS.md](./REVISTAS-RADIOS-Y-CRITICOS.md) para la capa de recepcion y debate
 - [../HISTORIA-DEL-JAZZ/INDUSTRIA-MEDIOS-Y-FESTIVALES.md](../HISTORIA-DEL-JAZZ/INDUSTRIA-MEDIOS-Y-FESTIVALES.md) para el contexto historico mas amplio
 - [../APRENDER-JAZZ-OYENDO-ALBUMES/FICHAS-DE-ALBUMES-ESENCIALES.md](../APRENDER-JAZZ-OYENDO-ALBUMES/FICHAS-DE-ALBUMES-ESENCIALES.md) para pasar de la infraestructura al disco concreto
 

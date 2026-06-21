@@ -7,20 +7,24 @@ Esta carpeta reune materiales visuales para entender el jazz de forma mas rapida
 ## Documentos
 
 - [DIAGRAMAS-MERMAID.md](./DIAGRAMAS-MERMAID.md): mapas visuales sobre historia, estilos, interpretes, tecnica y rutas de escucha
+- [DIAGRAMAS-POR-ESTILO-Y-RUTA.md](./DIAGRAMAS-POR-ESTILO-Y-RUTA.md): diagramas mas concretos para estilos, standards, albumes y secuencias
 - [MAPAS-DE-CIUDADES-Y-ESCENAS.md](./MAPAS-DE-CIUDADES-Y-ESCENAS.md): diagramas sobre migraciones, ciudades, clubes, escenas y circulacion global
+- [MAPAS-DE-NEW-ORLEANS-CHICAGO-Y-NUEVA-YORK.md](./MAPAS-DE-NEW-ORLEANS-CHICAGO-Y-NUEVA-YORK.md): mapas focalizados de tres ciudades clave
 - [FORMAS-STANDARDS-Y-PROGRESIONES.md](./FORMAS-STANDARDS-Y-PROGRESIONES.md): diagramas de blues, AABA, rhythm changes, ii-V-I, sustituciones e improvisacion
 - [ESQUEMAS-EXPLICATIVOS.md](./ESQUEMAS-EXPLICATIVOS.md): tablas y modelos pedagogicos para escuchar mejor
 - [IMAGENES-DOMINIO-PUBLICO.md](./IMAGENES-DOMINIO-PUBLICO.md): galeria curada de imagenes libres de derechos de autor patrimoniales, con fuente y licencia
+- [GALERIAS-TEMATICAS-DE-DOMINIO-PUBLICO.md](./GALERIAS-TEMATICAS-DE-DOMINIO-PUBLICO.md): agrupaciones visuales por instrumento, club y escena
 
 ## Como usar esta carpeta
 
 1. Mira primero los diagramas generales para obtener una vision global.
-2. Usa los mapas de ciudades si estas leyendo historia o cultura.
-3. Usa los diagramas de formas si estas estudiando tecnica o standards.
-4. Vuelve al capitulo correspondiente del repositorio.
-5. Escucha un album o una pieza relacionada.
-6. Usa los esquemas como plantilla para tomar notas.
-7. Si reutilizas una imagen, conserva siempre el enlace de fuente.
+2. Baja luego a los diagramas por estilo y ruta si quieres una visualizacion mas concreta.
+3. Usa los mapas de ciudades si estas leyendo historia o cultura.
+4. Usa los diagramas de formas si estas estudiando tecnica o standards.
+5. Vuelve al capitulo correspondiente del repositorio.
+6. Escucha un album o una pieza relacionada.
+7. Usa los esquemas como plantilla para tomar notas.
+8. Si reutilizas una imagen, conserva siempre el enlace de fuente.
 
 Los diagramas de formas funcionan especialmente bien si los cruzas con [../TECNICA-Y-TEORIA-JAZZ/EJERCICIOS-PRACTICOS-DE-ESCUCHA.md](../TECNICA-Y-TEORIA-JAZZ/EJERCICIOS-PRACTICOS-DE-ESCUCHA.md) y [../TECNICA-Y-TEORIA-JAZZ/FICHAS-DE-STANDARDS-CLAVE.md](../TECNICA-Y-TEORIA-JAZZ/FICHAS-DE-STANDARDS-CLAVE.md).
 

@@ -15,16 +15,28 @@ En su estado presente, el proyecto cubre:
 - una portada general del repositorio
 - una guia de iniciacion al jazz
 - una cronologia comentada por etapas historicas
+- un indice cruzado para conectar las zonas principales del proyecto
+- una capa de fichas de escucha listas para usar en aula y clubes
 - una carpeta de historia del jazz con lectura narrativa por grandes etapas
+- una capa historica complementaria de cronologias por instrumento y escena
 - playlists de escucha guiada por estilos y atmosferas
 - una carpeta de estilos con subdivisiones por periodos
+- una capa especifica para el presente del jazz y sus rutas actuales
 - una carpeta de interpretes con perfiles iniciales por familias
+- una capa de discografias guiadas, influencias y familias de escucha
+- una capa adicional de perfiles cortos y recorridos por familias de escucha
 - una carpeta para aprender jazz escuchando albumes completos
 - una ruta extensa de 100 albumes para avanzar de forma progresiva
+- una guia de primeras escuchas por nivel para calibrar la dificultad de entrada
 - una carpeta tecnica sobre ritmo, formas, armonia, escalas, modos e improvisacion
+- una capa tecnica aplicada de standards, escucha comparada, versiones y baladas
+- una capa tecnica graduada con fichas tecnicas y secuencias por dificultad
 - una carpeta cultural sobre anecdotas, lugares, cine, artes e influencia publica del jazz
+- una capa cultural ampliada con conciertos historicos, sellos, critica, itinerarios y escenas actuales
 - una carpeta de recursos visuales con diagramas Mermaid, esquemas de escucha e imagenes de dominio publico
+- una capa visual ampliada con mapas urbanos concretos, diagramas por ruta y galerias tematicas
 - una seleccion de artistas, canciones y albumes esenciales
+- una capa docente con guia general, secuencias por nivel, variantes por duracion y criterios suaves de evaluacion
 - documentacion de proceso mediante bitacora y changelog
 
 ## Decisiones editoriales
@@ -58,6 +70,22 @@ En su estado presente, el proyecto cubre:
 - se creo `HISTORIA-DEL-JAZZ/INDUSTRIA-MEDIOS-Y-FESTIVALES.md` para desarrollar la historia de sellos, radio, critica, portadas, archivos y festivales
 - se crearon `CULTURA-JAZZ/SELLOS-MEDIOS-Y-ARCHIVOS.md` y `CULTURA-JAZZ/FOTOGRAFIA-PRENSA-Y-PORTADAS.md` para ampliar la infraestructura cultural y visual del jazz
 - se actualizaron `CULTURA-JAZZ/README.md`, `INFLUENCIA-EN-OTRAS-ARTES.md`, `LIBROS-DOCUMENTALES-Y-MEDIOS.md`, `LUGARES-CLUBES-Y-CIUDADES.md`, `HISTORIA-DEL-JAZZ/README.md`, `DE-LA-MODERNIDAD-A-LA-ESCENA-GLOBAL.md` y `README.md` para integrar este nuevo bloque
+- se creo `INTERPRETES/DISCOGRAFIAS-GUIADAS.md` con rutas cortas y medias por artista para facilitar la profundizacion
+- se actualizaron `INTERPRETES/README.md`, `TROMPETA-Y-SAXO.md`, `PIANO-Y-SECCION-RITMICA.md`, `GRANDES-LIDERES-Y-COMPOSITORES.md`, `APRENDER-JAZZ-OYENDO-ALBUMES/FICHAS-DE-ALBUMES-ESENCIALES.md` y `README.md` para integrar la nueva capa de discografias guiadas
+- se creo `RUTAS-CRUZADAS-PARA-ESTUDIAR-JAZZ.md` como indice puente entre historia, estilos, artistas, albumes, tecnica y docencia
+- se creo `INTERPRETES/RUTAS-POR-FAMILIAS-E-INFLUENCIAS.md` para desarrollar genealogias de escucha, familias instrumentales y rutas de presente
+- se creo `TECNICA-Y-TEORIA-JAZZ/COMPARACION-DE-VERSIONES-Y-BALADAS.md` para reforzar standards, baladas y escucha comparada
+- se actualizaron `USO-DOCENTE.md`, `SECUENCIAS-DOCENTES-POR-NIVEL.md`, `TECNICA-Y-TEORIA-JAZZ/README.md`, `INTERPRETES/README.md`, `APRENDER-JAZZ-OYENDO-ALBUMES/README.md`, `README.md` y `FICHAS-DE-STANDARDS-CLAVE.md` para integrar el nuevo cierre transversal del proyecto
+- se creo `INTERPRETES/PERFILES-CORTOS-DE-ARTISTAS-ESENCIALES.md` para ofrecer entradas rapidas por figuras clave
+- se creo `INTERPRETES/RUTAS-DE-ESCUCHA-POR-FAMILIA.md` con recorridos mas finos por trio, big band, jazz vocal, groove, expansion espiritual y presente
+- se creo `APRENDER-JAZZ-OYENDO-ALBUMES/PRIMERAS-ESCUCHAS-POR-NIVEL.md` para adaptar la entrada a la experiencia real del oyente
+- se creo `FICHAS-DE-ESCUCHA-PARA-CLASES-Y-CLUBES.md` con plantillas listas para aula, mediacion y clubes de escucha
+- se creo `HISTORIA-DEL-JAZZ/CRONOLOGIAS-POR-INSTRUMENTO-Y-ESCENA.md` para seguir lineas historicas por trompeta, saxo, piano, voz, guitarra, big band y geografia
+- se creo `ESTILOS/PRESENTE-DEL-JAZZ-Y-RUTAS-ACTUALES.md` para revisar el presente del jazz con artistas y escenas de referencia
+- se crearon `TECNICA-Y-TEORIA-JAZZ/FICHAS-TECNICAS-DE-STANDARDS-FRECUENTES.md` y `TECNICA-Y-TEORIA-JAZZ/SECUENCIAS-TECNICAS-GRADUADAS.md` para profundizar standards y graduar dificultad
+- se crearon `CULTURA-JAZZ/CONCIERTOS-HISTORICOS-Y-FILMACIONES-CLAVE.md`, `GRANDES-SELLOS-DEL-JAZZ.md`, `REVISTAS-RADIOS-Y-CRITICOS.md`, `ITINERARIOS-CULTURALES-DEL-JAZZ.md` y `ESCENAS-LOCALES-Y-CIRCUITOS-ACTUALES.md` para completar la capa cultural pendiente
+- se crearon `RECURSOS-VISUALES/MAPAS-DE-NEW-ORLEANS-CHICAGO-Y-NUEVA-YORK.md`, `DIAGRAMAS-POR-ESTILO-Y-RUTA.md` y `GALERIAS-TEMATICAS-DE-DOMINIO-PUBLICO.md` para ampliar la infraestructura visual
+- se actualizaron `README.md`, `ESTILOS/README.md`, `INTERPRETES/README.md`, `APRENDER-JAZZ-OYENDO-ALBUMES/README.md`, `TECNICA-Y-TEORIA-JAZZ/README.md`, `CULTURA-JAZZ/README.md`, `RECURSOS-VISUALES/README.md`, `USO-DOCENTE.md`, `SECUENCIAS-DOCENTES-POR-NIVEL.md`, `PLAYLISTS-JAZZ.md`, `RUTAS-CRUZADAS-PARA-ESTUDIAR-JAZZ.md`, `SELLOS-MEDIOS-Y-ARCHIVOS.md` y `LIBROS-DOCUMENTALES-Y-MEDIOS.md` para integrar el nuevo bloque de cierre
 
 ### 2026-06-16
 
@@ -97,34 +125,12 @@ En su estado presente, el proyecto cubre:
 - se amplio mucho mas la historia del jazz con nuevos capitulos sobre migracion, ciudades, derechos civiles y escena global
 - se amplio mucho mas la carpeta `INTERPRETES/` con nuevas familias instrumentales y mas perfiles esenciales
 
-## Pendientes prioritarios
+## Mantenimiento recomendado
 
-- seguir ampliando vocal jazz, fusion y escena contemporanea con mas discografias guiadas y comparaciones de escucha
-- seguir ampliando la version orientada a uso docente con variantes por duracion, contexto institucional y objetivos de evaluacion
-- seguir desarrollando perfiles de artistas y albumes esenciales
-- crear rutas cruzadas entre estilos, artistas y albumes
-- seguir ampliando ejercicios practicos de escucha tecnica con mas ejemplos de standards, baladas y comparaciones de versiones
-- profundizar la carpeta de historia con mas contexto social y geografico
-- sumar referencias entre playlists, discos y artistas en cada documento
-- ampliar todavia mas los perfiles de interpretes con relaciones de influencia y discografias guiadas
-- ampliar la nueva carpeta cultural con novelas, fotografia historica adicional, prensa de epoca y artes visuales
-- ampliar recursos visuales con mapas por ciudad, diagramas por standard e imagenes adicionales verificadas
-
-## Ideas de ampliacion
-
-- perfiles cortos de artistas esenciales
-- seccion de recomendaciones para primeras escuchas por nivel
-- lista de documentales, libros y conciertos historicos
-- apartado sobre grandes sellos discograficos del jazz
-- fichas de escucha para clubes de lectura musical o clases
-- cronologias por instrumento o escena geografica
-- mapas de ciudades clave como New Orleans, Chicago y Nueva York
-- fichas tecnicas de standards frecuentes como `Autumn Leaves`, `All the Things You Are`, `So What` o `Rhythm Changes`
-- secuencias tecnicas graduadas por dificultad para oyentes, estudiantes e instrumentistas
-- panoramas de revistas, radios y criticos de distintas epocas
-- itinerarios culturales por clubes, sellos, peliculas, directores y escritores relacionados con el jazz
-- diagramas Mermaid especificos para cada estilo y cada ruta de escucha
-- galerias tematicas de dominio publico por instrumentos, clubes y escenas
+- revisar periodicamente la escena contemporanea para mantener fresca la capa de presente
+- corregir redundancias o enlaces mejorables si la navegacion se vuelve demasiado densa
+- ampliar solo cuando un nuevo documento resuelva una necesidad clara y no repita lo ya cubierto
+- conservar criterio estricto en imagenes, atribucion y licencias compatibles
 
 ## Riesgos o puntos a cuidar
 
@@ -138,4 +144,4 @@ En su estado presente, el proyecto cubre:
 
 ## Proximo hito sugerido
 
-El siguiente hito natural es seguir profundizando cada carpeta con secciones mas especializadas y mejorar los cruces internos entre historia, estilos, interpretes, playlists, tecnica, cultura, recursos visuales y albumes.
+El nucleo del proyecto ya esta cubierto y la gran bolsa de ampliaciones quedo incorporada. El siguiente hito natural es una fase de mantenimiento: revisar enlaces, pulir repeticiones, actualizar el presente del jazz y sostener la coherencia editorial con el tiempo.

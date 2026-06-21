@@ -117,8 +117,10 @@ No todo aprendizaje pasa por un libro cerrado o un documental largo. Tambien ayu
 ## 10. Cruces utiles dentro del repositorio
 
 - [JAZZ-Y-CINE.md](./JAZZ-Y-CINE.md) para ampliar la via audiovisual
+- [CONCIERTOS-HISTORICOS-Y-FILMACIONES-CLAVE.md](./CONCIERTOS-HISTORICOS-Y-FILMACIONES-CLAVE.md) para seguir la pista del directo y de la escena filmada
 - [LUGARES-CLUBES-Y-CIUDADES.md](./LUGARES-CLUBES-Y-CIUDADES.md) para pensar el jazz desde los espacios
 - [SELLOS-MEDIOS-Y-ARCHIVOS.md](./SELLOS-MEDIOS-Y-ARCHIVOS.md) para seguir la pista de sellos, revistas, radio y archivo
+- [REVISTAS-RADIOS-Y-CRITICOS.md](./REVISTAS-RADIOS-Y-CRITICOS.md) para abrir la capa de periodismo y debate
 - [FOTOGRAFIA-PRENSA-Y-PORTADAS.md](./FOTOGRAFIA-PRENSA-Y-PORTADAS.md) para la cultura visual del jazz
 - [../APRENDER-JAZZ-OYENDO-ALBUMES/COMO-ESCUCHAR-UN-ALBUM-DE-JAZZ.md](../APRENDER-JAZZ-OYENDO-ALBUMES/COMO-ESCUCHAR-UN-ALBUM-DE-JAZZ.md) para volver siempre al centro: la escucha
 

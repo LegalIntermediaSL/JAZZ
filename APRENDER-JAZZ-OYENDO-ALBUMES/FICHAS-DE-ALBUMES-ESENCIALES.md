@@ -358,4 +358,5 @@ Media.
 - [RUTA-DE-10-ALBUMES.md](./RUTA-DE-10-ALBUMES.md) si quieres una entrada corta y progresiva
 - [RUTA-DE-100-ALBUMES.md](./RUTA-DE-100-ALBUMES.md) si quieres una inmersion de largo aliento
 - [../INTERPRETES/VOCES-ESENCIALES.md](../INTERPRETES/VOCES-ESENCIALES.md) para seguir el eje del jazz vocal
+- [../INTERPRETES/DISCOGRAFIAS-GUIADAS.md](../INTERPRETES/DISCOGRAFIAS-GUIADAS.md) para pasar de discos sueltos a trayectorias de artista
 - [../USO-DOCENTE.md](../USO-DOCENTE.md) si quieres convertir estas fichas en clases, talleres o clubes de escucha

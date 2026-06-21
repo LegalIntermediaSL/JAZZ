@@ -11,6 +11,8 @@ Esta seccion explica conceptos tecnicos del jazz sin convertirlos en un muro de 
 3. Pasa despues a armonia, escalas y modos.
 4. Termina con improvisacion y lenguaje.
 5. Si quieres una capa aplicada, trabaja despues con ejercicios y fichas de standards.
+6. Cierra con comparacion de versiones y baladas para convertir vocabulario en oido real.
+7. Usa las fichas tecnicas y las secuencias graduadas si quieres un recorrido mas escalonado.
 
 ## Esquema visual rapido
 
@@ -34,6 +36,9 @@ flowchart TD
 - [IMPROVISACION-Y-LENGUAJE.md](./IMPROVISACION-Y-LENGUAJE.md)
 - [EJERCICIOS-PRACTICOS-DE-ESCUCHA.md](./EJERCICIOS-PRACTICOS-DE-ESCUCHA.md)
 - [FICHAS-DE-STANDARDS-CLAVE.md](./FICHAS-DE-STANDARDS-CLAVE.md)
+- [COMPARACION-DE-VERSIONES-Y-BALADAS.md](./COMPARACION-DE-VERSIONES-Y-BALADAS.md)
+- [FICHAS-TECNICAS-DE-STANDARDS-FRECUENTES.md](./FICHAS-TECNICAS-DE-STANDARDS-FRECUENTES.md)
+- [SECUENCIAS-TECNICAS-GRADUADAS.md](./SECUENCIAS-TECNICAS-GRADUADAS.md)
 
 ## Apoyo visual
 
@@ -42,6 +47,7 @@ flowchart TD
 - [../RECURSOS-VISUALES/ESQUEMAS-EXPLICATIVOS.md](../RECURSOS-VISUALES/ESQUEMAS-EXPLICATIVOS.md) contiene plantillas para escuchar blues, AABA, bateria, piano y albumes
 - [../USO-DOCENTE.md](../USO-DOCENTE.md) adapta parte de este material a clases y talleres
 - [../GLOSARIO-DE-TERMINOS-JAZZ.md](../GLOSARIO-DE-TERMINOS-JAZZ.md) ayuda a fijar vocabulario tecnico sin perder claridad
+- [../FICHAS-DE-ESCUCHA-PARA-CLASES-Y-CLUBES.md](../FICHAS-DE-ESCUCHA-PARA-CLASES-Y-CLUBES.md) ofrece salidas de aula y de club de escucha
 
 ## Lo que deberias aprender aqui
 
@@ -51,6 +57,8 @@ flowchart TD
 - distinguir escalas mayores, menores, pentatonicas, blues, bebop y modos
 - comprender como un solo se construye con motivos, desarrollo, tension y resolucion
 - convertir conceptos como blues, AABA, ii-V-I, modal o trading fours en escucha practica
+- distinguir mejor dos versiones de un mismo tema y oir por que una balada puede ser tecnicamente muy exigente
+- graduar mejor el nivel tecnico segun el oido y la experiencia real
 
 ## Nota importante
 

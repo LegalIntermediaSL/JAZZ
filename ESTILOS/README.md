@@ -22,6 +22,7 @@ Conviene usar siempre la misma secuencia:
 2. [BEBOP-COOL-Y-HARD-BOP.md](./BEBOP-COOL-Y-HARD-BOP.md)
 3. [JAZZ-LATINO-BOSSA-Y-AFROCUBANO.md](./JAZZ-LATINO-BOSSA-Y-AFROCUBANO.md)
 4. [MODAL-FREE-FUSION-Y-CONTEMPORANEO.md](./MODAL-FREE-FUSION-Y-CONTEMPORANEO.md)
+5. [PRESENTE-DEL-JAZZ-Y-RUTAS-ACTUALES.md](./PRESENTE-DEL-JAZZ-Y-RUTAS-ACTUALES.md)
 
 ### Si vienes del rock o del funk
 
@@ -72,15 +73,18 @@ flowchart TD
 - [BEBOP-COOL-Y-HARD-BOP.md](./BEBOP-COOL-Y-HARD-BOP.md)
 - [JAZZ-LATINO-BOSSA-Y-AFROCUBANO.md](./JAZZ-LATINO-BOSSA-Y-AFROCUBANO.md)
 - [MODAL-FREE-FUSION-Y-CONTEMPORANEO.md](./MODAL-FREE-FUSION-Y-CONTEMPORANEO.md)
+- [PRESENTE-DEL-JAZZ-Y-RUTAS-ACTUALES.md](./PRESENTE-DEL-JAZZ-Y-RUTAS-ACTUALES.md)
 
 ## Apoyo visual
 
 - [../RECURSOS-VISUALES/DIAGRAMAS-MERMAID.md](../RECURSOS-VISUALES/DIAGRAMAS-MERMAID.md) incluye un mapa de evolucion de estilos
 - [../RECURSOS-VISUALES/ESQUEMAS-EXPLICATIVOS.md](../RECURSOS-VISUALES/ESQUEMAS-EXPLICATIVOS.md) incluye un diagnostico rapido para reconocer estilos al escuchar
+- [../RECURSOS-VISUALES/DIAGRAMAS-POR-ESTILO-Y-RUTA.md](../RECURSOS-VISUALES/DIAGRAMAS-POR-ESTILO-Y-RUTA.md) baja la capa visual a estilos y recorridos concretos
 
 ## Que deberias aprender aqui
 
 - distinguir estilos por sonido, formacion y funcion cultural
 - reconocer artistas que definen o transforman una epoca
 - conectar piezas y albumes con familias de lenguaje
+- seguir mejor el presente del jazz sin perder la historia
 - entender que los estilos no son cajas cerradas, sino zonas de continuidad y friccion

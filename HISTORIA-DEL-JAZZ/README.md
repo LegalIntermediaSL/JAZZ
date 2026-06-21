@@ -6,7 +6,7 @@ Esta carpeta desarrolla la historia del jazz con mas detalle narrativo que la cr
 
 ## Como esta organizada
 
-La carpeta se divide en siete ejes historicos que pueden leerse en orden o por interes:
+La carpeta se divide en ocho ejes historicos que pueden leerse en orden o por interes:
 
 1. [ORIGENES-Y-NEW-ORLEANS.md](./ORIGENES-Y-NEW-ORLEANS.md)
 2. [CHICAGO-HARLEM-Y-LA-GRAN-MIGRACION.md](./CHICAGO-HARLEM-Y-LA-GRAN-MIGRACION.md)
@@ -15,6 +15,7 @@ La carpeta se divide en siete ejes historicos que pueden leerse en orden o por i
 5. [DE-LA-MODERNIDAD-A-LA-ESCENA-GLOBAL.md](./DE-LA-MODERNIDAD-A-LA-ESCENA-GLOBAL.md)
 6. [CIUDADES-Y-ESCENAS-CLAVE.md](./CIUDADES-Y-ESCENAS-CLAVE.md)
 7. [INDUSTRIA-MEDIOS-Y-FESTIVALES.md](./INDUSTRIA-MEDIOS-Y-FESTIVALES.md)
+8. [CRONOLOGIAS-POR-INSTRUMENTO-Y-ESCENA.md](./CRONOLOGIAS-POR-INSTRUMENTO-Y-ESCENA.md)
 
 ## Esquema visual rapido
 
@@ -61,6 +62,7 @@ Sirve para quien quiere entrar por ciudades, por cambios sociales o por momentos
 - con [../APRENDER-JAZZ-OYENDO-ALBUMES/README.md](../APRENDER-JAZZ-OYENDO-ALBUMES/README.md) para pasar de la historia al album
 - con [../RECURSOS-VISUALES/DIAGRAMAS-MERMAID.md](../RECURSOS-VISUALES/DIAGRAMAS-MERMAID.md) para ver la evolucion historica en mapas visuales
 - con [../RECURSOS-VISUALES/MAPAS-DE-CIUDADES-Y-ESCENAS.md](../RECURSOS-VISUALES/MAPAS-DE-CIUDADES-Y-ESCENAS.md) para entender la dimension geografica del jazz
+- con [../RECURSOS-VISUALES/MAPAS-DE-NEW-ORLEANS-CHICAGO-Y-NUEVA-YORK.md](../RECURSOS-VISUALES/MAPAS-DE-NEW-ORLEANS-CHICAGO-Y-NUEVA-YORK.md) para bajar la escala a tres ciudades esenciales
 - con [../CULTURA-JAZZ/SELLOS-MEDIOS-Y-ARCHIVOS.md](../CULTURA-JAZZ/SELLOS-MEDIOS-Y-ARCHIVOS.md) para profundizar la infraestructura cultural del jazz
 
 ## Que deberias aprender aqui

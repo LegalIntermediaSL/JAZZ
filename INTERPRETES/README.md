@@ -4,9 +4,15 @@
 
 Esta carpeta organiza el proyecto alrededor de musicos y musicas esenciales. Es util para quienes aprenden mejor siguiendo voces personales, comparando trayectorias y detectando como un artista cambia el lenguaje desde dentro. El jazz puede estudiarse por estilos o por periodos, pero seguir a los interpretes tiene una ventaja muy concreta: obliga a escuchar decisiones de sonido, de tiempo, de fraseo y de repertorio.
 
-La seccion tiene ahora dos capas. La primera son capitulos por familias instrumentales, pensados para leer con calma. La segunda es un mapa ampliado de consulta con muchos mas nombres, perfiles breves y enlaces directos a Wikipedia para ampliar datos biograficos y discograficos.
+La seccion tiene ahora varias capas. La primera son capitulos por familias instrumentales, pensados para leer con calma. La segunda es un mapa ampliado de consulta con muchos mas nombres, perfiles breves y enlaces directos a Wikipedia para ampliar datos biograficos y discograficos.
 
 Dentro de esa primera capa, [VOCES-ESENCIALES.md](./VOCES-ESENCIALES.md) funciona tambien como puerta al swing vocal, la balada, el vocalese y varias voces contemporaneas.
+
+Ahora se suma tambien una tercera herramienta muy practica: [DISCOGRAFIAS-GUIADAS.md](./DISCOGRAFIAS-GUIADAS.md), pensada para quienes ya reconocen nombres pero no saben por que discos seguir.
+
+Y se anade una cuarta capa de lectura: [RUTAS-POR-FAMILIAS-E-INFLUENCIAS.md](./RUTAS-POR-FAMILIAS-E-INFLUENCIAS.md), util para entender herencias, familias de escucha y genealogias flexibles.
+
+Ahora se suman ademas dos herramientas muy directas: [PERFILES-CORTOS-DE-ARTISTAS-ESENCIALES.md](./PERFILES-CORTOS-DE-ARTISTAS-ESENCIALES.md) para entradas rapidas y [RUTAS-DE-ESCUCHA-POR-FAMILIA.md](./RUTAS-DE-ESCUCHA-POR-FAMILIA.md) para seguir trios, big bands, jazz vocal o presente por familias de escucha.
 
 ## Por que conviene estudiar el jazz por interpretes
 
@@ -71,10 +77,14 @@ flowchart TD
 
 4. [GUITARRA-CLARINETE-Y-TROMBON.md](./GUITARRA-CLARINETE-Y-TROMBON.md)
 5. [GRANDES-LIDERES-Y-COMPOSITORES.md](./GRANDES-LIDERES-Y-COMPOSITORES.md)
+6. [DISCOGRAFIAS-GUIADAS.md](./DISCOGRAFIAS-GUIADAS.md)
+7. [RUTAS-POR-FAMILIAS-E-INFLUENCIAS.md](./RUTAS-POR-FAMILIAS-E-INFLUENCIAS.md)
+8. [RUTAS-DE-ESCUCHA-POR-FAMILIA.md](./RUTAS-DE-ESCUCHA-POR-FAMILIA.md)
+9. [PERFILES-CORTOS-DE-ARTISTAS-ESENCIALES.md](./PERFILES-CORTOS-DE-ARTISTAS-ESENCIALES.md)
 
 ### Ruta de consulta amplia
 
-6. [MAPA-AMPLIADO-DE-INTERPRETES.md](./MAPA-AMPLIADO-DE-INTERPRETES.md)
+10. [MAPA-AMPLIADO-DE-INTERPRETES.md](./MAPA-AMPLIADO-DE-INTERPRETES.md)
 
 Esta ruta funciona mejor cuando ya reconoces algunos nombres y quieres abrir puertas nuevas. Cada entrada incluye un enlace a Wikipedia, una escucha recomendada, una explicacion de por que importa y conexiones con otros artistas o estilos.
 
@@ -85,6 +95,10 @@ Esta ruta funciona mejor cuando ya reconoces algunos nombres y quieres abrir pue
 - [VOCES-ESENCIALES.md](./VOCES-ESENCIALES.md)
 - [GUITARRA-CLARINETE-Y-TROMBON.md](./GUITARRA-CLARINETE-Y-TROMBON.md)
 - [GRANDES-LIDERES-Y-COMPOSITORES.md](./GRANDES-LIDERES-Y-COMPOSITORES.md)
+- [DISCOGRAFIAS-GUIADAS.md](./DISCOGRAFIAS-GUIADAS.md)
+- [RUTAS-POR-FAMILIAS-E-INFLUENCIAS.md](./RUTAS-POR-FAMILIAS-E-INFLUENCIAS.md)
+- [RUTAS-DE-ESCUCHA-POR-FAMILIA.md](./RUTAS-DE-ESCUCHA-POR-FAMILIA.md)
+- [PERFILES-CORTOS-DE-ARTISTAS-ESENCIALES.md](./PERFILES-CORTOS-DE-ARTISTAS-ESENCIALES.md)
 - [MAPA-AMPLIADO-DE-INTERPRETES.md](./MAPA-AMPLIADO-DE-INTERPRETES.md)
 
 ## Criterios del mapa ampliado
@@ -167,5 +181,8 @@ Los enlaces a Wikipedia no sustituyen la escucha. Sirven como punto de partida p
 - reconocer personalidades musicales distintas
 - comparar interpretes del mismo instrumento sin reducirlos a jerarquias vacias
 - construir rutas de escucha centradas en artistas
+- pasar de un nombre admirado a una pequena discografia razonable y progresiva
+- seguir una linea de influencia sin confundir genealogia con copia
+- elegir mejor una puerta de entrada segun familia de escucha o nivel previo
 - relacionar biografia, sonido y contexto historico
 - entender que el jazz es historia colectiva, pero siempre atravesada por voces individuales

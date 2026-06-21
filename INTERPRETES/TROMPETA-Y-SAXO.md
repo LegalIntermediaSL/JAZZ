@@ -1,5 +1,7 @@
 # Trompeta y saxo
 
+Si despues de este capitulo quieres seguir por discografias mas ordenadas, consulta [DISCOGRAFIAS-GUIADAS.md](./DISCOGRAFIAS-GUIADAS.md).
+
 ## Por que empezar por estos instrumentos
 
 Para muchos oyentes, trompeta y saxo son las voces mas inmediatas del jazz. No porque sean mas importantes que la base ritmica o el piano, sino porque suelen llevar con claridad la melodia y el solo principal. Seguirlos ayuda a entrenar el oido y a identificar rapido diferencias de fraseo, ataque, registro, vibrato y construccion del discurso.

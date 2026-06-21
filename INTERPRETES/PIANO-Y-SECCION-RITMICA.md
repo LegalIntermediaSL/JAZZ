@@ -1,5 +1,7 @@
 # Piano y seccion ritmica
 
+Para continuar por rutas de discos concretos de varias de estas figuras, cruza este capitulo con [DISCOGRAFIAS-GUIADAS.md](./DISCOGRAFIAS-GUIADAS.md).
+
 ## Por que esta zona es decisiva
 
 Muchos oyentes principiantes escuchan sobre todo al solista y dejan en segundo plano el piano, el contrabajo o la bateria. Sin embargo, buena parte de la identidad del jazz nace precisamente aqui: en la forma de sostener el tiempo, construir la armonia y organizar el espacio del grupo. Entender estos instrumentos cambia por completo la escucha.

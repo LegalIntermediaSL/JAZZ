@@ -19,7 +19,9 @@ Un disco de jazz ensena cosas que una playlist no siempre deja ver:
 2. Pasa despues a [RUTA-DE-100-ALBUMES.md](./RUTA-DE-100-ALBUMES.md) si quieres una ruta larga y progresiva.
 3. Usa [COMO-ESCUCHAR-UN-ALBUM-DE-JAZZ.md](./COMO-ESCUCHAR-UN-ALBUM-DE-JAZZ.md) como metodo.
 4. Consulta [FICHAS-DE-ALBUMES-ESENCIALES.md](./FICHAS-DE-ALBUMES-ESENCIALES.md) si quieres perfiles mas guiados de discos concretos.
-5. Vuelve luego a [../ESTILOS/README.md](../ESTILOS/README.md) o [../INTERPRETES/README.md](../INTERPRETES/README.md) para profundizar.
+5. Usa [PRIMERAS-ESCUCHAS-POR-NIVEL.md](./PRIMERAS-ESCUCHAS-POR-NIVEL.md) si quieres ajustar la entrada al nivel real del oyente.
+6. Usa [../RUTAS-CRUZADAS-PARA-ESTUDIAR-JAZZ.md](../RUTAS-CRUZADAS-PARA-ESTUDIAR-JAZZ.md) si quieres convertir un disco en una ruta mas amplia.
+7. Vuelve luego a [../ESTILOS/README.md](../ESTILOS/README.md) o [../INTERPRETES/README.md](../INTERPRETES/README.md) para profundizar.
 
 ## Documentos de esta carpeta
 
@@ -27,6 +29,7 @@ Un disco de jazz ensena cosas que una playlist no siempre deja ver:
 - [RUTA-DE-100-ALBUMES.md](./RUTA-DE-100-ALBUMES.md)
 - [COMO-ESCUCHAR-UN-ALBUM-DE-JAZZ.md](./COMO-ESCUCHAR-UN-ALBUM-DE-JAZZ.md)
 - [FICHAS-DE-ALBUMES-ESENCIALES.md](./FICHAS-DE-ALBUMES-ESENCIALES.md)
+- [PRIMERAS-ESCUCHAS-POR-NIVEL.md](./PRIMERAS-ESCUCHAS-POR-NIVEL.md)
 
 ## Que deberias aprender aqui
 
@@ -34,6 +37,7 @@ Un disco de jazz ensena cosas que una playlist no siempre deja ver:
 - reconocer la personalidad de un grupo a lo largo de un disco
 - escuchar mejor la relacion entre composicion, improvisacion y sonido
 - formar criterio propio a traves de la repeticion
+- elegir mejor un album de entrada segun nivel y sensibilidad
 
 ## Dos formas de usar esta carpeta
 

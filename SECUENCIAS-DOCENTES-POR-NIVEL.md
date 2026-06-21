@@ -258,7 +258,65 @@ Ten siempre a mano [GLOSARIO-DE-TERMINOS-JAZZ.md](./GLOSARIO-DE-TERMINOS-JAZZ.md
 - [GLOSARIO-DE-TERMINOS-JAZZ.md](./GLOSARIO-DE-TERMINOS-JAZZ.md) para regular vocabulario
 - [TECNICA-Y-TEORIA-JAZZ/EJERCICIOS-PRACTICOS-DE-ESCUCHA.md](./TECNICA-Y-TEORIA-JAZZ/EJERCICIOS-PRACTICOS-DE-ESCUCHA.md) para secuencias tecnicas
 - [APRENDER-JAZZ-OYENDO-ALBUMES/FICHAS-DE-ALBUMES-ESENCIALES.md](./APRENDER-JAZZ-OYENDO-ALBUMES/FICHAS-DE-ALBUMES-ESENCIALES.md) para sesiones centradas en discos
+- [TECNICA-Y-TEORIA-JAZZ/COMPARACION-DE-VERSIONES-Y-BALADAS.md](./TECNICA-Y-TEORIA-JAZZ/COMPARACION-DE-VERSIONES-Y-BALADAS.md) para escucha comparada
+- [RUTAS-CRUZADAS-PARA-ESTUDIAR-JAZZ.md](./RUTAS-CRUZADAS-PARA-ESTUDIAR-JAZZ.md) para convertir un interes puntual en secuencia
+- [FICHAS-DE-ESCUCHA-PARA-CLASES-Y-CLUBES.md](./FICHAS-DE-ESCUCHA-PARA-CLASES-Y-CLUBES.md) para dinamicas concretas
+- [TECNICA-Y-TEORIA-JAZZ/SECUENCIAS-TECNICAS-GRADUADAS.md](./TECNICA-Y-TEORIA-JAZZ/SECUENCIAS-TECNICAS-GRADUADAS.md) para graduar dificultad tecnica
 
-## Idea final
+## 10. Ajustes por duracion
+
+### Si solo tienes 1 o 2 sesiones
+
+- elige una pregunta fuerte
+- usa pocas piezas completas
+- cierra con una recomendacion o una comparacion simple
+
+### Si tienes 4 o 5 sesiones
+
+- reparte historia, escucha, artistas y cierre
+- repite una misma obra en dos momentos distintos del proceso
+- introduce solo el vocabulario realmente necesario
+
+### Si tienes 6 o mas sesiones
+
+- combina una via historica con una via de repertorio
+- deja un producto final pequeno pero real
+- incorpora al menos una comparacion de versiones y una sesion de presente
+
+## 11. Contextos y productos finales posibles
+
+### Aula general
+
+- comentario comparativo corto
+- linea del tiempo minima
+- playlist comentada
+
+### Escuela de musica
+
+- ficha de standard
+- transcripcion cantada muy breve
+- mapa de forma y chorus
+
+### Club de escucha o mediacion cultural
+
+- diario de escucha
+- recomendacion oral argumentada
+- mapa de relaciones entre artistas y albumes
+
+### Centro cultural o biblioteca
+
+- cartel de sesion comentada
+- itinerario de escucha para casa
+- pequena guia de iniciacion para visitantes
+
+## 12. Criterios simples de evaluacion
+
+- reconoce contrastes entre dos piezas o dos versiones
+- describe con vocabulario ajustado y cada vez mas fino
+- situa al menos de forma basica una obra en una epoca, estilo o familia
+- relaciona artista, disco, lenguaje y contexto
+- justifica sus preferencias con observaciones, no solo con gusto inmediato
+
+## 13. Idea final
 
 Una buena secuencia docente no intenta demostrarlo todo. Intenta abrir una progresion real: escuchar, comparar, reconocer, volver a escuchar y salir con mas curiosidad de la que habia al entrar.

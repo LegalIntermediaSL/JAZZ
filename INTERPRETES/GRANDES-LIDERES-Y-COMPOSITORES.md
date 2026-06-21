@@ -1,5 +1,7 @@
 # Grandes lideres y compositores
 
+Para seguir a varias de estas figuras a traves de discos concretos, consulta tambien [DISCOGRAFIAS-GUIADAS.md](./DISCOGRAFIAS-GUIADAS.md).
+
 ## Por que esta seccion importa
 
 El jazz no es solo una historia de solistas. Muchas de sus grandes transformaciones nacen de personas que piensan el grupo, el repertorio, el arreglo o la arquitectura general de la musica. Algunos ademas son grandes improvisadores; otros destacan sobre todo por su capacidad de organizar un mundo sonoro.

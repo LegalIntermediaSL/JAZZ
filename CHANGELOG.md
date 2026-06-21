@@ -4,6 +4,53 @@ Todos los cambios importantes de este proyecto se registran en este archivo.
 
 El formato toma como referencia Keep a Changelog y utiliza fechas en estilo ISO `YYYY-MM-DD`.
 
+## [0.20.0] - 2026-06-20
+
+### Added
+
+- archivo `FICHAS-DE-ESCUCHA-PARA-CLASES-Y-CLUBES.md` con plantillas de trabajo para aula, clubes y mediacion cultural
+- archivo `ESTILOS/PRESENTE-DEL-JAZZ-Y-RUTAS-ACTUALES.md` con una capa especifica para el presente del jazz y sus escenas de referencia
+- archivos `INTERPRETES/PERFILES-CORTOS-DE-ARTISTAS-ESENCIALES.md` y `INTERPRETES/RUTAS-DE-ESCUCHA-POR-FAMILIA.md` para perfiles rapidos y rutas finas por trio, big band, jazz vocal, groove y presente
+- archivo `APRENDER-JAZZ-OYENDO-ALBUMES/PRIMERAS-ESCUCHAS-POR-NIVEL.md` con recomendaciones de entrada segun experiencia previa
+- archivo `HISTORIA-DEL-JAZZ/CRONOLOGIAS-POR-INSTRUMENTO-Y-ESCENA.md` con cronologias por instrumento y geografia
+- archivos `TECNICA-Y-TEORIA-JAZZ/FICHAS-TECNICAS-DE-STANDARDS-FRECUENTES.md` y `TECNICA-Y-TEORIA-JAZZ/SECUENCIAS-TECNICAS-GRADUADAS.md` para profundizar el trabajo tecnico por repertorio y por nivel
+- archivos `CULTURA-JAZZ/CONCIERTOS-HISTORICOS-Y-FILMACIONES-CLAVE.md`, `GRANDES-SELLOS-DEL-JAZZ.md`, `REVISTAS-RADIOS-Y-CRITICOS.md`, `ITINERARIOS-CULTURALES-DEL-JAZZ.md` y `ESCENAS-LOCALES-Y-CIRCUITOS-ACTUALES.md` para completar la capa cultural pendiente
+- archivos `RECURSOS-VISUALES/MAPAS-DE-NEW-ORLEANS-CHICAGO-Y-NUEVA-YORK.md`, `DIAGRAMAS-POR-ESTILO-Y-RUTA.md` y `GALERIAS-TEMATICAS-DE-DOMINIO-PUBLICO.md` para ampliar la infraestructura visual del proyecto
+
+### Changed
+
+- actualizacion fuerte de `README.md` para integrar todas las nuevas rutas, capas y documentos de cierre
+- actualizacion de `BITACORA.md` para reflejar que las ampliaciones opcionales y la bolsa de ideas fueron incorporadas
+- actualizacion de `ESTILOS/README.md`, `INTERPRETES/README.md`, `APRENDER-JAZZ-OYENDO-ALBUMES/README.md`, `TECNICA-Y-TEORIA-JAZZ/README.md`, `HISTORIA-DEL-JAZZ/README.md`, `CULTURA-JAZZ/README.md` y `RECURSOS-VISUALES/README.md` para integrar la nueva arquitectura ampliada
+- actualizacion de `USO-DOCENTE.md`, `SECUENCIAS-DOCENTES-POR-NIVEL.md`, `PLAYLISTS-JAZZ.md`, `RUTAS-CRUZADAS-PARA-ESTUDIAR-JAZZ.md`, `ESTILOS/MODAL-FREE-FUSION-Y-CONTEMPORANEO.md`, `SELLOS-MEDIOS-Y-ARCHIVOS.md` y `LIBROS-DOCUMENTALES-Y-MEDIOS.md` para reforzar cruces, presente, docencia y cultura
+
+## [0.19.0] - 2026-06-20
+
+### Added
+
+- archivo `RUTAS-CRUZADAS-PARA-ESTUDIAR-JAZZ.md` con un indice transversal para conectar historia, estilos, artistas, albumes, tecnica y docencia
+- archivo `INTERPRETES/RUTAS-POR-FAMILIAS-E-INFLUENCIAS.md` con genealogias de escucha, rutas por familias y puertas al presente
+- archivo `TECNICA-Y-TEORIA-JAZZ/COMPARACION-DE-VERSIONES-Y-BALADAS.md` con practica guiada de escucha comparada, standards y baladas
+
+### Changed
+
+- actualizacion de `README.md` para integrar el nuevo indice cruzado, las nuevas rutas de interpretes y la nueva capa tecnica aplicada
+- actualizacion de `INTERPRETES/README.md`, `DISCOGRAFIAS-GUIADAS.md` y `APRENDER-JAZZ-OYENDO-ALBUMES/README.md` para mejorar las transiciones entre artistas, discos y familias de escucha
+- actualizacion de `TECNICA-Y-TEORIA-JAZZ/README.md` y `FICHAS-DE-STANDARDS-CLAVE.md` para integrar comparacion de versiones y baladas
+- actualizacion de `USO-DOCENTE.md`, `SECUENCIAS-DOCENTES-POR-NIVEL.md` y `BITACORA.md` para reforzar duraciones, contextos y cierre editorial del proyecto
+
+## [0.18.0] - 2026-06-20
+
+### Added
+
+- archivo `INTERPRETES/DISCOGRAFIAS-GUIADAS.md` con rutas cortas y medias por artista para profundizar sin perderse
+
+### Changed
+
+- actualizacion de `INTERPRETES/README.md`, `TROMPETA-Y-SAXO.md`, `PIANO-Y-SECCION-RITMICA.md` y `GRANDES-LIDERES-Y-COMPOSITORES.md` para enlazar la nueva capa de discografias
+- actualizacion de `APRENDER-JAZZ-OYENDO-ALBUMES/FICHAS-DE-ALBUMES-ESENCIALES.md` y `README.md` para conectar discos concretos con trayectorias de artista
+- actualizacion de `BITACORA.md` para reflejar la ampliacion de rutas por interpretes
+
 ## [0.17.0] - 2026-06-20
 
 ### Added

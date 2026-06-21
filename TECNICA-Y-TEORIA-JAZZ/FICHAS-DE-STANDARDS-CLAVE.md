@@ -2,7 +2,7 @@
 
 Este documento no pretende fijar "la version definitiva" de ningun standard. Su funcion es otra: ofrecer puertas de entrada para estudiar forma, armonia, fraseo y escucha comparada a traves de algunas composiciones muy utiles.
 
-Para trabajar estas fichas con mas metodo, combina su lectura con [EJERCICIOS-PRACTICOS-DE-ESCUCHA.md](./EJERCICIOS-PRACTICOS-DE-ESCUCHA.md) y [../RECURSOS-VISUALES/FORMAS-STANDARDS-Y-PROGRESIONES.md](../RECURSOS-VISUALES/FORMAS-STANDARDS-Y-PROGRESIONES.md).
+Para trabajar estas fichas con mas metodo, combina su lectura con [EJERCICIOS-PRACTICOS-DE-ESCUCHA.md](./EJERCICIOS-PRACTICOS-DE-ESCUCHA.md), [COMPARACION-DE-VERSIONES-Y-BALADAS.md](./COMPARACION-DE-VERSIONES-Y-BALADAS.md) y [../RECURSOS-VISUALES/FORMAS-STANDARDS-Y-PROGRESIONES.md](../RECURSOS-VISUALES/FORMAS-STANDARDS-Y-PROGRESIONES.md).
 
 ## 1. Como usar una ficha de standard
 
