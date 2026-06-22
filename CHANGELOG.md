@@ -4,6 +4,34 @@ Todos los cambios importantes de este proyecto se registran en este archivo.
 
 El formato toma como referencia Keep a Changelog y utiliza fechas en estilo ISO `YYYY-MM-DD`.
 
+## [0.22.0] - 2026-06-22
+
+### Added
+
+- archivo `.github/workflows/docs.yml` para validar la documentacion en `pull_request` y desplegarla en GitHub Pages desde `main`
+- archivo `Makefile` con atajos `docs-sync`, `docs-build`, `docs-serve` y `docs-clean`
+
+### Changed
+
+- ampliacion de `README.md` con instrucciones de publicacion en GitHub Pages y atajos locales de uso
+- actualizacion de `BITACORA.md` para reflejar la nueva capa de automatizacion y despliegue
+
+## [0.21.0] - 2026-06-21
+
+### Added
+
+- archivo `mkdocs.yml` con navegacion completa y tema Material para visualizar el repositorio como sitio web
+- archivo `requirements-docs.txt` con la dependencia principal de documentacion
+- archivo `scripts/sync_mkdocs_docs.sh` para sincronizar `docs/` mediante enlaces simbolicos
+- archivo `docs/assets/stylesheets/extra.css` con una capa visual propia para la web local
+- archivo `.gitignore` para excluir `site/`, `.venv-docs/` y artefactos locales de sistema
+
+### Changed
+
+- actualizacion de `README.md` con instrucciones de visualizacion web y compilacion estricta
+- actualizacion de `BITACORA.md` para reflejar la auditoria de calidad y la nueva capa de publicacion local
+- verificacion general del corpus Markdown para confirmar que los enlaces locales y los encabezados principales estan en buen estado
+
 ## [0.20.0] - 2026-06-20
 
 ### Added

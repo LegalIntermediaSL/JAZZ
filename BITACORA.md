@@ -37,6 +37,7 @@ En su estado presente, el proyecto cubre:
 - una capa visual ampliada con mapas urbanos concretos, diagramas por ruta y galerias tematicas
 - una seleccion de artistas, canciones y albumes esenciales
 - una capa docente con guia general, secuencias por nivel, variantes por duracion y criterios suaves de evaluacion
+- una capa de visualizacion web local con MkDocs Material para recorrer el proyecto como sitio navegable
 - documentacion de proceso mediante bitacora y changelog
 
 ## Decisiones editoriales
@@ -48,6 +49,23 @@ En su estado presente, el proyecto cubre:
 - separar la portada del tutorial principal para hacer el repositorio mas escalable
 
 ## Registro de avances
+
+### 2026-06-21
+
+- se realizo una revision general de calidad del repositorio y se verifico que no hubiera enlaces Markdown locales rotos ni documentos sin encabezado principal
+- se creo `mkdocs.yml` con navegacion completa para visualizar el proyecto como web usando MkDocs Material
+- se anadieron `.gitignore` y `requirements-docs.txt` para separar la salida generada del entorno de documentacion
+- se creo `scripts/sync_mkdocs_docs.sh` para sincronizar la carpeta `docs/` mediante enlaces simbolicos sin duplicar el corpus principal
+- se anadio `docs/assets/stylesheets/extra.css` para dar una capa visual sobria y coherente con el tono editorial del proyecto
+- se actualizo `README.md` con instrucciones de visualizacion web y compilacion estricta
+- se actualizo esta `BITACORA.md` y `CHANGELOG.md` para reflejar la nueva fase de publicacion y mantenimiento
+
+### 2026-06-22
+
+- se anadio `.github/workflows/docs.yml` para validar la documentacion en GitHub Actions y dejar preparado el despliegue automatico en GitHub Pages desde `main`
+- se creo `Makefile` con atajos para sincronizar, compilar, servir y limpiar la capa web local
+- se amplio `README.md` con instrucciones especificas para activar `Pages` en modo `GitHub Actions`
+- se mantuvo la verificacion estricta de MkDocs para que la automatizacion publique exactamente la misma salida que se comprueba en local
 
 ### 2026-06-20
 
@@ -144,4 +162,4 @@ En su estado presente, el proyecto cubre:
 
 ## Proximo hito sugerido
 
-El nucleo del proyecto ya esta cubierto y la gran bolsa de ampliaciones quedo incorporada. El siguiente hito natural es una fase de mantenimiento: revisar enlaces, pulir repeticiones, actualizar el presente del jazz y sostener la coherencia editorial con el tiempo.
+El nucleo del proyecto ya esta cubierto y ahora tambien dispone de una capa web local y una ruta clara de publicacion automatizable. El siguiente hito natural es una fase de mantenimiento sostenido: revisar periodicamente la escena contemporanea, pulir redundancias menores, afinar la presentacion web si conviene y decidir si interesa activar un dominio propio o mantener la publicacion en Pages tal como esta.

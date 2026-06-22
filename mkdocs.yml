@@ -1,0 +1,154 @@
+site_name: JAZZ
+site_description: Biblioteca documental para estudiar, escuchar y recorrer el jazz.
+repo_url: https://github.com/LegalIntermediaSL/JAZZ
+repo_name: LegalIntermediaSL/JAZZ
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  language: es
+  font:
+    text: IBM Plex Sans
+    code: IBM Plex Mono
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - scheme: default
+      primary: black
+      accent: amber
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+
+plugins:
+  - search
+
+validation:
+  nav:
+    omitted_files: warn
+    not_found: warn
+  links:
+    not_found: warn
+    anchors: warn
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+nav:
+  - Inicio: README.md
+  - Guia general:
+      - Tutorial de inicio: GUIA-JAZZ.md
+      - Cronologia comentada: CRONOLOGIA-JAZZ.md
+      - Playlists guiadas: PLAYLISTS-JAZZ.md
+      - Glosario: GLOSARIO-DE-TERMINOS-JAZZ.md
+      - Rutas cruzadas: RUTAS-CRUZADAS-PARA-ESTUDIAR-JAZZ.md
+  - Docencia:
+      - Uso docente: USO-DOCENTE.md
+      - Secuencias por nivel: SECUENCIAS-DOCENTES-POR-NIVEL.md
+      - Fichas de escucha: FICHAS-DE-ESCUCHA-PARA-CLASES-Y-CLUBES.md
+  - Historia:
+      - Panorama: HISTORIA-DEL-JAZZ/README.md
+      - Origenes y New Orleans: HISTORIA-DEL-JAZZ/ORIGENES-Y-NEW-ORLEANS.md
+      - Chicago, Harlem y Gran Migracion: HISTORIA-DEL-JAZZ/CHICAGO-HARLEM-Y-LA-GRAN-MIGRACION.md
+      - Del swing al bebop: HISTORIA-DEL-JAZZ/DEL-SWING-AL-BEBOP.md
+      - Derechos civiles, jazz espiritual y vanguardia: HISTORIA-DEL-JAZZ/DERECHOS-CIVILES-JAZZ-ESPIRITUAL-Y-VANGUARDIA.md
+      - De la modernidad a la escena global: HISTORIA-DEL-JAZZ/DE-LA-MODERNIDAD-A-LA-ESCENA-GLOBAL.md
+      - Ciudades y escenas clave: HISTORIA-DEL-JAZZ/CIUDADES-Y-ESCENAS-CLAVE.md
+      - Industria, medios y festivales: HISTORIA-DEL-JAZZ/INDUSTRIA-MEDIOS-Y-FESTIVALES.md
+      - Cronologias por instrumento y escena: HISTORIA-DEL-JAZZ/CRONOLOGIAS-POR-INSTRUMENTO-Y-ESCENA.md
+  - Estilos:
+      - Panorama: ESTILOS/README.md
+      - Origen, swing y big bands: ESTILOS/ORIGEN-SWING-Y-BIG-BANDS.md
+      - Bebop, cool y hard bop: ESTILOS/BEBOP-COOL-Y-HARD-BOP.md
+      - Jazz latino, bossa y afrocubano: ESTILOS/JAZZ-LATINO-BOSSA-Y-AFROCUBANO.md
+      - Modal, free, fusion y contemporaneo: ESTILOS/MODAL-FREE-FUSION-Y-CONTEMPORANEO.md
+      - Presente del jazz y rutas actuales: ESTILOS/PRESENTE-DEL-JAZZ-Y-RUTAS-ACTUALES.md
+  - Interpretes:
+      - Panorama: INTERPRETES/README.md
+      - Perfiles cortos: INTERPRETES/PERFILES-CORTOS-DE-ARTISTAS-ESENCIALES.md
+      - Trompeta y saxo: INTERPRETES/TROMPETA-Y-SAXO.md
+      - Piano y seccion ritmica: INTERPRETES/PIANO-Y-SECCION-RITMICA.md
+      - Voces esenciales: INTERPRETES/VOCES-ESENCIALES.md
+      - Guitarra, clarinete y trombon: INTERPRETES/GUITARRA-CLARINETE-Y-TROMBON.md
+      - Grandes lideres y compositores: INTERPRETES/GRANDES-LIDERES-Y-COMPOSITORES.md
+      - Mapa ampliado de interpretes: INTERPRETES/MAPA-AMPLIADO-DE-INTERPRETES.md
+      - Discografias guiadas: INTERPRETES/DISCOGRAFIAS-GUIADAS.md
+      - Familias e influencias: INTERPRETES/RUTAS-POR-FAMILIAS-E-INFLUENCIAS.md
+      - Rutas de escucha por familia: INTERPRETES/RUTAS-DE-ESCUCHA-POR-FAMILIA.md
+  - Albumes:
+      - Panorama: APRENDER-JAZZ-OYENDO-ALBUMES/README.md
+      - Ruta de 10 albumes: APRENDER-JAZZ-OYENDO-ALBUMES/RUTA-DE-10-ALBUMES.md
+      - Primeras escuchas por nivel: APRENDER-JAZZ-OYENDO-ALBUMES/PRIMERAS-ESCUCHAS-POR-NIVEL.md
+      - Como escuchar un album: APRENDER-JAZZ-OYENDO-ALBUMES/COMO-ESCUCHAR-UN-ALBUM-DE-JAZZ.md
+      - Fichas de albumes esenciales: APRENDER-JAZZ-OYENDO-ALBUMES/FICHAS-DE-ALBUMES-ESENCIALES.md
+      - Ruta de 100 albumes: APRENDER-JAZZ-OYENDO-ALBUMES/RUTA-DE-100-ALBUMES.md
+  - Tecnica:
+      - Panorama: TECNICA-Y-TEORIA-JAZZ/README.md
+      - Ritmo, swing y fraseo: TECNICA-Y-TEORIA-JAZZ/RITMO-SWING-Y-FRASEO.md
+      - Estructuras, formas y standards: TECNICA-Y-TEORIA-JAZZ/ESTRUCTURAS-FORMAS-Y-STANDARDS.md
+      - Armonia, escalas y modos: TECNICA-Y-TEORIA-JAZZ/ARMONIA-ESCALAS-Y-MODOS.md
+      - Improvisacion y lenguaje: TECNICA-Y-TEORIA-JAZZ/IMPROVISACION-Y-LENGUAJE.md
+      - Ejercicios practicos de escucha: TECNICA-Y-TEORIA-JAZZ/EJERCICIOS-PRACTICOS-DE-ESCUCHA.md
+      - Fichas de standards clave: TECNICA-Y-TEORIA-JAZZ/FICHAS-DE-STANDARDS-CLAVE.md
+      - Comparacion de versiones y baladas: TECNICA-Y-TEORIA-JAZZ/COMPARACION-DE-VERSIONES-Y-BALADAS.md
+      - Fichas tecnicas de standards frecuentes: TECNICA-Y-TEORIA-JAZZ/FICHAS-TECNICAS-DE-STANDARDS-FRECUENTES.md
+      - Secuencias tecnicas graduadas: TECNICA-Y-TEORIA-JAZZ/SECUENCIAS-TECNICAS-GRADUADAS.md
+  - Cultura:
+      - Panorama: CULTURA-JAZZ/README.md
+      - Anecdotas y detalles: CULTURA-JAZZ/ANECDOTAS-Y-DETALLES.md
+      - Lugares, clubes y ciudades: CULTURA-JAZZ/LUGARES-CLUBES-Y-CIUDADES.md
+      - Jazz y cine: CULTURA-JAZZ/JAZZ-Y-CINE.md
+      - Libros, documentales y medios: CULTURA-JAZZ/LIBROS-DOCUMENTALES-Y-MEDIOS.md
+      - Conciertos historicos y filmaciones clave: CULTURA-JAZZ/CONCIERTOS-HISTORICOS-Y-FILMACIONES-CLAVE.md
+      - Sellos, medios y archivos: CULTURA-JAZZ/SELLOS-MEDIOS-Y-ARCHIVOS.md
+      - Grandes sellos del jazz: CULTURA-JAZZ/GRANDES-SELLOS-DEL-JAZZ.md
+      - Revistas, radios y criticos: CULTURA-JAZZ/REVISTAS-RADIOS-Y-CRITICOS.md
+      - Fotografia, prensa y portadas: CULTURA-JAZZ/FOTOGRAFIA-PRENSA-Y-PORTADAS.md
+      - Influencia en otras artes: CULTURA-JAZZ/INFLUENCIA-EN-OTRAS-ARTES.md
+      - Itinerarios culturales del jazz: CULTURA-JAZZ/ITINERARIOS-CULTURALES-DEL-JAZZ.md
+      - Escenas locales y circuitos actuales: CULTURA-JAZZ/ESCENAS-LOCALES-Y-CIRCUITOS-ACTUALES.md
+      - Personas que aman el jazz: CULTURA-JAZZ/PERSONAS-QUE-AMAN-EL-JAZZ.md
+  - Recursos visuales:
+      - Panorama: RECURSOS-VISUALES/README.md
+      - Diagramas Mermaid: RECURSOS-VISUALES/DIAGRAMAS-MERMAID.md
+      - Diagramas por estilo y ruta: RECURSOS-VISUALES/DIAGRAMAS-POR-ESTILO-Y-RUTA.md
+      - Mapas de ciudades y escenas: RECURSOS-VISUALES/MAPAS-DE-CIUDADES-Y-ESCENAS.md
+      - Mapas de New Orleans, Chicago y Nueva York: RECURSOS-VISUALES/MAPAS-DE-NEW-ORLEANS-CHICAGO-Y-NUEVA-YORK.md
+      - Formas, standards y progresiones: RECURSOS-VISUALES/FORMAS-STANDARDS-Y-PROGRESIONES.md
+      - Esquemas explicativos: RECURSOS-VISUALES/ESQUEMAS-EXPLICATIVOS.md
+      - Imagenes de dominio publico: RECURSOS-VISUALES/IMAGENES-DOMINIO-PUBLICO.md
+      - Galerias tematicas de dominio publico: RECURSOS-VISUALES/GALERIAS-TEMATICAS-DE-DOMINIO-PUBLICO.md
+  - Proyecto:
+      - Bitacora: BITACORA.md
+      - Changelog: CHANGELOG.md

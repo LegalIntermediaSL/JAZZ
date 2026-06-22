@@ -322,6 +322,46 @@ JAZZ/
 |- LICENSE
 ```
 
+La capa web local se apoya en `mkdocs.yml`, `requirements-docs.txt`, `scripts/sync_mkdocs_docs.sh` y la carpeta `docs/`, que actua como espejo de lectura para MkDocs Material sin duplicar el contenido base.
+
+## Visualizacion web
+
+El repositorio puede leerse como una web local con MkDocs Material. La configuracion esta pensada para reaprovechar todos los Markdown existentes y conservar sus enlaces internos.
+
+```bash
+python3 -m venv .venv-docs
+source .venv-docs/bin/activate
+python -m pip install -r requirements-docs.txt
+bash scripts/sync_mkdocs_docs.sh
+mkdocs serve
+```
+
+Tambien puedes usar los atajos definidos en `Makefile`:
+
+```bash
+make docs-serve
+make docs-build
+```
+
+Si quieres comprobar la compilacion completa antes de publicar o compartir cambios, usa:
+
+```bash
+bash scripts/sync_mkdocs_docs.sh
+mkdocs build --strict
+```
+
+### Publicacion en GitHub Pages
+
+El repositorio queda preparado para publicar la documentacion con GitHub Pages mediante GitHub Actions. El flujo esta definido en `.github/workflows/docs.yml`, valida la documentacion en `pull_request` y `push`, y despliega automaticamente en `main`.
+
+Para activarlo en GitHub:
+
+1. Entra en la configuracion del repositorio.
+2. Abre la seccion `Pages`.
+3. En `Build and deployment`, selecciona `GitHub Actions` como fuente.
+
+Una vez activado, cada cambio en `main` reconstruira y publicara la web sin necesidad de mantener una rama `gh-pages` manual.
+
 ## Una advertencia util
 
 El jazz puede intimidar cuando se presenta como un examen de erudicion. Este repositorio intenta evitar exactamente eso. Aprender jazz no consiste en demostrar que conoces cien nombres, sino en desarrollar una escucha cada vez mas atenta y mas disfrutable.
