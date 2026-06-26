@@ -45,6 +45,33 @@ Sirve para quien quiere un relato historico continuo.
 
 Sirve para quien quiere entrar por ciudades, por cambios sociales o por momentos de transformacion musical.
 
+## Rutas recomendadas dentro de historia
+
+### Si empiezas desde cero
+
+1. [ORIGENES-Y-NEW-ORLEANS.md](./ORIGENES-Y-NEW-ORLEANS.md)
+2. [CHICAGO-HARLEM-Y-LA-GRAN-MIGRACION.md](./CHICAGO-HARLEM-Y-LA-GRAN-MIGRACION.md)
+3. [DEL-SWING-AL-BEBOP.md](./DEL-SWING-AL-BEBOP.md)
+
+### Si quieres entender la modernidad del jazz
+
+1. [DEL-SWING-AL-BEBOP.md](./DEL-SWING-AL-BEBOP.md)
+2. [DERECHOS-CIVILES-JAZZ-ESPIRITUAL-Y-VANGUARDIA.md](./DERECHOS-CIVILES-JAZZ-ESPIRITUAL-Y-VANGUARDIA.md)
+3. [DE-LA-MODERNIDAD-A-LA-ESCENA-GLOBAL.md](./DE-LA-MODERNIDAD-A-LA-ESCENA-GLOBAL.md)
+
+### Si prefieres pensar por ciudades
+
+1. [CHICAGO-HARLEM-Y-LA-GRAN-MIGRACION.md](./CHICAGO-HARLEM-Y-LA-GRAN-MIGRACION.md)
+2. [CIUDADES-Y-ESCENAS-CLAVE.md](./CIUDADES-Y-ESCENAS-CLAVE.md)
+3. [CRONOLOGIAS-POR-INSTRUMENTO-Y-ESCENA.md](./CRONOLOGIAS-POR-INSTRUMENTO-Y-ESCENA.md)
+
+## Cautelas utiles al leer historia del jazz
+
+- no todo cambio de estilo es brusco ni total
+- varias escenas conviven durante largos periodos
+- una ciudad central no borra otras periferias creativas
+- los nombres canonicos importan, pero no explican solos el proceso completo
+
 ## Preguntas que intenta responder
 
 - como pasa el jazz de practica local a lenguaje global
@@ -71,3 +98,7 @@ Sirve para quien quiere entrar por ciudades, por cambios sociales o por momentos
 - relacionar cambios musicales con contextos historicos
 - entender por que una misma musica puede sonar muy distinta segun ciudad, epoca y escena
 - leer el jazz no solo como estilo, sino como historia cultural
+
+## Idea final
+
+La historia del jazz sirve menos para memorizar fechas que para aprender a oir procesos: desplazamientos, conflictos, continuidades, rupturas y formas nuevas de comunidad musical.

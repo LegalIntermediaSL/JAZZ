@@ -6,6 +6,7 @@ ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 DOCS_DIR="$ROOT_DIR/docs"
 
 mkdir -p "$DOCS_DIR/assets/stylesheets"
+find "$DOCS_DIR" -maxdepth 1 \( -name '* [0-9]' -o -name '* [0-9].*' \) -exec rm -rf {} +
 
 remove_duplicate_variants() {
   local destination_name="$1"

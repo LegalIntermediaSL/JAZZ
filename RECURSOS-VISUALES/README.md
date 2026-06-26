@@ -28,6 +28,26 @@ Esta carpeta reune materiales visuales para entender el jazz de forma mas rapida
 
 Los diagramas de formas funcionan especialmente bien si los cruzas con [../TECNICA-Y-TEORIA-JAZZ/EJERCICIOS-PRACTICOS-DE-ESCUCHA.md](../TECNICA-Y-TEORIA-JAZZ/EJERCICIOS-PRACTICOS-DE-ESCUCHA.md) y [../TECNICA-Y-TEORIA-JAZZ/FICHAS-DE-STANDARDS-CLAVE.md](../TECNICA-Y-TEORIA-JAZZ/FICHAS-DE-STANDARDS-CLAVE.md).
 
+## Rutas visuales recomendadas
+
+### Si empiezas desde cero
+
+1. [DIAGRAMAS-MERMAID.md](./DIAGRAMAS-MERMAID.md)
+2. [DIAGRAMAS-POR-ESTILO-Y-RUTA.md](./DIAGRAMAS-POR-ESTILO-Y-RUTA.md)
+3. [MAPAS-DE-CIUDADES-Y-ESCENAS.md](./MAPAS-DE-CIUDADES-Y-ESCENAS.md)
+
+### Si estas estudiando historia
+
+1. [MAPAS-DE-CIUDADES-Y-ESCENAS.md](./MAPAS-DE-CIUDADES-Y-ESCENAS.md)
+2. [MAPAS-DE-NEW-ORLEANS-CHICAGO-Y-NUEVA-YORK.md](./MAPAS-DE-NEW-ORLEANS-CHICAGO-Y-NUEVA-YORK.md)
+3. [DIAGRAMAS-POR-ESTILO-Y-RUTA.md](./DIAGRAMAS-POR-ESTILO-Y-RUTA.md)
+
+### Si estas trabajando clase o taller
+
+1. [ESQUEMAS-EXPLICATIVOS.md](./ESQUEMAS-EXPLICATIVOS.md)
+2. [DIAGRAMAS-POR-ESTILO-Y-RUTA.md](./DIAGRAMAS-POR-ESTILO-Y-RUTA.md)
+3. [GALERIAS-TEMATICAS-DE-DOMINIO-PUBLICO.md](./GALERIAS-TEMATICAS-DE-DOMINIO-PUBLICO.md)
+
 ## Criterio editorial
 
 Los diagramas estan pensados para aclarar relaciones, no para simplificar en exceso. El jazz no avanza como una linea recta: muchas escenas conviven, se cruzan y vuelven transformadas. Por eso los esquemas deben leerse como mapas de orientacion, no como leyes historicas cerradas.

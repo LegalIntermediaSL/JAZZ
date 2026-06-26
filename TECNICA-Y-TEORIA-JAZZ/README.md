@@ -14,6 +14,26 @@ Esta seccion explica conceptos tecnicos del jazz sin convertirlos en un muro de 
 6. Cierra con comparacion de versiones y baladas para convertir vocabulario en oido real.
 7. Usa las fichas tecnicas y las secuencias graduadas si quieres un recorrido mas escalonado.
 
+## Rutas segun perfil
+
+### Si te asusta la teoria
+
+1. [RITMO-SWING-Y-FRASEO.md](./RITMO-SWING-Y-FRASEO.md)
+2. [ESTRUCTURAS-FORMAS-Y-STANDARDS.md](./ESTRUCTURAS-FORMAS-Y-STANDARDS.md)
+3. [EJERCICIOS-PRACTICOS-DE-ESCUCHA.md](./EJERCICIOS-PRACTICOS-DE-ESCUCHA.md)
+
+### Si ya tocas algo pero quieres oir mejor
+
+1. [ARMONIA-ESCALAS-Y-MODOS.md](./ARMONIA-ESCALAS-Y-MODOS.md)
+2. [FICHAS-DE-STANDARDS-CLAVE.md](./FICHAS-DE-STANDARDS-CLAVE.md)
+3. [COMPARACION-DE-VERSIONES-Y-BALADAS.md](./COMPARACION-DE-VERSIONES-Y-BALADAS.md)
+
+### Si quieres un recorrido mas guiado
+
+1. [SECUENCIAS-TECNICAS-GRADUADAS.md](./SECUENCIAS-TECNICAS-GRADUADAS.md)
+2. [FICHAS-TECNICAS-DE-STANDARDS-FRECUENTES.md](./FICHAS-TECNICAS-DE-STANDARDS-FRECUENTES.md)
+3. [IMPROVISACION-Y-LENGUAJE.md](./IMPROVISACION-Y-LENGUAJE.md)
+
 ## Esquema visual rapido
 
 ```mermaid
@@ -63,3 +83,15 @@ flowchart TD
 ## Nota importante
 
 La teoria en jazz no deberia apagar la escucha. Debe hacer lo contrario: darte mas formas de oir.
+
+## Habitos utiles
+
+- trabaja pocos conceptos cada vez
+- escucha el mismo ejemplo varias veces antes de pasar a otro
+- alterna lectura, escucha y comparacion
+- usa standards concretos para no perderte en abstracciones
+- vuelve al glosario si una palabra tecnica te frena
+
+## Idea final
+
+La tecnica solo vale de verdad cuando vuelve al oido. Si despues de leer esta carpeta escuchas con mas claridad, el objetivo esta cumplido.

@@ -50,6 +50,15 @@ En su estado presente, el proyecto cubre:
 
 ## Registro de avances
 
+### 2026-06-26
+
+- se realizo una verificacion editorial del corpus Markdown para detectar enlaces rotos, documentos descompensados y zonas que habian quedado mas breves que el resto del proyecto
+- se confirmo que no hay enlaces Markdown locales rotos en el corpus principal
+- se ampliaron `CULTURA-JAZZ/JAZZ-Y-CINE.md`, `CULTURA-JAZZ/INFLUENCIA-EN-OTRAS-ARTES.md`, `CULTURA-JAZZ/PERSONAS-QUE-AMAN-EL-JAZZ.md` y `HISTORIA-DEL-JAZZ/CIUDADES-Y-ESCENAS-CLAVE.md` para equilibrar la profundidad de esas areas con el resto del repositorio
+- se reforzo `scripts/sync_mkdocs_docs.sh` para limpiar duplicados numerados en `docs/` y evitar ruido editorial en la capa web
+- se dio una segunda pasada de ampliacion centrada en `RECURSOS-VISUALES/DIAGRAMAS-POR-ESTILO-Y-RUTA.md`, `GALERIAS-TEMATICAS-DE-DOMINIO-PUBLICO.md`, `MAPAS-DE-NEW-ORLEANS-CHICAGO-Y-NUEVA-YORK.md` y `RECURSOS-VISUALES/README.md` para volver la capa visual mas util en estudio, docencia y navegacion
+- se cerro una tercera pasada de cohesion editorial sobre `CULTURA-JAZZ/README.md`, `RECURSOS-VISUALES/ESQUEMAS-EXPLICATIVOS.md`, `HISTORIA-DEL-JAZZ/README.md` y `TECNICA-Y-TEORIA-JAZZ/README.md` para mejorar rutas de entrada, usos y continuidad entre capas
+
 ### 2026-06-21
 
 - se realizo una revision general de calidad del repositorio y se verifico que no hubiera enlaces Markdown locales rotos ni documentos sin encabezado principal

@@ -4,6 +4,18 @@ Todos los cambios importantes de este proyecto se registran en este archivo.
 
 El formato toma como referencia Keep a Changelog y utiliza fechas en estilo ISO `YYYY-MM-DD`.
 
+## [0.23.0] - 2026-06-26
+
+### Changed
+
+- ampliacion de `CULTURA-JAZZ/JAZZ-Y-CINE.md` con nuevas categorias de analisis, mas obras de referencia, riesgos habituales y cruces internos
+- ampliacion de `CULTURA-JAZZ/INFLUENCIA-EN-OTRAS-ARTES.md` para reforzar literatura, fotografia, teatro, criterios de lectura y ruta de exploracion
+- ampliacion de `CULTURA-JAZZ/PERSONAS-QUE-AMAN-EL-JAZZ.md` para convertirlo en una galeria cultural mas explicada y util
+- ampliacion de `HISTORIA-DEL-JAZZ/CIUDADES-Y-ESCENAS-CLAVE.md` con claves de lectura por ciudad y criterios generales para analizar escenas
+- ampliacion de `RECURSOS-VISUALES/DIAGRAMAS-POR-ESTILO-Y-RUTA.md`, `GALERIAS-TEMATICAS-DE-DOMINIO-PUBLICO.md`, `MAPAS-DE-NEW-ORLEANS-CHICAGO-Y-NUEVA-YORK.md` y `RECURSOS-VISUALES/README.md` para reforzar la capa visual y didactica del proyecto
+- ampliacion de `CULTURA-JAZZ/README.md`, `RECURSOS-VISUALES/ESQUEMAS-EXPLICATIVOS.md`, `HISTORIA-DEL-JAZZ/README.md` y `TECNICA-Y-TEORIA-JAZZ/README.md` para cerrar la cohesion de rutas, usos y entradas al proyecto
+- mejora de `scripts/sync_mkdocs_docs.sh` para eliminar duplicados numerados de `docs/` antes de regenerar la capa de MkDocs
+
 ## [0.22.0] - 2026-06-22
 
 ### Added
